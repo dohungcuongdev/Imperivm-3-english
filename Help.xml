@@ -288,7 +288,7 @@ When a new objective is given a note appears in the notes window. Consequentiall
     <topic id="units">
       <!--Republican Rome Units-->
       <entry hcenter="1" font="large">Republican Rome Units</entry>
-      <entry vcenter="1" image="UI/icons/MHero1.bmp" link="RHero">Hero</entry>
+      <entry vcenter="1" image="UI/icons/MHero1.bmp" link="RHero">Republican Rome Hero</entry>
       <entry vcenter="1" image="UI/icons/RHastatus.bmp" link="RHastatus">Hastatus</entry>
       <entry vcenter="1" image="UI/icons/RArcher.bmp" link="RArcher">Archer</entry>
       <entry vcenter="1" image="UI/icons/RGladiator.bmp" link="RGladiator">Gladiator</entry>
@@ -299,7 +299,7 @@ When a new objective is given a note appears in the notes window. Consequentiall
       <entry vcenter="1" image="UI/icons/RPriest.bmp" link="RPriest">Priest</entry>
       <!--Imperial Rome Units-->
       <entry hcenter="1" font="large">Imperial Rome Units</entry>
-      <entry vcenter="1" image="UI/icons/MHero2.bmp" link="MHero">Hero</entry>
+      <entry vcenter="1" image="UI/icons/MHero2.bmp" link="MHero">Imperial Rome Hero</entry>
       <entry vcenter="1" image="UI/icons/RHastatus.bmp" link="MHastatus">Hastatus</entry>
       <entry vcenter="1" image="UI/icons/RArcher.bmp" link="MArcher">Archer</entry>
       <entry vcenter="1" image="UI/icons/RVelit.bmp" link="MVelit"> Velit</entry>
@@ -2370,17 +2370,17 @@ Allows Woman Warriors to be equipped in the Barracks
 Cost: 3000 gold; Time: 30 sec
 				</entry>
 		<entry vcenter="1" image="UI/Help/GCmdBar/upgrades/axe iron.bmp" link="/contents/units/GAxeman">
-Axes
+Iron Axes (requires Axes)
 All new Axemen are level 6
 Cost: 800 gold; Time: 30 sec
 				</entry>
 		<entry vcenter="1" image="UI/Help/GCmdBar/upgrades/spears iron.bmp" link="/contents/units/GSpearman">
-Spears
+Iron Spearheads (requires Spears)
 All new Spearmen are level 6
 Cost: 600 gold; Time: 30 sec
 				</entry>
 		<entry vcenter="1" image="UI/Help/GCmdBar/upgrades/fine armor.bmp" link="/contents/units/GWWarrior">
-Fine armor 
+Fine armor (requires Woman armor)
 All new Woman Warriors are level 6
 Cost: 1400 gold; Time: 30 sec
 				</entry>	
@@ -2540,7 +2540,7 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire heroC.bmp" link="/contents/units/CHero">Hire hero
-Cost: 1200 gold; Time 10 second      </entry>
+Cost: 800 gold; Time 10 second      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/peoples assembly.bmp">People's Assembly
 Allows the training of War Elephants  
 Cost: 2000 gold; Time 25 second                                  </entry>
@@ -2646,7 +2646,7 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/hire heror.bmp" link="/contents/units/RHero">Hire hero
-Cost: 800 gold; Time 10 second      </entry>
+Cost: 1200 gold; Time 10 second      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/Upgrades/Gladiator Show.bmp">Gladiator Shows
 Allows Gladiators to be hired
 Cost: 2000 gold; Time 25 second      </entry>
@@ -2714,10 +2714,10 @@ Briton fighters gather at the Morrigan's monument to show their skill and compet
 Cost: 600 gold; Time 10 second      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/Fights.bmp">Fights
 All new warriors are level 4
-Cost: 3000 gold; Time 25 second      </entry>
+Cost: 2000 gold; Time 25 second      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/nobility.bmp">Nobility (requires Fights)
 All warriors who reach level 8 become level 12
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 3000 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/noble offence.bmp">Noble Offense (requires Fights)
 All warriors above level 12 receive a Noble Offense artifact (+4 damage) at their first kill 
 Cost: 2000 gold; Time 30 second      </entry>
