@@ -571,7 +571,7 @@ Cheap to hire, the Libyan footmen are flexible units fit for every purpose.
         <entry image="UI/help/pattack ico.bmp">Damage 14</entry>
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
-        <entry image="UI/help/gold ico.bmp">Cost 90 gold</entry>
+        <entry image="UI/help/gold ico.bmp">Cost 90 gold (180 gold)</entry>
         <entry image="UI/help/train ico.bmp">Base equip time 6 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CBarracks.bmp" link="/contents/buildings/CBarracks">Equipped in Barracks</entry>
@@ -663,7 +663,7 @@ While most of the Carthaginian warriors are merely hired mercenaries there is th
         <entry image="UI/help/defense ico.bmp">Armor 20</entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 420 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Hire time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Hire time 20 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CTemple.bmp" link="/contents/buildings/CTemple">Called in Temple</entry>
         <entry vcenter="1" image="UI/icons/upgrades/Sacred Legion.bmp" link="/contents/buildings/CTemple">Requires Sacred Legion</entry>
@@ -701,7 +701,7 @@ The shamans are magicians of the ancient world. Their power was known and feared
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/zombify.bmp">Zombify - Allows priests to transform into ghouls when they die in battle or sacrifice themselves</entry>
         <entry font="large">To also see</entry>
@@ -791,7 +791,7 @@ The stones they throw could break through even the strongest enemy armor.
         <entry image="UI/help/defense ico.bmp">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 200 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 16 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/ISlingstones.bmp" link="/contents/buildings/IBlacksmith">Requires Slings</entry>
@@ -809,7 +809,7 @@ Equipped with battle axes the Elite Guards are strong in one-on-one combat where
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp">Cost 300 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 20 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/IBattleaxes.bmp" link="/contents/buildings/IBlacksmith">Requires Battle Axes</entry>
@@ -847,7 +847,7 @@ As matriarchs enchantresses have great political power and influence over all Ib
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/cover of mercy.bmp">Cover of Mercy - Allows enchantresses to sacrifice themselves to protect allies from damage</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Mass Healing.bmp">Mass Healing - Allows enchantresses to sacrifice themselves to heal nearby allies</entry>
@@ -923,7 +923,7 @@ Spearmen are extremely effective against cavalry units.
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 120 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/spears bronze.bmp" link="/contents/buildings/GBlacksmith">Requires Spears</entry>
@@ -996,7 +996,7 @@ Although they look like old men, druids are by far more dangerous and useful tha
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 2</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/heal.bmp">Heal - Heals the target with 20 plus the level of the healer</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/ghost.bmp" link="/contents/units/Ghost">Ghoul summoning - Allows druids to sacrifice themselves and summon a Ghoul, which drains the life from all enemies nearby for about 10 seconds</entry>
@@ -1052,7 +1052,7 @@ Gladiators are fierce warriors that have survived numerous fights at the arena. 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/gladiator show.bmp" link="/contents/buildings/RBlacksmith">Requires Gladiator Shows</entry>
@@ -1070,7 +1070,7 @@ Principles are equipped with large rectangular shields (scutum), body armor and 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Damage 16</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/principle.bmp" link="/contents/buildings/RBlacksmith">Requires Pikes</entry>
@@ -1087,8 +1087,8 @@ A few men on horseback are attached to every legion to scout and support the inf
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 20</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: fast</entry>
-        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 120 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
+        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 140 gold + 1 peasant</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/horseshoes.bmp" link="/contents/buildings/RBlacksmith">Requires Horseshoes</entry>
@@ -1142,7 +1142,7 @@ Priests are servants of the gods clad in white robes and carrying a wooden staff
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/mist.bmp">
 Create Cloud of Plague - Creates a cloud that slowly kills all affected units
@@ -1233,7 +1233,7 @@ A few men on horseback are attached to every legion to scout and support the inf
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 20</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
-        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 120 gold + 1 peasant</entry>
+        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 140 gold + 1 peasant</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/MBarracks">Equipped in Barracks</entry>
@@ -1290,7 +1290,7 @@ Priests are servants of the gods clad in white robes and carrying a wooden staff
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/mist.bmp">
 Create Cloud of Plague - Creates a cloud that slowly kills all affected enemies (sacrificing the priest's life)
@@ -1873,7 +1873,7 @@ Once the ghoul's time in this word runs out it returns to the world of the dead.
       <entry vcenter="1" image="UI/icons/ETownhall.bmp" link="ETownhall">Egyptian Townhall</entry>
       <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="EBarracks">Barracks</entry>
       <entry vcenter="1" image="UI/icons/EBlacksmith.bmp" link="EBlacksmith">Blacksmith </entry>
-      <entry vcenter="1" image="UI/icons/Etempleofanubis.bmp" link="EArena">Temple of Anubis</entry>
+      <entry vcenter="1" image="UI/icons/Etempleofanubis.bmp" link="EArena">Temple of Horus and Anubis</entry>
       <entry vcenter="1" image="UI/icons/EMarket.bmp" link="ETavern">Market</entry>
       <entry vcenter="1" image="UI/icons/ETempleofosiris.bmp" link="ETempleofosiris">Temple of Osiris</entry>
       <!--Briton Buildings-->
@@ -2540,7 +2540,7 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire heroC.bmp" link="/contents/units/CHero">Hire hero
-Cost: 800 gold; Time 10 second      </entry>
+Cost: 800 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/peoples assembly.bmp">People's Assembly
 Allows the training of War Elephants  
 Cost: 2000 gold; Time 25 second                                  </entry>
@@ -2571,10 +2571,10 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/hire heroI.bmp" link="/contents/units/IHero">Hire hero
-Cost: 800 gold; Time 10 second      </entry>
+Cost: 800 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/tournaments.bmp">Tournaments
 Allows Mountaineers to be hired
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 30 second      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/heroes wisdom.bmp">Heroes' Wisdom (requires Tournaments) 
 Increases heroes' experience with time
 Cost: 2000 gold; Time 60 second      </entry>
@@ -2609,7 +2609,7 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/hire heroG.bmp" link="/contents/units/GHero">Hire hero
-Cost: 1000 gold; Time 10 second      </entry>
+Cost: 1000 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Fights.bmp">Fights
 New Swordsmen and Archers are level 4
 Cost: 2000 gold; Time 25 second      </entry>
@@ -2646,7 +2646,7 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/hire heror.bmp" link="/contents/units/RHero">Hire hero
-Cost: 1200 gold; Time 10 second      </entry>
+Cost: 1200 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/Upgrades/Gladiator Show.bmp">Gladiator Shows
 Allows Gladiators to be hired
 Cost: 2000 gold; Time 25 second      </entry>
@@ -2677,7 +2677,7 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/hire heror.bmp" link="/contents/units/MHero">Hire hero
-Cost: 600 gold; Time 10 second      </entry>
+Cost: 600 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/Upgrades/Gladiator Show.bmp">Gladiator Shows
 Allows Liberati to be hired
 Cost: 2000 gold; Time 25 second </entry>
@@ -2711,10 +2711,10 @@ Briton fighters gather at the Morrigan's monument to show their skill and compet
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/hire heroB.bmp" link="/contents/units/BHero">Hire hero
-Cost: 600 gold; Time 10 second      </entry>
+Cost: 600 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/Fights.bmp">Fights
 All new warriors are level 4
-Cost: 2000 gold; Time 25 second      </entry>
+Cost: 3000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/nobility.bmp">Nobility (requires Fights)
 All warriors who reach level 8 become level 12
 Cost: 3000 gold; Time 20 second      </entry>
@@ -2742,13 +2742,13 @@ Warriors gather at the Temple of Horus and Anubis to show their skill and compet
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/hire heroE.bmp" link="/contents/units/EHero">Hire hero
-Cost: 800 gold; Time 10 second      </entry>
+Cost: 800 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/upgrades/cult of anubis.bmp">Cult of Anubis
 Allows training of Anubis warriors
 Cost: 2000 gold; Time 25 seconds      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/statue of isis.bmp">Statue of Isis, mother of Anubis (requires Cult of Anubis)
 Warriors heal twice as fast
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/path of the dead 1.bmp">Path of the dead  I, II and III (requires Cult of Anubis) 
 Allows a warrior to become at least level 4, level 8 and level 16 upon killing an enemy
 Cost: 500 (1000, 1500) gold; Time 20 second      </entry>
@@ -2757,7 +2757,7 @@ Allows training of Horus warriors
 Cost: 2000 gold; Time 25 seconds      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/statue of osiris.bmp">Statue of Osiris, father of Horus (requires Cult of Horus)
 Warriors restore stamina twice as fast
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/Light of Horus 1.bmp">Light of Horus I, II and III (requires Cult of Horus)
 All new warriors are level 2, level 4 and level 6
 Cost: 500 (1000, 1500) gold; Time 20 seconds      </entry>
@@ -2776,7 +2776,7 @@ Warriors gather at the Sanctuary of Votan to show their skill and compete agains
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/hire heroT.bmp" link="/contents/units/THero">Hire hero
-Cost: 1000 gold; Time 10 second      </entry>
+Cost: 1000 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/Fights.bmp">Fights
 Gathers 2000 food (works only once)
 Cost: 2000 gold; Time 30 seconds      </entry>
