@@ -110,7 +110,7 @@ Front - Increases the level of the units by 4 (while in formation).
 			</entry>
       <entry image="UI/Help/RCmdBar/STATES/line form.bmp">  Line - Increases the armor and damage of the units by 2, and the range of the archers by 20% (while in formation).  </entry>
       <entry image="UI/Help/RCmdBar/STATES/block form.bmp">  Block - Increases the armor of the units by 6 (while in formation).      </entry>
-      <entry image="UI/Help/RCmdBar/STATES/horse wing form.bmp">  Horse Core - Increases the damage of the units by 4, and the range of the archers by 20% (while in formation).   </entry>
+      <entry image="UI/Help/RCmdBar/STATES/horse wing form.bmp">  Horse Core - Increases the damage of cavalry by 4, and the range of the archers by 20%.(while in formation).  </entry>
       <entry hcenter="1" font="large">See Also</entry>
       <entry link="/contents/heroskills">Hero Skills</entry>
       <entry link="/contents/stats/level">Unit Level</entry>
@@ -414,12 +414,12 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry link="/contents/administration">Administartion</entry>
         <entry link="/contents/teamattack">Team Attack</entry>
         <entry link="/contents/teamdefense">Team Defense</entry>
-        <entry link="/contents/march">Forced March</entry>
-        <entry link="/contents/endurance">Endurance</entry>
+        <entry link="/contents/march">Quick March</entry>
+        <entry link="/contents/endurance">Epic Endurance</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 40</entry>
         <entry image="UI/help/defense ico.bmp">Armor 16</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 1200 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -433,12 +433,12 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry link="/contents/administration">Administration</entry>
         <entry link="/contents/teamattack">Team Attack</entry>
         <entry link="/contents/teamdefense">Team Defense</entry>
-        <entry link="/contents/march">Forced march</entry>
+        <entry link="/contents/march">Quick march</entry>
         <entry link="/contents/discipline">Discipline</entry>
-        <entry image="UI/help/health ico.bmp">Health 1600</entry>
+        <entry image="UI/help/health ico.bmp">Health 1300</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 30</entry>
-        <entry image="UI/help/defense ico.bmp">Armor 20</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/defense ico.bmp">Armor 16</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 600 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -451,13 +451,13 @@ In addition to being an excellent fighter a hero has the ability to make the oth
 				</entry>
         <entry link="/contents/leadership">Leadership</entry>
         <entry link="/contents/epicattack">Epic Attack</entry>
-        <entry link="/contents/endurance">Endurance</entry>
+        <entry link="/contents/endurance">Epic Endurance</entry>
         <entry link="/contents/defensive">Defensive Cry</entry>
         <entry link="/contents/battlecry">Battle Cry</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 1000 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also </entry>
@@ -471,12 +471,12 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry link="/contents/hhealing">Healing</entry>
         <entry link="/contents/ceasefire">Ceasefire</entry>
         <entry link="/contents/teamdefense">Team Defense</entry>
-        <entry link="/contents/endurance">Endurance</entry>
+        <entry link="/contents/endurance">Epic Endurance</entry>
         <entry link="/contents/euphoria">Euphoria</entry>
-        <entry image="UI/help/health ico.bmp">Health 1200</entry>
+        <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 40</entry>
-        <entry image="UI/help/defense ico.bmp">Armor 20</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/defense ico.bmp">Armor 16 </entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 800 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -495,7 +495,7 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 800 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -509,12 +509,12 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry link="/contents/vigor">Vigor</entry>
         <entry link="/contents/recovery">Recovery</entry>
         <entry link="/contents/survival">Survival</entry>
-        <entry link="/contents/march">Forced march</entry>
+        <entry link="/contents/march">Quick march</entry>
         <entry link="/contents/hhealing">Healing</entry>
-        <entry image="UI/help/health ico.bmp">Health 1400</entry>
+        <entry image="UI/help/health ico.bmp">Health 1200</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 40</entry>
-        <entry image="UI/help/defense ico.bmp">Armor 24</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/defense ico.bmp">Armor 20</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 800 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -526,14 +526,14 @@ In addition to being an excellent fighter a hero has the ability to make the oth
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Briton hero gives about 63% of his experience to the units he commands.
 				</entry>
         <entry link="/contents/hcharge">Charge</entry>
-        <entry link="/contents/hscout">Scout</entry>
-        <entry link="/contents/assault">Assault</entry>
-        <entry link="/contents/endurance">Endurance</entry>
+        <entry link="/contents/hscout">Leadership</entry>
+        <entry link="/contents/assault">Assault (cry)</entry>
+        <entry link="/contents/endurance">Epic Armor</entry>
         <entry link="/contents/epicattack">Epic Attack</entry>
-        <entry image="UI/help/health ico.bmp">Health 1200</entry>
-        <entry image="UI/help/sattack ico.bmp">Attack 50</entry>
-        <entry image="UI/help/defense ico.bmp">Defense 16</entry>
-        <entry image="UI/help/speed ico.bmp">Speed of recruitment: fast</entry>
+        <entry image="UI/help/health ico.bmp">Health 1000</entry>
+        <entry image="UI/help/sattack ico.bmp">Attack 50 (ranger: high)</entry>
+        <entry image="UI/help/defense ico.bmp">Defense 14</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 600 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -544,15 +544,15 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/THero1.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A German hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/concealment">Evasive movement</entry>
-        <entry link="/contents/defensive">Called to the defense</entry>
-        <entry link="/contents/march">Forced march</entry>
-        <entry link="/contents/assault">Develops</entry>
+        <entry link="/contents/concealment">Concealment</entry>
+        <entry link="/contents/defensive">Defence Cry</entry>
+        <entry link="/contents/march">Quick march</entry>
+        <entry link="/contents/assault">Assault (cry)</entry>
         <entry link="/contents/euphoria">Euphoria</entry>
         <entry image="UI/help/health ico.bmp">Health 1300</entry>
-        <entry image="UI/help/sattack ico.bmp">Slashing attack 10-70</entry>
-        <entry image="UI/help/defense ico.bmp">Slashing defense 10 / Piercing defense 10</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: high</entry>
+        <entry image="UI/help/sattack ico.bmp">Attack 70</entry>
+        <entry image="UI/help/defense ico.bmp">Defense 10</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 1000 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -586,9 +586,9 @@ While they certainly lack the range of the archers and slingers, the javelin thr
         <entry image="" link="/contents/penetration">Penetration</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 150</entry>
-        <entry image="UI/help/pattack ico.bmp">Damage 26</entry>
+        <entry image="UI/help/pattack ico.bmp">Damage 26 (ranger: low)</entry>
         <entry image="UI/help/defense ico.bmp">Armor 0 </entry>
-        <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 100 gold</entry>
         <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
         <entry font="large">See Also</entry>
@@ -625,7 +625,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 20</entry>
         <entry image="UI/help/defense ico.bmp">Armor 0 </entry>
-        <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 130 gold</entry>
         <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
         <entry font="large">See Also</entry>
@@ -658,11 +658,11 @@ While most of the Carthaginian warriors are merely hired mercenaries there is th
 				</entry>
         <entry image="" link="/contents/triumph">Triumph</entry>
         <entry></entry>
-        <entry image="UI/help/health ico.bmp">Health 300</entry>
+        <entry image="UI/help/health ico.bmp">Health 360</entry> 
         <entry image="UI/help/sattack ico.bmp">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp">Armor 20</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
-        <entry image="UI/help/gold ico.bmp">Cost 500 gold</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
+        <entry image="UI/help/gold ico.bmp">Cost 420 gold</entry>
         <entry image="UI/help/train ico.bmp">Hire time 6 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CTemple.bmp" link="/contents/buildings/CTemple">Called in Temple</entry>
@@ -699,7 +699,7 @@ The shamans are magicians of the ancient world. Their power was known and feared
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
         <entry font="large">Abilities</entry>
@@ -733,9 +733,9 @@ Archery was a common skill among the Iberia population. The archers are a little
         <entry image="" link="/contents/drain">Drain</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
-        <entry image="UI/help/pattack ico.bmp">Damage 20</entry>
+        <entry image="UI/help/pattack ico.bmp">Damage 20 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 60 gold</entry>
         <entry image="UI/help/train ico.bmp">Base equip time 10 seconds</entry>
         <entry font="large">See Also</entry>
@@ -787,9 +787,9 @@ The stones they throw could break through even the strongest enemy armor.
         <entry image="" vspacing="2" link="/contents/toughness">Toughness</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
-        <entry image="UI/help/pattack ico.bmp">Damage 40</entry>
+        <entry image="UI/help/pattack ico.bmp">Damage 40 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
         <entry font="large">See Also</entry>
@@ -807,8 +807,8 @@ Equipped with battle axes the Elite Guards are strong in one-on-one combat where
         <entry image="UI/help/health ico.bmp">Health 420</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 30</entry>
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
-        <entry image="UI/help/gold ico.bmp">Cost 280 gold</entry>
+        <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
+        <entry image="UI/help/gold ico.bmp">Cost 300 gold</entry>
         <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
@@ -845,7 +845,7 @@ As matriarchs enchantresses have great political power and influence over all Ib
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
         <entry font="large">Abilities</entry>
@@ -882,7 +882,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 140</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 6</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 6 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 50 gold</entry>
@@ -896,6 +896,7 @@ Archers are most effective against small enemy armies, or as support for your ma
 With his double-handed axe, the axeman looks threatening and deadly.
 This is a berserk type unit that deals a lot of damage.
 				</entry>
+		<entry image="" vspacing="2" link="/contents/ferocity">Ferocity</entry>
         <entry image="" vspacing="2" link="/contents/offensivetactics">Offensive Tactics</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 220</entry>
@@ -971,11 +972,11 @@ Trident Warriors are fierce warriors that have survived uncountable fights at th
         <entry image="" vspacing="2" link="/contents/triumph">Triumph</entry>
         <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
         <entry></entry>
-        <entry image="UI/help/health ico.bmp">Health 1000</entry>
+        <entry image="UI/help/health ico.bmp">Health 1200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 80</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 14</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
-        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 1200 gold</entry>
+        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 1000 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GArena.bmp" link="/contents/buildings/GArena">Hired in Arena</entry>
@@ -993,7 +994,7 @@ Although they look like old men, druids are by far more dangerous and useful tha
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 2</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
         <entry font="large">Abilities</entry>
@@ -1029,7 +1030,7 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 150</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 80 gold</entry>
@@ -1104,7 +1105,7 @@ These elite fighters are generally high ranking officers with power and influenc
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 40</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 14</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 300 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
@@ -1120,9 +1121,9 @@ These elite fighters are generally high ranking officers with power and influenc
         <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 500</entry>
-        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30</entry>
+        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 400 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
@@ -1139,7 +1140,7 @@ Priests are servants of the gods clad in white robes and carrying a wooden staff
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
         <entry font="large">Abilities</entry>
@@ -1177,7 +1178,7 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 150</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 24</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 80 gold</entry>
@@ -1193,9 +1194,9 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="" vspacing="2" link="/contents/slearning">Learning</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 220</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 18</entry>
-        <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 18 (ranger: low)</entry>
+        <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8 </entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 120 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1250,7 +1251,7 @@ These elite fighters are generally used to guard important structures like the S
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 40</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 400 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base time recruit 20 sec</entry>
         <entry font="large">See Also</entry>
@@ -1287,7 +1288,7 @@ Priests are servants of the gods clad in white robes and carrying a wooden staff
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
         <entry font="large">Abilities</entry>
@@ -1312,7 +1313,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/help/health ico.bmp">Health 160</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 12</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 6</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 50 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base time recruit 8 sec</entry>
         <entry font="large">See Also</entry>
@@ -1327,7 +1328,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="" vspacing="2" link="/contents/triplestrike">Triple Strike</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 10</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 60 gold</entry>
@@ -1336,7 +1337,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry vcenter="1" image="UI/icons/BBarracks.bmp" link="/contents/buildings/BBarracks">Equipped in Barracks</entry>
       </topic>
       <topic id="BBronzeSpearman">
-        <entry hcenter="1" font="large">Bronze Spearman</entry>
+        <entry hcenter="1" font="large">Bronze Spearman</entry> 
         <entry image="UI/icons/BBronzeSpearman.bmp">Equipped with bronze spears these units have a powerful piercing strike. They defend themselves with large shields that are easy to carry. 
 Spearmen are extremely effective against cavalry units.
 					  </entry>
@@ -1346,7 +1347,7 @@ Spearmen are extremely effective against cavalry units.
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 160 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
@@ -1364,7 +1365,7 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 140 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1377,9 +1378,9 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
         <entry image="" vspacing="2" link="/contents/deathblow">Death Blow</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: low)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 140 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1392,10 +1393,10 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
 </entry>
         <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
         <entry></entry>
-        <entry image="UI/help/health ico.bmp">Health 150</entry>
+        <entry image="UI/help/health ico.bmp">Health 500</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 6</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 400 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1433,7 +1434,7 @@ Although they look like old men, druids are by far more dangerous and useful tha
         <entry image="UI/help/health ico.bmp">Health 140</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 160 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
         <entry font="large">Abilities</entry>
@@ -1455,7 +1456,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 16</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 80 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1469,9 +1470,9 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="" vspacing="2" link="/contents/drain">Drain</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 140</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 60 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 8 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1483,7 +1484,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="" vspacing="2" link="/contents/triplestrike">Triple Strike</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 260</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: low)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">180 Cost gold</entry>
@@ -1497,9 +1498,9 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="" vspacing="2" link="/contents/deathblow">Death Blow</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 320</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 34 </entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 36 </entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 260 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1512,9 +1513,9 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="" vspacing="2" link="/contents/bleeding">Bleeding attack</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 320</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 34 </entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 36 </entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 260 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1532,7 +1533,7 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
         <entry image="UI/help/health ico.bmp">Health 320</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 30</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Defense 8</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 260 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1546,9 +1547,9 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
         <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 600</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 40</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 40 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 16</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 400 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 30 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1561,11 +1562,11 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
 Priests are servants of the egyptian gods in white robes. Although they cannot attack they could use a number of special abilities such as zombify.
 				</entry>
         <entry image="" vspacing="2" link="/contents/cripple">Cripple</entry>
-        <entry image="UI/help/health ico.bmp">Health 120</entry>
+        <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
-        <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
-        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
+        <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 2  </entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
+        <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 300 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/mist.bmp">Cloud of Plague - Allows priests to sacrifice themselves to create a cloud of plague which damages all warriors it covers</entry>
@@ -1586,7 +1587,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 10</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 120 food</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1602,9 +1603,9 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 10</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 200 food</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1619,7 +1620,7 @@ This is a berserk type unit that deals a lot of damage.</entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 300 food</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1636,10 +1637,10 @@ Huntress are most effective against small enemy armies, or as support for your m
         <entry image="" vspacing="2" link="/contents/sneak">Sneak</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 40</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 40 (ranger: low)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
-        <entry image="UI/help/food ico.bmp" vspacing="2">Cost 600 food</entry>
+        <entry image="UI/help/food ico.bmp" vspacing="2">Cost 400 food</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
@@ -1671,7 +1672,7 @@ These are exceptionally strong and fast archers, perfect for disruption of the e
         <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
-        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 10</entry>
+        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 400 food</entry>
@@ -1689,7 +1690,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 500 food</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1705,7 +1706,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 30</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Defense 12</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
         <entry font="large">See Also</entry>
@@ -1723,7 +1724,7 @@ As matriarchs enchantresses have great political power and influence over all Ge
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 16</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 second</entry>
         <entry font="large">Abilities</entry>
@@ -2076,15 +2077,11 @@ Cost: 130 gold; Time: 2 - 14 sec
 </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire CMaceman.bmp" link="/contents/units/CMaceman">
 Hire Maceman
-Cost: 180 gold; Time: 2 - 16 sec
+Cost: 130 gold; Time: 2 - 16 sec
 </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire CNumidianRider.bmp" link="/contents/units/CNumidianRider">
 Hire Numidian Rider
 Cost: 220 gold; Time: 3 - 20 sec
-				</entry>
-        <entry vcenter="1" image="UI/Help/CCmdBar/actions/train CNoble.bmp" link="/contents/units/CNoble">
-Equip Noble
-Cost: 300 gold; Time: 3 - 20 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2204,7 +2201,7 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bswordsman.bmp" link="/contents/units/BSwordsman">Equip Swordsman
-Cost: 40 gold; Time 2 - 8 seconds      </entry>
+Cost: 50 gold; Time 2 - 8 seconds      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bbowman.bmp" link="/contents/units/BBowman">Equip Bowman
 Cost: 60 gold; Time 1 - 4 seconds      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BBronzeSpearman.bmp" link="/contents/units/BBronzeSpearman">Equip Bronze Spearman
@@ -2260,7 +2257,7 @@ Cost: 200 food; Time 3 - 12 seconds      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train taxeman.bmp" link="/contents/units/TAxeman">Equip Axeman
 Cost: 300 food; Time 3 - 14 seconds      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tHuntress.bmp" link="/contents/units/THuntress">Equip Huntress
-Cost: 600 food; Time 3 - 14 seconds      </entry>
+Cost: 400 food; Time 3 - 14 seconds      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train TTeutonRider.bmp" link="/contents/units/TTeutonRider">Equip Teuton Rider
 Cost: 400 food; Time 3 - 20 seconds      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train TMaceman.bmp" link="/contents/units/TMaceman">Equip Maceman
@@ -2331,12 +2328,12 @@ Cost: 1200 gold; Time: 30 sec
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/Horseshoes.bmp" link="/contents/units/ICavalry">
 Horseshoes 
 Allows Cavalry to be equipped in the Barracks
-Cost: 1600 gold; Time: 30 sec
+Cost: 1200 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/IBattleaxe.bmp" link="/contents/units/IEliteGuard">
 Battle Axes
 Allows Elite Guards to be equipped in the Barracks
-Cost: 2200 gold; Time: 30 sec
+Cost: 2400 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
@@ -2365,13 +2362,28 @@ Cost: 1200 gold; Time: 30 sec
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Horseshoes.bmp" link="/contents/units/GHorseman">
 Horseshoes 
 Allows Horsemen to be equipped in the Barracks
-Cost: 1600 gold; Time: 30 sec
+Cost: 1200 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/woman armor.bmp" link="/contents/units/GWWarrior">
 Woman armor 
 Allows Woman Warriors to be equipped in the Barracks
-Cost: 2200 gold; Time: 30 sec
+Cost: 3000 gold; Time: 30 sec
 				</entry>
+		<entry vcenter="1" image="UI/Help/GCmdBar/upgrades/axe iron.bmp" link="/contents/units/GAxeman">
+Axes
+All new Axemen are level 6
+Cost: 800 gold; Time: 30 sec
+				</entry>
+		<entry vcenter="1" image="UI/Help/GCmdBar/upgrades/spears iron.bmp" link="/contents/units/GSpearman">
+Spears
+All new Spearmen are level 6
+Cost: 600 gold; Time: 30 sec
+				</entry>
+		<entry vcenter="1" image="UI/Help/GCmdBar/upgrades/fine armor.bmp" link="/contents/units/GWWarrior">
+Fine armor 
+All new Woman Warriors are level 6
+Cost: 1400 gold; Time: 30 sec
+				</entry>	
         <entry vcenter="1" image="UI/Help/GCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
 Cost: 1000 (2000) gold; Time 30 seconds      </entry>
@@ -2389,14 +2401,14 @@ It is in the blacksmith that weapons and armor are created. When new types of eq
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/Archer.bmp" link="/contents/units/RArcher">
 Arrows
 Allows Archers to be equipped in the Barracks
-Cost: 800 gold; Time: 30 sec
+Cost: 400 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/pikes.bmp" link="/contents/units/RPrinciple">Pikes
 Allows Principles to be equipped in the Barracks 
 Cost: 2000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/horseshoes.bmp" link="/contents/units/RScout">Horseshoes  
 Allows Scouts to be equipped in the Barracks
-Cost: 1200 gold; Time 30 seconds      </entry>
+Cost: 600 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/full armor.bmp" link="/contents/units/RTribune">Full Armor
 Allows Tribunes to be equipped in the Barracks  
 Cost: 4000 gold; Time 30 seconds      </entry>
@@ -2420,17 +2432,17 @@ It is in the blacksmith that weapons and armor are created. When new types of eq
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/Archer.bmp" link="/contents/units/MArcher">
 Arrows
 Allows Archers to be equipped in the Barracks
-Cost: 800 gold; Time: 30 sec
+Cost: 400 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/throwing spears.bmp" link="/contents/units/MVelit">Throwing Spears 
 Allows Velites to be equipped in the Barracks
-Cost: 400 gold; Time 30 seconds      </entry>
+Cost: 1600 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/pikes.bmp" link="/contents/units/MPrinciple">Pikes
 Allows Principles to be equipped in the Barracks
 Cost: 2000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/horseshoes.bmp" link="/contents/units/MScout">Horseshoes
 Allows Scouts to be equipped in the Barracks
-Cost: 1200 gold; Time 30 seconds      </entry>
+Cost: 600 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/spike armor.bmp" link="/contents/units/MPraetorian">Spike Armor
 Allows Praetorians to be equipped in the Barracks
 Cost: 4000 gold; Time 30 seconds      </entry>
@@ -2476,16 +2488,16 @@ It is in the blacksmith that weapons and armor are created. When new types of eq
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of seth.bmp">Charm of Seth
 Gives a Damage charm (+4 damage) to up to 50 warriors around the townhall
-Cost: 800 gold; Time 5 second      </entry>
+Cost: 600 gold; Time 5 second      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of Thoth.bmp">Charm of Thoth
 Gives an Armor charm (+4 armor) to up to 50 warriors around the townhall
-Cost: 800 gold; Time 5 second      </entry>
+Cost: 600 gold; Time 5 second      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of ra.bmp">Charm of Ra
 Gives a Health charm (+40 health points) to up to 50 warriors around the townhall
-Cost: 800 gold; Time 5 second      </entry>
+Cost: 600 gold; Time 5 second      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of isis.bmp">Charm of Isis Aumenta 
 Gives a Knowledge charm (+4 levels) to up to 50 warriors around the townhall 
-Cost: 800 gold; Time 5 seconds      </entry>
+Cost: 600 gold; Time 5 seconds      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
 Cost: 1000 (2000) gold; Time 30 seconds      </entry>
@@ -3044,7 +3056,7 @@ Cost: 2000 gold; Time 20 second      </entry>
 Allows Nobles to be equipped in the Temple
 Cost: 4000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/train CNoble.bmp" link="/contents/units/CNoble">Equip Noble (requires Sacred Legion) 
-Cost: 300 gold; Time 3 - 20 second      </entry>
+Cost: 420 gold; Time 3 - 20 second      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/ferocity.bmp">  Ferocity the soldiers recover 3 points of energy whenever they defeat an enemy. Cost: 3000 gold; Time 30 seconds      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
@@ -3136,21 +3148,21 @@ Temples are places where devoted servants of the gods gather. A priest's power i
 Initially priests can learn from other units and heal. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/actions/train priest.bmp" link="/contents/units/MPriest">Call priest 
+        <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rpriest.bmp" link="/contents/units/RPriest">Call priest 
 Cost: 200 gold; Time 10 seconds      </entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/research/priest enlightment.bmp">Altar of Jupiter
+        <entry vcenter="1" image="UI/Help/RCmdBar/research/priest enlightment.bmp">Altar of Jupiter
 All new priests are level 4
 Cost: 1000 gold; Time 15 second      </entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/research/mist.bmp">Cloud of Plague (requires Altar of Jupiter)
+        <entry vcenter="1" image="UI/Help/RCmdBar/research/mist.bmp">Cloud of Plague (requires Altar of Jupiter)
 Allows priests to sacrifice themselves to create a cloud of plague which damages all warriors it covers
 Cost: 2000 gold; Time 20 second      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/Jupiter.bmp">Wrath of Jupiter (requires Altar of Jupiter)
 Strikes a nearby enemy with lightning every time a priest dies
 Cost: 2000 gold; Time 20 second      </entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/research/Jupiter.bmp">God's Gift (requires Altar of Jupiter)
+        <entry vcenter="1" image="UI/Help/RCmdBar/research/Gift of God.bmp">God's Gift (requires Altar of Jupiter)
 All new warriors are equipped with a God's Gift artifact, which heals a warrior at his first kill and then disappears
 Cost: 1800 gold; Time 20 seconds       </entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/actions/Repair.bmp">
+        <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -3431,8 +3443,7 @@ Cost: 1000 gold; Time: 20 seconds   </entry>
       <topic id="TTent">
         <entry hcenter="1" font="large">Teuton Tent</entry>
         <entry image="UI/icons/TTent.bmp">
-The Teuton tent is an isolated settlement of a small Teuton tribe. When independent the tent supports up to 50 Teuton Riders and Archers. After a player conquers the tent he can order the garrison that is reduced to maximum of 20 warriors.
-The tent garrison increases with 2 warriors every 32 seconds up to the current maximum.
+The Teuton tent is an isolated settlement of a small Teuton tribe. When independent the tent supports up to 40 Teuton Riders and Archers. After a player conquers the tent he can order the garrison of 12 warriors.
 				</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TTeutonRider.bmp" link="/contents/units/TTeutonRider">Teuton Rider</entry>
