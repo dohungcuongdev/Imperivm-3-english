@@ -1663,7 +1663,7 @@ Bloodthirsty and wild, Teuton riders fight in battle wearing wolf skins as cloak
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/horseshoes.bmp" link="/contents/buildings/TBlacksmith">Affected by Increase Horseshoe production</entry>
-        <entry vcenter="1" image="UI/icons/upgrades/Teuton Master.bmp" link="/contents/buildings/TArena">Requires Teuton Master</entry>
+        <entry vcenter="1" image="UI/icons/upgrades/Teuton Master.bmp" link="/contents/buildings/TArena">Requires Teuton Master to transform into Teuton Archer</entry>
       </topic>
       <topic id="TTeutonArcher">
         <entry hcenter="1" font="large">Teuton Archer</entry>
@@ -1802,6 +1802,7 @@ The battleship is equipped so as to attack other ships and targets on the coast,
       </topic>
       <topic id="GCatapult">
         <entry hcenter="1" font="large">Seige Machines</entry>
+		<entry></entry>
         <entry image="UI/icons/catapult.bmp">
 The catapult is a large wooden device capable of launching heavy flaming projectiles towards the designed target. It is created and operated of up to 10 warriors. The more the warriors the faster the catapult fires.
 Due to its inaccurate fire the catapult is mostly effective against buildings.
@@ -1811,13 +1812,15 @@ Due to its inaccurate fire the catapult is mostly effective against buildings.
 		<entry image="UI/help/speed ico.bmp" vspacing="2">Attack speed : medium</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Construction time 10-60 sec</entry>
-        <entry image="UI/icons/BRam.bmp"> Rams are used to attack and knock down the enemy's gate. It is created and operated of up to 10 warriors. After construction, there is no need for warriors to stay insite, the ram can move and will automatically hit the nearest gate.</entry>
+        <entry></entry><entry></entry>
+		<entry image="UI/icons/BRam.bmp"> Rams are used to attack and knock down the enemy's gate. It is created and operated of up to 10 warriors. After construction, there is no need for warriors to stay insite, the ram can move and will automatically hit the nearest gate.</entry>
 		<entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 300 (melee)</entry>
 		<entry image="UI/help/speed ico.bmp" vspacing="2">Attack speed : fast</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 20</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Construction time 10-60 sec</entry>
-        <entry image="UI/icons/Roman Tower.bmp">One of the machines developed to attack walled towns was the siege tower.  This large wooden tower was covered with wet hides to minimize its vulnerability to fire. Warriors shoot arrows from inside the tower towards the designed target. 
+        <entry></entry><entry></entry>
+		<entry image="UI/icons/Roman Tower.bmp">One of the machines developed to attack walled towns was the siege tower.  This large wooden tower was covered with wet hides to minimize its vulnerability to fire. Warriors shoot arrows from inside the tower towards the designed target. 
 It is created and operated of up to 10 warriors. The more the warriors the faster the arrows from the tower will fire.</entry>
 		<entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 120 (ranger: correcty 1 target)</entry>
@@ -1854,7 +1857,7 @@ Once the ghoul's time in this word runs out it returns to the world of the dead.
       <entry vcenter="1" image="UI/icons/RTemple.bmp" link="RTemple">Temple</entry>
       <!--Buildings of Imperial Rome-->
       <entry hcenter="1" font="large">Imperial Roman Buildings</entry>
-      <entry vcenter="1" image="UI/icons/MForo.bmp" link="MTownhall">Imperial Roman Townhall</entry>
+      <entry vcenter="1" image="UI/icons/MTownhall.bmp" link="MTownhall">Imperial Roman Townhall</entry>
       <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="MBarracks">Barracks</entry>
       <entry vcenter="1" image="UI/icons/RBlacksmith.bmp" link="MBlacksmith">Blacksmith</entry>
       <entry vcenter="1" image="UI/icons/MArena.bmp" link="MArena">Arena</entry>
@@ -2570,7 +2573,7 @@ Trains a War Elephant
 Cost: 1000 food; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/mahout school.bmp">Mahout School (requires People's Assembly)
 Increases the number of elephants you can support by 1
-Cost: 1000 gold; Time 30 sec      </entry>
+Cost: 800 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/spoils of war.bmp">Spoils of war (requires People's Assembly)
 Allows warriors to collect spoils of war worth 100 gold from each enemy they've killed
 Cost: 3000 gold; Time 20 sec      </entry>
