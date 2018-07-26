@@ -565,7 +565,7 @@ In addition to being an excellent fighter a hero has the ability to make the oth
 Libyan footmen are equipped with a spear and light armor suitable for all conditions.
 Cheap to hire, the Libyan footmen are flexible units fit for every purpose.
 				</entry>
-        <entry image="" link="/contents/revenge">Revenge</entry>
+        <entry image="gameres/infobar/unit specials/revenge.bmp" link="/contents/specials">Revenge</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/pattack ico.bmp">Damage 14</entry>
@@ -583,7 +583,7 @@ Cheap to hire, the Libyan footmen are flexible units fit for every purpose.
 One of the best ranged units in the world, javelin throwers are a deadly force to be reckoned with.
 While they certainly lack the range of the archers and slingers, the javelin throwers inflict greater damage with penetration
 				</entry>
-        <entry image="" link="/contents/penetration">Penetration</entry>
+        <entry image="gameres/infobar/unit specials/penetration.bmp" link="/contents/specials">Penetration</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 150</entry>
         <entry image="UI/help/pattack ico.bmp">Damage 26 (ranger: low)</entry>
@@ -601,8 +601,8 @@ While they certainly lack the range of the archers and slingers, the javelin thr
 The Berbers wear no armor, instead they carry two swords in their hands. 
 These are berserk attackers with an extremely powerful first attack but lack protection and durability in battle.
 				</entry>
-        <entry image="" link="/contents/rage">Rage</entry>
-        <entry image="" link="/contents/parry">Parry</entry>
+        <entry image="gameres/infobar/unit specials/rage.bmp" link="/contents/specials">Rage</entry>
+        <entry image="gameres/infobar/unit specials/parry.bmp" link="/contents/specials">Parry</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 20 </entry>
@@ -620,7 +620,7 @@ These are berserk attackers with an extremely powerful first attack but lack pro
 Macemen are experienced warriors equipped with chain mail armor and flails.
 Their training and choice of weapons makes them extremely powerful in both defense and attack.
 				</entry>
-        <entry image="" link="/contents/bleeding">Bleeding Attack</entry>
+        <entry image="gameres/infobar/unit specials/bleeding attack.bmp" link="/contents/specials">Bleeding Attack</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 20</entry>
@@ -638,8 +638,8 @@ Their training and choice of weapons makes them extremely powerful in both defen
 Although not as fast, camels are better suited to live in the desert and is thus preferred in the Carthaginian army.
 The rider wears a light shirt and turban, armed with nothing but a spear.
 				</entry>
-        <entry image="" link="/contents/regeneration">Regeneration</entry>
-        <entry image="" link="/contents/keensight">Keensight</entry>
+        <entry image="gameres/infobar/unit specials/regeneration.bmp" link="/contents/specials">Regeneration</entry>
+        <entry image="gameres/infobar/unit specials/keen sight.bmp" link="/contents/specials">Keen sight</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 30 </entry>
@@ -656,7 +656,7 @@ The rider wears a light shirt and turban, armed with nothing but a spear.
         <entry image="UI/icons/CNoble.bmp">
 While most of the Carthaginian warriors are merely hired mercenaries there is the single force composed entirely of Carthaginians - the Sacred Legion, which consisted of highly trained and well equipped Noble Carthaginians.
 				</entry>
-        <entry image="" link="/contents/triumph">Triumph</entry>
+        <entry image="gameres/infobar/unit specials/triumph.bmp" link="/contents/specials">Triumph</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 360</entry> 
         <entry image="UI/help/sattack ico.bmp">Damage 50</entry>
@@ -674,9 +674,9 @@ While most of the Carthaginian warriors are merely hired mercenaries there is th
 The war elephants are among the strongest units that the Carthaginians have. 
 The elephants are controlled by people named Mahouts. The tremendous strength and regeneration of these beasts helps them survive many battles.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/trample">Trample</entry>
-        <entry image="" vspacing="2" link="/contents/regeneration">Regeneration</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+        <entry image="gameres/infobar/unit specials/trample.bmp" link="/contents/specials">Trample</entry>
+        <entry image="gameres/infobar/unit specials/regeneration.bmp" link="/contents/specials">Regeneration</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 2000</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 60</entry>
@@ -694,7 +694,7 @@ The elephants are controlled by people named Mahouts. The tremendous strength an
         <entry image="UI/icons/CShaman.bmp">
 The shamans are magicians of the ancient world. Their power was known and feared by everyone. Although shamans don't have any attack they could use a number of special abilities as well as learn from other units.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/curse">Curse</entry>
+        <entry image="gameres/infobar/unit specials/curse.bmp" link="/contents/specials">Curse</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
@@ -714,7 +714,7 @@ The shamans are magicians of the ancient world. Their power was known and feared
 Militiamen are ordinary villagers equipped with a sword and a shield.
 They could also be disbanded back to peasants when there is no further use of them. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
+        <entry image="gameres/infobar/unit specials/defense skill.bmp" link="/contents/specials">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 14</entry>
@@ -730,7 +730,7 @@ They could also be disbanded back to peasants when there is no further use of th
         <entry image="UI/icons/IArcher.bmp">
 Archery was a common skill among the Iberia population. The archers are a little more than hunters made into warriors.
 				</entry>
-        <entry image="" link="/contents/drain">Drain</entry>
+        <entry image="gameres/infobar/unit specials/drain.bmp" link="/contents/specials">Drain</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/pattack ico.bmp">Damage 20 (ranger: high)</entry>
@@ -747,8 +747,8 @@ Archery was a common skill among the Iberia population. The archers are a little
 Defenders are equipped with massive armor and iron-headed spears.
 They compose the backbone of any army and could provide for excellent defense or lead an attack.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
-        <entry image="" vspacing="2" link="/contents/toughness">Toughness</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/toughness.bmp" link="/contents/specials">Toughness</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/pattack ico.bmp">Damage 16</entry>
@@ -765,7 +765,7 @@ They compose the backbone of any army and could provide for excellent defense or
         <entry image="UI/icons/ICavalry.bmp">
 The Iberian cavalry is one of the fiercest in existence. These units hit heavily while charging, yet are not very useful once the grand melee has begun. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/charge">Charge</entry>
+        <entry image="gameres/infobar/unit specials/charge.bmp" link="/contents/specials">Charge</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/pattack ico.bmp">Damage 34</entry>
@@ -783,8 +783,8 @@ The Iberian cavalry is one of the fiercest in existence. These units hit heavily
 The slingers are light in armor and heavy in damage.
 The stones they throw could break through even the strongest enemy armor. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/expertise">Expertise</entry>
-        <entry image="" vspacing="2" link="/contents/toughness">Toughness</entry>
+		<entry image="gameres/infobar/unit specials/expertise.bmp" link="/contents/specials">Expertise</entry>
+        <entry image="gameres/infobar/unit specials/toughness.bmp" link="/contents/specials">Toughness</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/pattack ico.bmp">Damage 40 (ranger: high)</entry>
@@ -802,7 +802,7 @@ The stones they throw could break through even the strongest enemy armor.
 Equipped with battle axes the Elite Guards are strong in one-on-one combat where their skill helps them best the enemy. Their ferocity is so great that even the strongest foes prefer to flee than face them.
 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/bleeding">Bleeding Attack</entry>
+		<entry image="gameres/infobar/unit specials/bleeding attack.bmp" link="/contents/specials">Bleeding Attack</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 420</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 30</entry>
@@ -819,9 +819,9 @@ Equipped with battle axes the Elite Guards are strong in one-on-one combat where
         <entry image="UI/icons/IMountaineer.bmp">
 Treacherous and stealthy Mountaineers could remain invisible for all enemies as long as they do not attack or capture enemy units or buildings. In addition these warriors could survive in the wilderness without the constant need of food.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/sneak">Sneak</entry>
-        <entry image="" vspacing="2" link="/contents/offensivetactics">Offensive Tactics</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+        <entry image="gameres/infobar/unit specials/sneak.bmp" link="/contents/specials">Sneak</entry>
+        <entry image="gameres/infobar/unit specials/offensive tactics.bmp" link="/contents/specials">Offensive Tactics</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 50</entry>
@@ -840,7 +840,7 @@ Treacherous and stealthy Mountaineers could remain invisible for all enemies as 
         <entry image="UI/icons/IEnchantress.bmp">
 As matriarchs enchantresses have great political power and influence over all Iberians. Although they can't attack the enchantresses could use a number of special abilities such as learning from units, and more.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/teaching">Teach an ally</entry>
+        <entry image="gameres/infobar/unit specials/teaching.bmp" link="/contents/specials">Teaching</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
@@ -861,8 +861,8 @@ As matriarchs enchantresses have great political power and influence over all Ib
 Swordsmen are equipped with a shield, short sword and light body armor that allows quick movement.
 Swordsmen are cheap general-purpose units that can be trained quickly in case of danger. 
 				</entry>
-        <entry image="" link="/contents/penetration">Penetration</entry>
-        <entry image="" link="/contents/slearning">Learning</entry>
+        <entry image="gameres/infobar/unit specials/penetration.bmp" link="/contents/specials">Penetration</entry>
+		<entry image="gameres/infobar/unit specials/learning.bmp" link="/contents/specials">Learning</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 12</entry>
@@ -879,7 +879,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
 Archers use hunter's bow for attack and have light armor. Since Gauls are excellent hunters they only need a few training lessons to become archers.
 Archers are most effective against small enemy armies, or as support for your main force.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+       <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 140</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 6 (ranger: high)</entry>
@@ -896,8 +896,8 @@ Archers are most effective against small enemy armies, or as support for your ma
 With his double-handed axe, the axeman looks threatening and deadly.
 This is a berserk type unit that deals a lot of damage.
 				</entry>
-		<entry image="" vspacing="2" link="/contents/ferocity">Ferocity</entry>
-        <entry image="" vspacing="2" link="/contents/offensivetactics">Offensive Tactics</entry>
+		<entry image="gameres/infobar/unit specials/ferocity.bmp" link="/contents/specials">Ferocity</entry>
+        <entry image="gameres/infobar/unit specials/offensive tactics.bmp" link="/contents/specials">Offensive Tactics</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 220</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 40</entry>
@@ -916,7 +916,7 @@ This is a berserk type unit that deals a lot of damage.
 Equipped with short spears these units have a powerful piercing strike. They defend themselves with large shields that are easy to carry. 
 Spearmen are extremely effective against cavalry units.
 					</entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 20</entry>
@@ -934,7 +934,7 @@ Spearmen are extremely effective against cavalry units.
         <entry image="UI/icons/GHorseman.bmp">
 Horses are expensive but provide excellent speed and protection. Horsemen are equipped with short swords and leather armor. These units do not do much damage except when charging but are fast and hard to kill.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/charge">Charge</entry>
+       <entry image="gameres/infobar/unit specials/charge.bmp" link="/contents/specials">Charge</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 380</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 26</entry>
@@ -951,7 +951,8 @@ Horses are expensive but provide excellent speed and protection. Horsemen are eq
         <entry image="UI/help/womanwarrior.bmp">
 Equipped with light armor and large sword the Woman Warrior is an enemy not to be underestimated. Trained their entire lifetime the woman warriors are an elite force that is expensive to come by but with excellent skills.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/specials">Death blow</entry>
+		<entry image="gameres/infobar/unit specials/revenge.bmp" link="/contents/specials">Revenge</entry>
+		<entry image="gameres/infobar/unit specials/death blow.bmp" link="/contents/specials">Death blow</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30</entry>
@@ -969,8 +970,8 @@ Equipped with light armor and large sword the Woman Warrior is an enemy not to b
         <entry image="UI/icons/GTridentwarrior.bmp">
 Trident Warriors are fierce warriors that have survived uncountable fights at the arena. They are equipped with long tridents and specially designed armor that sets them apart from everyone else.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/triumph">Triumph</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+        <entry image="gameres/infobar/unit specials/triumph.bmp" link="/contents/specials">Triumph</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 1200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 80</entry>
@@ -988,8 +989,8 @@ Trident Warriors are fierce warriors that have survived uncountable fights at th
         <entry image="UI/icons/gdruid.bmp">
 Although they look like old men, druids are by far more dangerous and useful than they seem. Although druids don't have any attack they could use a number of special abilities such as healing, learning from units, and more.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/shealing">Healing</entry>
-        <entry image="" vspacing="2" link="/contents/sneak">Sneak</entry>
+        <entry image="gameres/infobar/unit specials/healing.bmp" link="/contents/specials">Healing</entry>
+        <entry image="gameres/infobar/unit specials/sneak.bmp" link="/contents/specials">Sneak</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
@@ -1011,7 +1012,7 @@ Although they look like old men, druids are by far more dangerous and useful tha
         <entry image="UI/icons/RHastatus.bmp">
 The hastati are well armored and equipped with short swords (gladius). They generally represent fresh recruits of a legion and compose its main force. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 16</entry>
@@ -1027,7 +1028,7 @@ The hastati are well armored and equipped with short swords (gladius). They gene
         <entry image="UI/icons/RArcher.bmp">
 Equipped with bow and light armor the roman archers are trained so as to provide effective support for other troops.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
+        <entry image="gameres/infobar/unit specials/defense skill.bmp" link="/contents/specials">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 150</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: high)</entry>
@@ -1044,8 +1045,8 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="UI/icons/RGladiator.bmp">
 Gladiators are fierce warriors that have survived numerous fights at the arena. They are equipped with long tridents and specially designed armor that sets them apart from everyone else.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/expertise">Expertise</entry>
-        <entry image="" vspacing="2" link="/contents/slearning">Learning</entry>
+		<entry image="gameres/infobar/unit specials/expertise.bmp" link="/contents/specials">Expertise</entry>
+        <entry image="gameres/infobar/unit specials/learning.bmp" link="/contents/specials">Learning</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 30</entry>
@@ -1062,8 +1063,8 @@ Gladiators are fierce warriors that have survived numerous fights at the arena. 
         <entry image="UI/icons/RPrinciple.bmp">
 Principles are equipped with large rectangular shields (scutum), body armor and short spears. Once hastati these warriors have managed to climb the ranks of the roman army thanks to their skills.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/active">Active</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+        <entry image="gameres/infobar/unit specials/active.bmp" link="/contents/specials">Active</entry>
+        <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Armor 16</entry>
@@ -1080,8 +1081,8 @@ Principles are equipped with large rectangular shields (scutum), body armor and 
         <entry image="UI/icons/RScout.bmp">
 A few men on horseback are attached to every legion to scout and support the infantry in battle. Scouts are equipped with short swords, large shields and light armor. They do not do much damage but their speed makes them hard to kill.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/rage">Rage</entry>
-        <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
+        <entry image="gameres/infobar/unit specials/rage.bmp" link="/contents/specials">Rage</entry>
+        <entry image="gameres/infobar/unit specials/defense skill.bmp" link="/contents/specials">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 20</entry>
@@ -1099,8 +1100,8 @@ A few men on horseback are attached to every legion to scout and support the inf
         <entry image="UI/icons/RTribune.bmp">
 These elite fighters are generally high ranking officers with power and influence over the Senate of Rome. They have excellent training and outstanding equipment.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/parry">Parry</entry>
-        <entry image="" vspacing="2" link="/contents/penetration">Penetration</entry>
+        <entry image="gameres/infobar/unit specials/parry.bmp" link="/contents/specials">Parry</entry>
+        <entry image="gameres/infobar/unit specials/penetration.bmp" link="/contents/specials">Penetration</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 40</entry>
@@ -1116,9 +1117,9 @@ These elite fighters are generally high ranking officers with power and influenc
         <entry hcenter="1" font="large">Chariot</entry>
         <entry image="UI/icons/Rchariot.bmp">Chariots are highly trained units who are able to quickly out-flank an enemy army with devastating effects.
 </entry>
-        <entry image="" vspacing="2" link="/contents/triplestrike">Triple Strike</entry>
-        <entry image="" vspacing="2" link="/contents/ferocity">Ferocity</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+		<entry image="gameres/infobar/unit specials/triple strike.bmp" link="/contents/specials">Triple Strike</entry>
+        <entry image="gameres/infobar/unit specials/ferocity.bmp" link="/contents/specials">Ferocity</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 500</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30 (ranger: high)</entry>
@@ -1135,7 +1136,7 @@ These elite fighters are generally high ranking officers with power and influenc
         <entry image="UI/icons/RPriest.bmp">
 Priests are servants of the gods clad in white robes and carrying a wooden staff. Although they cannot attack they could use a number of special abilities such as healing, learning from units, and more.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/shealing">Healing</entry>
+        <entry image="gameres/infobar/unit specials/healing.bmp" link="/contents/specials">Healing</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
@@ -1159,7 +1160,7 @@ Wrath of Jupiter - Channels the Wrath of Jupiter hurting the target (sacrificing
         <entry image="UI/icons/RHastatus.bmp">
 The hastati are well armored and equipped with short swords (gladius). They generally represent fresh recruits of a legion and compose its main force. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 16</entry>
@@ -1175,7 +1176,7 @@ The hastati are well armored and equipped with short swords (gladius). They gene
         <entry image="UI/icons/RArcher.bmp">
 Equipped with bow and light armor the roman archers are trained so as to provide effective support for other troops.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
+       <entry image="gameres/infobar/unit specials/defense skill.bmp" link="/contents/specials">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 150</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: high)</entry>
@@ -1190,8 +1191,8 @@ Equipped with bow and light armor the roman archers are trained so as to provide
       <topic id="MVelit">
         <entry hcenter="1" font="large">Velit</entry>
         <entry image="UI/icons/RVelit.bmp">Velites stand behind the battle line hurling their spears into enemy ranks. These spears will cut through even the Stoutest of Armour.    </entry>
-        <entry image="" vspacing="2" link="/contents/offensivetactics">Offensive Tactics</entry>
-        <entry image="" vspacing="2" link="/contents/slearning">Learning</entry>
+        <entry image="gameres/infobar/unit specials/offensive tactics.bmp" link="/contents/specials">Offensive Tactics</entry>
+        <entry image="gameres/infobar/unit specials/learning.bmp" link="/contents/specials">Learning</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 220</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 18 (ranger: low)</entry>
@@ -1208,8 +1209,8 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="UI/icons/RPrinciple.bmp">
 Principles are equipped with large rectangular shields (scutum), body armor and short spears. Once hastati these warriors have managed to climb the ranks of the roman army thanks to their skills.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/active">Active</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+       <entry image="gameres/infobar/unit specials/active.bmp" link="/contents/specials">Active</entry>
+       <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 16</entry>
@@ -1226,8 +1227,8 @@ Principles are equipped with large rectangular shields (scutum), body armor and 
         <entry image="UI/icons/RScout.bmp">
 A few men on horseback are attached to every legion to scout and support the infantry in battle. Scouts are equipped with short swords, large shields and light armor. They do not do much damage but their speed makes them hard to kill.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/rage">Rage</entry>
-        <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
+		<entry image="gameres/infobar/unit specials/rage.bmp" link="/contents/specials">Rage</entry>
+        <entry image="gameres/infobar/unit specials/defense skill.bmp" link="/contents/specials">Defense Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 20</entry>
@@ -1245,8 +1246,8 @@ A few men on horseback are attached to every legion to scout and support the inf
         <entry image="UI/icons/RPraetorian.bmp">
 These elite fighters are generally used to guard important structures like the Senate of Rome. They have excellent training and outstanding equipment.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/spikearmor">Spike Armor</entry>
-        <entry image="" vspacing="2" link="/contents/combatskill">Combat Skill</entry>
+		<entry image="gameres/infobar/unit specials/spike armor.bmp" link="/contents/specials">Spike Armor</entry>
+        <entry image="gameres/infobar/unit specials/combat skill.bmp" link="/contents/specials">Combat skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 40</entry>
@@ -1263,9 +1264,9 @@ These elite fighters are generally used to guard important structures like the S
         <entry image="UI/icons/RLiberatus.bmp">
 Liberati are gladiators who have earned their right to freedom and roman citizenship thanks to their outstanding skills at the arena. When given enough gold they could become fighters of fortune ready to obey the commands of the person who hired them.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/regeneration">Regeneration</entry>
-        <entry image="" vspacing="2" link="/contents/slearning">Learning</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+		<entry image="gameres/infobar/unit specials/regeneration.bmp" link="/contents/specials">Regeneration</entry>
+        <entry image="gameres/infobar/unit specials/learning.bmp" link="/contents/specials">Learning</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 440</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 40</entry>
@@ -1283,7 +1284,7 @@ Liberati are gladiators who have earned their right to freedom and roman citizen
         <entry image="UI/icons/Priest.bmp">
 Priests are servants of the gods clad in white robes and carrying a wooden staff. Although they cannot attack they could use a number of special abilities such as healing, learning from units, and more.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/healing">Healing</entry>
+        <entry image="gameres/infobar/unit specials/healing.bmp" link="/contents/specials">Healing</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 120</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
@@ -1308,7 +1309,7 @@ Wrath of Jupiter - Channels the Wrath of Jupiter hurting the target (sacrificing
 Swordsmen are equipped with a shield, short sword and light body armor that allows quick movement.
 Swordsmen are cheap general-purpose units that can be trained quickly in case of danger. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+        <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 160</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 12</entry>
@@ -1325,7 +1326,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
 Archers use hunter's bow for attack and have light armor. Since Britons are excellent hunters they only need a few training lessons to become archers.
 Archers are most effective against small enemy armies, or as support for your main force.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/triplestrike">Triple Strike</entry>
+        <entry image="gameres/infobar/unit specials/triple strike.bmp" link="/contents/specials">Triple Strike</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
@@ -1341,8 +1342,8 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="UI/icons/BBronzeSpearman.bmp">Equipped with bronze spears these units have a powerful piercing strike. They defend themselves with large shields that are easy to carry. 
 Spearmen are extremely effective against cavalry units.
 					  </entry>
-        <entry image="" vspacing="2" link="/contents/penetration">Penetration</entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/penetration.bmp" link="/contents/specials">Penetration</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
@@ -1359,8 +1360,8 @@ Spearmen are extremely effective against cavalry units.
         <entry image="UI/icons/BShieldBearer.bmp">
 Equipped with a large shield the Shield Bearer is an enemy not to be underestimated. The defense and combat abilities of the Shield Bearer make it a deadly foe.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/defenseskill">Defense Skill</entry>
-        <entry image="" vspacing="2" link="/contents/combatskill">Combat Skill</entry>
+       <entry image="gameres/infobar/unit specials/defense skill.bmp" link="/contents/specials">Defense Skill</entry>
+       <entry image="gameres/infobar/unit specials/combat skill.bmp" link="/contents/specials">Combat skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20</entry>
@@ -1375,7 +1376,7 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
       <topic id="BJavelineer">
         <entry hcenter="1" font="large">Javelineer</entry>
         <entry image="UI/icons/BJavelineer.bmp">Javelineers are a valuable asset to an army, being able to supplement their skill in melee combat with an ability to handle distant foes. They can hurl javelins into enemy ranks from a distance, often without retribution, and still hold their ground in melee.</entry>
-        <entry image="" vspacing="2" link="/contents/deathblow">Death Blow</entry>
+        <entry image="gameres/infobar/unit specials/death blow.bmp" link="/contents/specials">Death blow</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: low)</entry>
@@ -1391,7 +1392,7 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
         <entry hcenter="1" font="large">Highlander</entry>
         <entry image="UI/icons/BHighlander.bmp">Highlanders are elite units who are naturally stronger and have higher constitutions than other units, which makes them a good choice against enemy armies.
 </entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 500</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 50</entry>
@@ -1409,9 +1410,9 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
 Bloodthirsty and aggressive Vikings are among the fiercest warriors. War is their only purpose in life, the battlefield - their only home. Dressed in furs and carrying Thor's hammer they could easily kill a unit with one blow.
 You can have as many as four Viking Lords and they cannot be attached to any hero.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/lifesteal">Life Steal</entry>
-        <entry image="" vspacing="2" link="/contents/ferocity">Ferocity</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+		<entry image="gameres/infobar/unit specials/life steal.bmp" link="/contents/specials">Life Steal</entry>
+        <entry image="gameres/infobar/unit specials/ferocity.bmp" link="/contents/specials">Ferocity</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 1200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 120</entry>
@@ -1429,7 +1430,7 @@ You can have as many as four Viking Lords and they cannot be attached to any her
         <entry image="UI/icons/bdruid.bmp">
 Although they look like old men, druids are by far more dangerous and useful than they seem. Although druids don't have any attack they could use a number of special abilities such as invisibility, mass healing, and more.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/invisibility">Invisibility</entry>
+		<entry image="gameres/infobar/unit specials/invisibility.bmp" link="/contents/specials">Invisibility</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 140</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 0</entry>
@@ -1451,7 +1452,7 @@ Although they look like old men, druids are by far more dangerous and useful tha
 Swordsmen are equipped with a shield, short sword and light body armor that allows quick movement.
 Swordsmen are cheap general-purpose units that can be trained quickly in case of danger. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/cripple">Cripple</entry>
+        <entry image="gameres/infobar/unit specials/cripple.bmp" link="/contents/specials">Cripple</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 16</entry>
@@ -1467,7 +1468,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/icons/EArcher.bmp">
 Equipped with bow and light armor the egyptian archers are trained so as to provide effective support for other troops.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/drain">Drain</entry>
+		<entry image="gameres/infobar/unit specials/drain.bmp" link="/contents/specials">Drain</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 140</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: high)</entry>
@@ -1481,7 +1482,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
       <topic id="EAxeThrower">
         <entry hcenter="1" font="large">Axe Thrower</entry>
         <entry image="UI/icons/EAxeTrower.bmp">Axe Throwers stand behind the battle line hurling their axes into enemy ranks. These axes will cut through even the Stoutest of Armour.    </entry>
-        <entry image="" vspacing="2" link="/contents/triplestrike">Triple Strike</entry>
+        <entry image="gameres/infobar/unit specials/triple strike.bmp" link="/contents/specials">Triple Strike</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 260</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 20 (ranger: low)</entry>
@@ -1495,7 +1496,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
       <topic id="EAnubisWarrior">
         <entry hcenter="1" font="large">Anubis Warrior</entry>
         <entry image="UI/icons/EAnubisWarrior.bmp">Warriors that fight for their god Anubis.  Anubis warriors strong, cheap units that have fairly good armor.</entry>
-        <entry image="" vspacing="2" link="/contents/deathblow">Death Blow</entry>
+       <entry image="gameres/infobar/unit specials/death blow.bmp" link="/contents/specials">Death blow</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 320</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 36 </entry>
@@ -1510,7 +1511,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
       <topic id="EHorusWarrior">
         <entry hcenter="1" font="large">Horus Warrior</entry>
         <entry image="UI/icons/EHorusWarrior.bmp">Warrior that fights for the god Horus.  Horus Warriors are elite melee fighters that generally good against other melee units</entry>
-        <entry image="" vspacing="2" link="/contents/bleeding">Bleeding attack</entry>
+        <entry image="gameres/infobar/unit specials/bleeding attack.bmp" link="/contents/specials">Bleeding Attack</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 320</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 36 </entry>
@@ -1527,8 +1528,8 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="UI/icons/EGuardian.bmp">
 Equipped with a large shield the Guardian is an enemy not to be underestimated. The defense and combat abilities of the Guardian make this elite unit a deadly foe.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/deflection">Deflection</entry>
-        <entry image="" vspacing="2" link="/contents/ferocity">Ferocity</entry>
+        <entry image="gameres/infobar/unit specials/deflection.bmp" link="/contents/specials">Deflection</entry>
+        <entry image="gameres/infobar/unit specials/ferocity.bmp" link="/contents/specials">Ferocity</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 320</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 30</entry>
@@ -1543,8 +1544,8 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
         <entry hcenter="1" font="large">Chariot of Osiris</entry>
         <entry image="UI/icons/EChariot.bmp">Chariot of Osiris are highly trained units.  Armed with poisonous arrows, this elite unit can be a deadly opponent.
 </entry>
-        <entry image="" vspacing="2" link="/contents/diseaseattack">Disease Attack</entry>
-        <entry image="" vspacing="2" link="/contents/freedom">Freedom</entry>
+		<entry image="gameres/infobar/unit specials/disease attack.bmp" link="/contents/specials">Disease Attack</entry>
+        <entry image="gameres/infobar/unit specials/freedom.bmp" link="/contents/specials">Freedom</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 40 (ranger: high)</entry>
@@ -1561,7 +1562,7 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
         <entry image="UI/icons/EPriest.bmp">
 Priests are servants of the egyptian gods in white robes. Although they cannot attack they could use a number of special abilities such as zombify.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/cripple">Cripple</entry>
+        <entry image="gameres/infobar/unit specials/cripple.bmp" link="/contents/specials">Cripple</entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 0</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 2  </entry>
@@ -1581,8 +1582,8 @@ Priests are servants of the egyptian gods in white robes. Although they cannot a
 Swordsmen are equipped with a shield, short sword and light body armor that allows quick movement.
 Swordsmen are cheap general-purpose units that can be trained quickly in case of danger. 
 				</entry>
-        <entry image="" vspacing="2" link="/contents/active">Active</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+        <entry image="gameres/infobar/unit specials/active.bmp" link="/contents/specials">Active</entry>
+        <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 10</entry>
@@ -1599,8 +1600,8 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
 Archers use hunter's bow for attack and have light armor. Since Britons are excellent hunters they only need a few training lessons to become archers.
 Archers are most effective against small enemy armies, or as support for your main force.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/active">Active</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+        <entry image="gameres/infobar/unit specials/active.bmp" link="/contents/specials">Active</entry>
+        <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 200</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
@@ -1615,7 +1616,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry hcenter="1" font="large">Axeman</entry>
         <entry image="UI/icons/TAxeman.bmp">With his oversized axe, the axeman looks threatening and deadly.
 This is a berserk type unit that deals a lot of damage.</entry>
-        <entry image="" vspacing="2" link="/contents/triplestrike">Triple Strike</entry>
+        <entry image="gameres/infobar/unit specials/triple strike.bmp" link="/contents/specials">Triple Strike</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30</entry>
@@ -1633,8 +1634,8 @@ This is a berserk type unit that deals a lot of damage.</entry>
 Huntress use javelins for attack and have light armor. The Huntress are superior to the typical archer as they have accurate aims and are usually camouflaged.
 Huntress are most effective against small enemy armies, or as support for your main force.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/penetration">Penetration</entry>
-        <entry image="" vspacing="2" link="/contents/sneak">Sneak</entry>
+        <entry image="gameres/infobar/unit specials/penetration.bmp" link="/contents/specials">Penetration</entry>
+        <entry image="gameres/infobar/unit specials/sneak.bmp" link="/contents/specials">Sneak</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 240</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 40 (ranger: low)</entry>
@@ -1651,7 +1652,7 @@ Huntress are most effective against small enemy armies, or as support for your m
         <entry image="UI/icons/TTeutonRider.bmp">
 Bloodthirsty and wild, Teuton riders fight in battle wearing wolf skins as cloaks. Fast and strong they wreck havoc in the lines of their enemies.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+       <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 30</entry>
@@ -1669,7 +1670,7 @@ Bloodthirsty and wild, Teuton riders fight in battle wearing wolf skins as cloak
         <entry image="UI/icons/TTeutonArcher.bmp">
 These are exceptionally strong and fast archers, perfect for disruption of the enemy before and after the main battle. Due to their small damage the archers are often useless in large melees.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/attackskill">Attack Skill</entry>
+       <entry image="gameres/infobar/unit specials/attack skill.bmp" link="/contents/specials">Attack Skill</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 300</entry>
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
@@ -1686,7 +1687,7 @@ These are exceptionally strong and fast archers, perfect for disruption of the e
 Macemen are experienced warriors equipped with chain mail armor and flails.
 Their training and choice of weapons makes them extremely powerful in both defense and attack.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/expertise">Expertise</entry>
+        <entry image="gameres/infobar/unit specials/expertise.bmp" link="/contents/specials">Expertise</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 600</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 50</entry>
@@ -1701,8 +1702,8 @@ Their training and choice of weapons makes them extremely powerful in both defen
       <topic id="TValkyrie">
         <entry hcenter="1" font="large">Valkyrie</entry>
         <entry image="UI/icons/TValkyrie.bmp">Valkyries are elite blonde, blue-eyed warrior maidens that excel in combat and defensive abilities.  Their extensive abilities can cause entire armies to retreat.</entry>
-        <entry image="" vspacing="2" link="/contents/toughness">Toughness</entry>
-        <entry image="" vspacing="2" link="/contents/powerstrike">Powerstrike</entry>
+        <entry image="gameres/infobar/unit specials/toughness.bmp" link="/contents/specials">Toughness</entry>
+		<entry image="gameres/infobar/unit specials/power strike.bmp" link="/contents/specials">Power Strike</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 400</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 30</entry>
@@ -1720,7 +1721,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/icons/TEnchantress.bmp">
 As matriarchs enchantresses have great political power and influence over all Germans. Although they can't attack the enchantresses could use a number of special abilities such as curse, and more.
 				</entry>
-        <entry image="" vspacing="2" link="/contents/curse">Curse</entry>
+       <entry image="gameres/infobar/unit specials/curse.bmp" link="/contents/specials">Curse</entry>
         <entry></entry>
         <entry image="UI/help/health ico.bmp">Health 180</entry>
         <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 0</entry>
