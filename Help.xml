@@ -123,19 +123,19 @@ Front - Increases the level of the units by 4 (while in formation).
       <entry> List of Hero Skills</entry>
       <entry></entry>
       <entry image="gameres/infobar/skills/Administration.bmp">Administraton - Increases the maximum number of warriors attached to the hero by 2 per skill point</entry>
-      <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 second plus 1 additional second per skill point</entry>
-      <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 seconds)</entry>
-      <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 second plus 1 additional second per skill point</entry>
+      <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 sec plus 1 additional sec per skill point</entry>
+      <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 sec)</entry>
+      <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 sec plus 1 additional sec per skill point</entry>
       <entry image="gameres/infobar/skills/Charge.bmp">Charge - When used increases the stamina of all attached warriors by 1 per skill point</entry>
       <entry image="gameres/infobar/skills/Concealment.bmp">Concealment - Every attached warrior has a 2% chance per skill point to evade an enemy attack</entry>
-      <entry image="gameres/infobar/skills/DefensiveCry.bmp">Defensive Cry - When used increases the armor of all attached warriors by 20 for 1 second plus 2 additional seconds per skill point</entry>
+      <entry image="gameres/infobar/skills/DefensiveCry.bmp">Defensive Cry - When used increases the armor of all attached warriors by 20 for 1 sec plus 2 additional sec per skill point</entry>
       <entry image="gameres/infobar/skills/Discipline.bmp">Discipline - Increases the level of every attached warrior so it is at least 2 plus the number of skill points</entry>
-      <entry image="gameres/infobar/skills/Egoism.bmp">Egoism - Once every 5 seconds the hero steals up to 20 health points per skill point from a random warrior attached to him</entry>
+      <entry image="gameres/infobar/skills/Egoism.bmp">Egoism - Once every 5 sec the hero steals up to 20 health points per skill point from a random warrior attached to him</entry>
       <entry image="gameres/infobar/skills/EpicAttack.bmp">Epic Attack - Increases the hero's damage by 5 per skill point</entry>
       <entry image="gameres/infobar/skills/EpicArmor.bmp">Epic Armor - Increases the hero's armor by 2 per skill point</entry>
       <entry image="gameres/infobar/skills/EpicEndurance.bmp">Epic Endurance - Increases the hero's maximum health by 100 health points per skill point</entry>
       <entry image="gameres/infobar/skills/Euphoria.bmp"> Euphoria - Every attached warrior has a 10% chance per skill point to gain 3 stamina upon killing an enemy</entry>
-      <entry image="gameres/infobar/skills/Frenzy.bmp">Frenzy - When used halves the health and doubles the damage of all attached warriors for 1 second plus 1 additional second per skill point</entry>
+      <entry image="gameres/infobar/skills/Frenzy.bmp">Frenzy - When used halves the health and doubles the damage of all attached warriors for 1 sec plus 1 additional sec per skill point</entry>
       <entry image="gameres/infobar/skills/Healing.bmp">Healing - When used restores 10 health points per skill point to all attached warriors</entry>
       <entry image="gameres/infobar/skills/Leadership.bmp">Leadership - Increases the experience the hero provides to his attached warriors by 2% per skill point</entry>
       <entry image="gameres/infobar/skills/QuickMarch.bmp">Quick March - Increases the speed of every attached warrior by 5% per skill point</entry>
@@ -232,7 +232,7 @@ For example, if a gladiator with 10 Armor is attacked by a Tribune with 40 Damag
       <entry image="gameres/infobar/unit specials/attack skill.bmp">Attack Skill - Increases the warrior's damage by twice his current stamina</entry>
       <entry image="gameres/infobar/unit specials/bleeding attack.bmp">Bleeding attack - The enemy attacked by the warrior loses 10% of his health in addition to the inflicted damage (does not work on heroes)</entry>
       <entry image="gameres/infobar/unit specials/_bless.bmp">Bless - temporary blesses the target so that it deals double damage.</entry>
-      <entry image="gameres/infobar/unit specials/charge.bmp">Charge - The warrior deals 8 times his normal damage (after enemy armor is applied). The time since the warrior's last attack must be at least 10 seconds
+      <entry image="gameres/infobar/unit specials/charge.bmp">Charge - The warrior deals 8 times his normal damage (after enemy armor is applied). The time since the warrior's last attack must be at least 10 sec
 </entry>
       <entry image="gameres/infobar/unit specials/combat skill.bmp">Combat skill - Each time the warrior damages an enemy he receives 1 stamina point</entry>
       <entry image="gameres/infobar/unit specials/cripple.bmp">Cripple - The target loses all of its stamina</entry>
@@ -257,7 +257,7 @@ For example, if a gladiator with 10 Armor is attacked by a Tribune with 40 Damag
       <entry image="gameres/infobar/unit specials/penetration.bmp">Penetration - The warrior ignores the enemy armor and Deflection special</entry>
       <entry image="gameres/infobar/unit specials/power strike.bmp">Power Strike - Kills the target with one strike if the target is damaged and its maximum health is twice less than that of the warrior (does not work on heroes)</entry>
       <entry image="gameres/infobar/unit specials/rage.bmp">Rage - Increases the warrior's damage by the amount of health he has above 50%. That health, however, is lost after the attack (does not work against heroes)</entry>
-      <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - The warrior restores 20 health every 5 seconds
+      <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - The warrior restores 20 health every 5 sec
 </entry>
       <entry image="gameres/infobar/unit specials/revenge.bmp">Revenge - When the warrior is killed by an enemy in melee, that enemy suffers 100 damage</entry>
       <entry image="gameres/infobar/unit specials/sneak.bmp">Sneak - The warrior becomes hidden if he remains idle for 20 sec</entry>
@@ -590,7 +590,7 @@ While they certainly lack the range of the archers and slingers, the javelin thr
         <entry image="UI/help/defense ico.bmp">Armor 0 </entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 100 gold (200 gold)</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CBarracks.bmp" link="/contents/buildings/CBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/CJavelins.bmp" link="/contents/buildings/CBlacksmith">Affected by Forge Javelins</entry>
@@ -609,7 +609,7 @@ These are berserk attackers with an extremely powerful first attack but lack pro
         <entry image="UI/help/defense ico.bmp">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp">Cost 130 gold (260 gold)</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 14 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 14 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CBarracks.bmp" link="/contents/buildings/CBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/CSwords.bmp" link="/contents/buildings/CBlacksmith">Affected by Forge Swords</entry>
@@ -627,7 +627,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/help/defense ico.bmp">Armor 0 </entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 130 gold (260 gold)</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CBarracks.bmp" link="/contents/buildings/CBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/CMaces.bmp" link="/contents/buildings/CBlacksmith">Affected by Forge Maces</entry>
@@ -646,7 +646,7 @@ The rider wears a light shirt and turban, armed with nothing but a spear.
         <entry image="UI/help/defense ico.bmp">Armor 10</entry>
         <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 220 gold (440 gold)</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CBarracks.bmp" link="/contents/buildings/CBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/CPikes.bmp" link="/contents/buildings/CBlacksmith">Affected by Forge Pikes</entry>
@@ -663,7 +663,7 @@ While most of the Carthaginian warriors are merely hired mercenaries there is th
         <entry image="UI/help/defense ico.bmp">Armor 20</entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 420 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Hire time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Hire time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/CTemple.bmp" link="/contents/buildings/CTemple">Called in Temple</entry>
         <entry vcenter="1" image="UI/icons/upgrades/Sacred Legion.bmp" link="/contents/buildings/CTemple">Requires Sacred Legion</entry>
@@ -701,7 +701,7 @@ The shamans are magicians of the ancient world. Their power was known and feared
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/zombify.bmp">Zombify - Allows priests to transform into ghouls when they die in battle or sacrifice themselves</entry>
         <entry font="large">To also see</entry>
@@ -721,7 +721,7 @@ They could also be disbanded back to peasants when there is no further use of th
         <entry image="UI/help/defense ico.bmp">Armor 6</entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp">Cost 50 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 6 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
       </topic>
@@ -737,7 +737,7 @@ Archery was a common skill among the Iberia population. The archers are a little
         <entry image="UI/help/defense ico.bmp">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 60 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
       </topic>
@@ -755,7 +755,7 @@ They compose the backbone of any army and could provide for excellent defense or
         <entry image="UI/help/defense ico.bmp">Armor 22</entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp">Cost 140 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/ISpears.bmp" link="/contents/buildings/IBlacksmith">Requires Spears</entry>
@@ -772,7 +772,7 @@ The Iberian cavalry is one of the fiercest in existence. These units hit heavily
         <entry image="UI/help/defense ico.bmp">Armor 4</entry>
         <entry image="UI/help/speed ico.bmp">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp">Cost 140 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/HorseShoes.bmp" link="/contents/buildings/IBlacksmith">Requires Horseshoes</entry>
@@ -791,7 +791,7 @@ The stones they throw could break through even the strongest enemy armor.
         <entry image="UI/help/defense ico.bmp">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp">Cost 200 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/ISlingstones.bmp" link="/contents/buildings/IBlacksmith">Requires Slings</entry>
@@ -809,7 +809,7 @@ Equipped with battle axes the Elite Guards are strong in one-on-one combat where
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp">Cost 300 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IBarracks.bmp" link="/contents/buildings/IBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/IBattleaxes.bmp" link="/contents/buildings/IBlacksmith">Requires Battle Axes</entry>
@@ -828,7 +828,7 @@ Treacherous and stealthy Mountaineers could remain invisible for all enemies as 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 14</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/IArena.bmp" link="/contents/buildings/IArena">Hired in Arena</entry>
         <entry vcenter="1" image="UI/icons/upgrades/tournaments.bmp" link="/contents/buildings/IArena">Requires Tournaments</entry>
@@ -869,7 +869,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/help/defense ico.bmp">Armor 6 </entry>
         <entry image="UI/help/speed ico.bmp">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp">Cost 60 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp">Base equip time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp">Base equip time 6 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
       </topic>
@@ -886,7 +886,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 50 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
       </topic>
@@ -904,7 +904,7 @@ This is a berserk type unit that deals a lot of damage.
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 150 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/axe.bmp" link="/contents/buildings/GBlacksmith">Requires Axes</entry>
@@ -923,7 +923,7 @@ Spearmen are extremely effective against cavalry units.
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 120 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/spears bronze.bmp" link="/contents/buildings/GBlacksmith">Requires Spears</entry>
@@ -941,7 +941,7 @@ Horses are expensive but provide excellent speed and protection. Horsemen are eq
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 160 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/horseshoes.bmp" link="/contents/buildings/GBlacksmith">Requires Horseshoes</entry>
@@ -958,7 +958,7 @@ Equipped with light armor and large sword the Woman Warrior is an enemy not to b
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 16</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 220 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GBarracks.bmp" link="/contents/buildings/GBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/woman armor.bmp" link="/contents/buildings/GBlacksmith">Requires Woman Armor</entry>
@@ -977,7 +977,7 @@ Trident Warriors are fierce warriors that have survived uncountable fights at th
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 14</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 1000 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/GArena.bmp" link="/contents/buildings/GArena">Hired in Arena</entry>
         <entry vcenter="1" image="UI/icons/upgrades/Fights.bmp" link="/contents/buildings/GArena">Requires Fights</entry>
@@ -996,10 +996,10 @@ Although they look like old men, druids are by far more dangerous and useful tha
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 2</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/heal.bmp">Heal - Heals the target with 20 plus the level of the healer</entry>
-        <entry vcenter="1" image="UI/Help/GCmdBar/actions/ghost.bmp" link="/contents/units/Ghost">Ghoul summoning - Allows druids to sacrifice themselves and summon a Ghoul, which drains the life from all enemies nearby for about 10 seconds</entry>
+        <entry vcenter="1" image="UI/Help/GCmdBar/actions/ghost.bmp" link="/contents/units/Ghost">Ghoul summoning - Allows druids to sacrifice themselves and summon a Ghoul, which drains the life from all enemies nearby for about 10 sec</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/summon eagle.bmp">Eagle summoning - Allows druids to sacrifice themselves and summon an eagle, which is under your control for about 2 minutes</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Restoration.bmp">Restoration - Allows druids to sacrifice themselves to restore the stamina of 5 nearby allies</entry>
         <entry font="large">See Also</entry>
@@ -1018,7 +1018,7 @@ The hastati are well armored and equipped with short swords (gladius). They gene
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 100 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 6 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1034,7 +1034,7 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 80 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/archer.bmp" link="/contents/buildings/RBlacksmith">Requires Arrows</entry>
@@ -1052,7 +1052,7 @@ Gladiators are fierce warriors that have survived numerous fights at the arena. 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/gladiator show.bmp" link="/contents/buildings/RBlacksmith">Requires Gladiator Shows</entry>
@@ -1070,7 +1070,7 @@ Principles are equipped with large rectangular shields (scutum), body armor and 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Damage 16</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/RBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/principle.bmp" link="/contents/buildings/RBlacksmith">Requires Pikes</entry>
@@ -1166,7 +1166,7 @@ The hastati are well armored and equipped with short swords (gladius). They gene
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 100 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 6 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 6 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/MBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1182,7 +1182,7 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 80 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/MBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/archer.bmp" link="/contents/buildings/MBlacksmith">Requires Arrows</entry>
@@ -1198,7 +1198,7 @@ Equipped with bow and light armor the roman archers are trained so as to provide
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8 </entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 120 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RBarracks.bmp" link="/contents/buildings/MBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/throwing spears.bmp" link="/contents/buildings/MBlacksmith">Requires Throwing Spears</entry>
@@ -1332,7 +1332,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 60 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 4 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 4 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/BBarracks.bmp" link="/contents/buildings/BBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1367,7 +1367,7 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 10</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 140 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/BBarracks.bmp" link="/contents/buildings/BBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/shields.bmp" link="/contents/buildings/BBlacksmith">Requires Large Shields</entry>
@@ -1382,7 +1382,7 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 140 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/BBarracks.bmp" link="/contents/buildings/BBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/cjavelins.bmp" link="/contents/buildings/BBlacksmith">Requires Javelins</entry>
@@ -1398,7 +1398,7 @@ Equipped with a large shield the Shield Bearer is an enemy not to be underestima
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 6</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 400 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/BBarracks.bmp" link="/contents/buildings/BBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/cswords.bmp" link="/contents/buildings/BBlacksmith">Requires Swords</entry>
@@ -1436,9 +1436,9 @@ Although they look like old men, druids are by far more dangerous and useful tha
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 160 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 20 sec</entry>
         <entry font="large">Abilities</entry>
-        <entry vcenter="1" image="UI/Help/BCmdBar/actions/ghost.bmp" link="/contents/units/Ghost">Ghoul summoning - Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 seconds@Britain Ghoul Summoning" result="Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 seconds</entry>
+        <entry vcenter="1" image="UI/Help/BCmdBar/actions/ghost.bmp" link="/contents/units/Ghost">Ghoul summoning - Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 sec@Britain Ghoul Summoning" result="Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 sec</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/summon wolf.bmp">  Wolf summoning - Allows druids to sacrifice themselves and summon a wolf, which remains under your control for about 3 minutes  </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Mass Healing.bmp">Mass Healing - Allows druids to sacrifices themselves to heal nearby allies</entry>
         <entry font="large">See Also</entry>
@@ -1458,7 +1458,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 80 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 8 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="/contents/buildings/EBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1474,7 +1474,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 60 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 8 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 8 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="/contents/buildings/EBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1488,7 +1488,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">180 Cost gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="/contents/buildings/EBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1502,7 +1502,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 260 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="/contents/buildings/EBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/cult of anubis.bmp" link="/contents/buildings/EArena">Requires Cult to Anubis</entry>
@@ -1517,7 +1517,7 @@ Equipped with bow and light armor the egyptian archers are trained so as to prov
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 260 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 16 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="/contents/buildings/EBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/cult of horus.bmp" link="/contents/buildings/EArena">Requires Cult of Horus</entry>
@@ -1535,7 +1535,7 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Defense 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 260 gold + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/EBarracks.bmp" link="/contents/buildings/EBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1551,7 +1551,7 @@ Equipped with a large shield the Guardian is an enemy not to be underestimated. 
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 16</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 400 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 30 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 30 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/ETempleofosiris.bmp" link="/contents/buildings/ETempleofosiris">Hired in Temple of Osiris</entry>
         <entry vcenter="1" image="UI/icons/upgrades/cult of osiris.bmp" link="/contents/buildings/ETempleofosiris">Requires Cult of Osiris</entry>
@@ -1567,7 +1567,7 @@ Priests are servants of the egyptian gods in white robes. Although they cannot a
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 2  </entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 300 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 second</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Hire time 10 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/mist.bmp">Cloud of Plague - Allows priests to sacrifice themselves to create a cloud of plague which damages all warriors it covers</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/zombify.bmp">Zombify - Allows priests to transform into ghouls when they die in battle or sacrifice themselves     </entry>
@@ -1589,7 +1589,7 @@ Swordsmen are cheap general-purpose units that can be trained quickly in case of
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 120 food + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1607,7 +1607,7 @@ Archers are most effective against small enemy armies, or as support for your ma
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 200 food + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 12 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
       </topic>
@@ -1622,7 +1622,7 @@ This is a berserk type unit that deals a lot of damage.</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 300 food + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/axe iron.bmp" link="/contents/buildings/TBlacksmith">Affected by Increase Axe production</entry>
@@ -1641,7 +1641,7 @@ Huntress are most effective against small enemy armies, or as support for your m
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 400 food + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 14 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/cjavelins.bmp" link="/contents/buildings/TBlacksmith">Affected by Increase Javelin production</entry>
@@ -1658,7 +1658,7 @@ Bloodthirsty and wild, Teuton riders fight in battle wearing wolf skins as cloak
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 400 food + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">Equipped in Barracks</entry>
         <entry vcenter="1" image="UI/icons/upgrades/horseshoes.bmp" link="/contents/buildings/TBlacksmith">Affected by Increase Horseshoe production</entry>
@@ -1675,8 +1675,9 @@ These are exceptionally strong and fast archers, perfect for disruption of the e
         <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 10 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 8</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
-        <entry image="UI/help/food ico.bmp" vspacing="2">Cost 400 food + 1 peasant</entry>
+        <entry image="UI/help/food ico.bmp" vspacing="2">Be transformed by Teuton Rider</entry>
         <entry font="large">See Also</entry>
+		<entry vcenter="1" image="UI/icons/TTeutonRider.bmp" link="/contents/units/TTeutonRider">Teuton Rider</entry>
         <entry vcenter="1" image="UI/icons/upgrades/Teuton Master.bmp" link="/contents/buildings/TArena">Requires Teuton Master</entry>
       </topic>
       <topic id="TMaceman">
@@ -1692,7 +1693,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : medium</entry>
         <entry image="UI/help/food ico.bmp" vspacing="2">Cost 500 food + 1 peasant</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TBarracks.bmp" link="/contents/buildings/TBarracks">is recruited in the quarter</entry>
         <entry vcenter="1" image="UI/icons/upgrades/Incr Mace Production.bmp" link="/contents/buildings/TBlacksmith">Affected by Increase Mace production</entry>
@@ -1708,7 +1709,7 @@ Their training and choice of weapons makes them extremely powerful in both defen
         <entry image="UI/help/defense ico.bmp" vspacing="2">Defense 12</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 1000 gold for 5 Valkyries</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 seconds</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/TSanctuaryOfVotan.bmp" link="/contents/buildings/TArena">Hired in Sanctuary of Votan</entry>
         <entry vcenter="1" image="UI/icons/upgrades/Fights.bmp" link="/contents/buildings/TArena">Requires Fights</entry>
@@ -1726,7 +1727,7 @@ As matriarchs enchantresses have great political power and influence over all Ge
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 16</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed: very slow</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 200 gold</entry>
-        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 10 second</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Base equip time 20 sec</entry>
         <entry font="large">Abilities</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/summon wolf.bmp">Wolf summoning - Allows druids to sacrifice themselves and summon a wolf, which remains under your control for about 3 minutes</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/summon eagle.bmp">Eagle summoning - Allows druids to sacrifice themselves and summon an eagle, which is under your control for about 2 minutes</entry>
@@ -1776,8 +1777,8 @@ Weak and peaceful peasants are called only to be moved to another village or str
 The boat is a small vessel used to transport resources between shipyards and also supply the army with food during military campaigns. Its function is as that of the Mule on land.
 				</entry>
         <entry image="UI/help/health ico.bmp">Health 400</entry>
-        <entry image="UI/help/defense ico.bmp" vspacing="2">Damage 5</entry>
-        <entry image="UI/help/speed ico.bmp" vspacing="2">Armor 0</entry>
+        <entry image="UI/help/defense ico.bmp" vspacing="2">Damage 0</entry>
+        <entry image="UI/help/speed ico.bmp" vspacing="2">Armor 5</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry font="large">See Also</entry>
         <entry vcenter="1" image="UI/icons/RShipyard.bmp" link="/contents/buildings/Shipyard">Shipyard</entry>
@@ -1790,7 +1791,7 @@ The battleship is equipped so as to attack other ships and targets on the coast,
         <entry image="UI/icons/shipegypt.bmp">Egyptian Ships are built by Egyptians.  They are equipped so as to attack other ships and targets on the coast, as well as carry 60 units.</entry>
         <entry image="UI/icons/shiprome.bmp">Roman Ships are built by Romans.  They are equipped so as to attack other ships and targets on the coast, as well as carry 60 units.</entry>
         <entry image="UI/help/health ico.bmp">Health 3000</entry>
-        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 70</entry>
+        <entry image="UI/help/pattack ico.bmp" vspacing="2">Damage 100</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 15</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : fast</entry>
         <entry image="UI/help/gold ico.bmp" vspacing="2">Cost 1000 gold</entry>
@@ -1804,13 +1805,25 @@ The battleship is equipped so as to attack other ships and targets on the coast,
 The catapult is a large wooden device capable of launching heavy flaming projectiles towards the designed target. It is created and operated of up to 10 warriors. The more the warriors the faster the catapult fires.
 Due to its inaccurate fire the catapult is mostly effective against buildings.
                                 </entry>
-        <entry image="UI/icons/BRam.bmp"> Rams are used to attack and knock down the enemy's gate. It is created and operated of up to 10 warriors.  The ram will automatically hit the nearest gate.                                          </entry>
-        <entry image="UI/icons/Roman Tower.bmp">One of the machines developed to attack walled towns was the siege tower.  This large wooden tower was covered with wet hides to minimize its vulnerability to fire. Warriors shoot arrows from inside the tower towards the designed target. 
-It is created and operated of up to 10 warriors. The more the warriors the faster the arrows from the tower will fire.</entry>
-        <entry image="UI/help/health ico.bmp">Health 1000</entry>
-        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 120</entry>
+		<entry image="UI/help/health ico.bmp">Health 1000</entry>
+        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 120 (ranger: cleave damage)</entry>
+		<entry image="UI/help/speed ico.bmp" vspacing="2">Attack speed : medium</entry>
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
         <entry image="UI/help/train ico.bmp" vspacing="2">Construction time 10-60 sec</entry>
+        <entry image="UI/icons/BRam.bmp"> Rams are used to attack and knock down the enemy's gate. It is created and operated of up to 10 warriors. After construction, there is no need for warriors to stay insite, the ram can move and will automatically hit the nearest gate.</entry>
+		<entry image="UI/help/health ico.bmp">Health 1000</entry>
+        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 300 (melee)</entry>
+		<entry image="UI/help/speed ico.bmp" vspacing="2">Attack speed : fast</entry>
+        <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 20</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Construction time 10-60 sec</entry>
+        <entry image="UI/icons/Roman Tower.bmp">One of the machines developed to attack walled towns was the siege tower.  This large wooden tower was covered with wet hides to minimize its vulnerability to fire. Warriors shoot arrows from inside the tower towards the designed target. 
+It is created and operated of up to 10 warriors. The more the warriors the faster the arrows from the tower will fire.</entry>
+		<entry image="UI/help/health ico.bmp">Health 1000</entry>
+        <entry image="UI/help/sattack ico.bmp" vspacing="2">Damage 120 (ranger: correcty 1 target)</entry>
+		<entry image="UI/help/speed ico.bmp" vspacing="2">Attack speed : fast</entry>
+        <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 0</entry>
+        <entry image="UI/help/train ico.bmp" vspacing="2">Construction time 10-60 sec</entry>
+
       </topic>
       <topic id="Ghost">
         <entry hcenter="1" font="large">Ghoul</entry>
@@ -1822,7 +1835,8 @@ Once the ghoul's time in this word runs out it returns to the world of the dead.
         <entry image="UI/help/defense ico.bmp" vspacing="2">Armor 4</entry>
         <entry image="UI/help/speed ico.bmp" vspacing="2">Speed : slow</entry>
         <entry font="large">See Also</entry>
-        <entry vcenter="1" image="UI/icons/GDruid.bmp" link="/contents/units/GDruid">Summoned by Druid</entry>
+        <entry vcenter="1" image="UI/icons/GDruid.bmp" link="/contents/units/GDruid">Summoned by Gaul Druid</entry>
+		<entry vcenter="1" image="UI/icons/BDruid.bmp" link="/contents/units/BDruid">Summoned by Briton Druid</entry>
         <entry vcenter="1" image="UI/icons/CShaman.bmp" link="/contents/units/CShaman">Summoned by Shaman</entry>
         <entry vcenter="1" image="UI/icons/EPriest.bmp" link="/contents/units/EPriest">Summoned by Priest</entry>
       </topic>
@@ -1921,7 +1935,7 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+Starts/Stops automatic training of units in the stronghold.
 				</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Military Training.bmp">Military Training 
 Increase the level (with 1) of all friendly units in and around the Townhall.
@@ -2101,15 +2115,15 @@ Equip Militiaman
 Cost: 50 gold; Time: 1 - 6 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IArcher.bmp" link="/contents/units/IArcher">Equip Archer
-Cost: 60 gold; Time 2 - 10 seconds      </entry>
+Cost: 60 gold; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train ISlinger.bmp" link="/contents/units/ISlinger">Equip Slinger 
-Cost: 200 gold; Time 3 - 16 seconds      </entry>
+Cost: 200 gold; Time 3 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IDefender.bmp" link="/contents/units/IDefender">Equip Defender 
-Cost: 140 gold; Time 2 - 16 seconds                                  </entry>
+Cost: 140 gold; Time 2 - 16 sec                                  </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train ICavalry.bmp" link="/contents/units/ICavalry">Equip Cavalry 
-Cost: 140 gold; Time 2 - 20 seconds                                  </entry>
+Cost: 140 gold; Time 2 - 20 sec                                  </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IEliteGuard.bmp" link="/contents/units/IEliteGuard">Equip Elite Guard 
-Cost: 300 gold; Time 3 - 20 seconds      </entry>
+Cost: 300 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2124,17 +2138,17 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gswordsman.bmp" link="/contents/units/GSwordsman">Equip Swordsman
-Cost: 60 gold; Time 1 - 6 seconds      </entry>
+Cost: 60 gold; Time 1 - 6 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train garcher.bmp" link="/contents/units/GArcher">Equip Archer
-Cost: 50 gold; Time 2 - 10 seconds      </entry>
+Cost: 50 gold; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gaxeman.bmp" link="/contents/units/GAxeman">Equip Axeman
-Cost: 150 gold; Time 2 - 16 seconds  </entry>
+Cost: 150 gold; Time 2 - 16 sec  </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gspearman.bmp" link="/contents/units/GSpearman">Equip Spearman
-Cost: 120 gold; Time 2 - 16 seconds  </entry>
+Cost: 120 gold; Time 2 - 16 sec  </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train ghorseman.bmp" link="/contents/units/GHorseman">Equip Horseman
-Cost: 160 gold; Time 3 - 20 seconds      </entry>
+Cost: 160 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train GWomanWarrior.bmp" link="/contents/units/GWWarrior">Equip Woman Warrior
-Cost: 220 gold; Time 3 - 20 seconds      </entry>
+Cost: 220 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2149,19 +2163,19 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rhastatus.bmp" link="/contents/units/RHastatus">Equip Hastatus
-Cost: 100 gold; Time 1 - 6 seconds      </entry>
+Cost: 100 gold; Time 1 - 6 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rarcher.bmp" link="/contents/units/RArcher">Equip Archer
-Cost: 80 gold; Time 2 - 10 seconds      </entry>
+Cost: 80 gold; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rgladiator.bmp" link="/contents/units/RGladiator">Equip Gladiator
-Cost: 200 gold; Time 2 - 14 seconds      </entry>
+Cost: 200 gold; Time 2 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rprinciple.bmp" link="/contents/units/RPrinciple">Equip Principle
-Cost: 200 gold; Time 2 - 16 seconds      </entry>
+Cost: 200 gold; Time 2 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rscout.bmp" link="/contents/units/RScout">Equip Scout
-Cost: 120 gold; Time 3 - 20 seconds      </entry>
+Cost: 120 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rtribune.bmp" link="/contents/units/RTribune">Equip Tribune
-Cost: 300 gold; Time 3 - 20 seconds      </entry>
+Cost: 300 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/hire rchariot.bmp" link="/contents/units/RChariot">Equip Chariot
-Cost: 400 gold; Time 3 - 20 seconds      </entry>
+Cost: 400 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2176,17 +2190,17 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rhastatus.bmp" link="/contents/units/MHastatus">Equip Hastatus
-Cost: 100 gold; Time 1 - 6 seconds      </entry>
+Cost: 100 gold; Time 1 - 6 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rarcher.bmp" link="/contents/units/MArcher">Equip Archer
-Cost: 80 gold; Time 2 - 10 seconds      </entry>
+Cost: 80 gold; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rvelit.bmp" link="/contents/units/MVelit">Equip Velit
-Cost: 120 gold; Time 2 - 14 seconds      </entry>
+Cost: 120 gold; Time 2 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rprinciple.bmp" link="/contents/units/MPrinciple">Equip Principle
-Cost: 200 gold; Time 2 - 16 seconds      </entry>
+Cost: 200 gold; Time 2 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rscout.bmp" link="/contents/units/MScout">Equip Scout
-Cost: 120 gold; Time 3 - 20 seconds      </entry>
+Cost: 120 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rpraetorian.bmp" link="/contents/units/MPraetorian">Equip Praetorian
-Cost: 400 gold; Time 3 - 20 seconds      </entry>
+Cost: 400 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2201,17 +2215,17 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bswordsman.bmp" link="/contents/units/BSwordsman">Equip Swordsman
-Cost: 50 gold; Time 2 - 8 seconds      </entry>
+Cost: 50 gold; Time 2 - 8 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bbowman.bmp" link="/contents/units/BBowman">Equip Bowman
-Cost: 60 gold; Time 1 - 4 seconds      </entry>
+Cost: 60 gold; Time 1 - 4 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BBronzeSpearman.bmp" link="/contents/units/BBronzeSpearman">Equip Bronze Spearman
-Cost: 160 gold; Time 2 - 10 seconds      </entry>
+Cost: 160 gold; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BShieldBearer.bmp" link="/contents/units/BShieldBearer">Equip Shield Bearer
-Cost: 140 gold; Time 2 - 10 seconds      </entry>
+Cost: 140 gold; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BJavelineer.bmp" link="/contents/units/BJavelineer">Equip Javelineer
-Cost: 140 gold; Time 3 - 12 seconds      </entry>
+Cost: 140 gold; Time 3 - 12 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BHighlander.bmp" link="/contents/units/BHighlander">Equip Highlander
-Cost: 400 gold; Time 3 - 20 seconds      </entry>
+Cost: 400 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2226,17 +2240,17 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train eswordsman.bmp" link="/contents/units/ESwordsman">Equip Swordsman 
-Cost: 80 gold; Time 3 - 10 seconds      </entry>
+Cost: 80 gold; Time 3 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train earcher.bmp" link="/contents/units/EArcher">Equip Archer 
-Cost: 60 gold; Time 2 - 8 seconds      </entry>
+Cost: 60 gold; Time 2 - 8 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train Eaxetrower.bmp" link="/contents/units/EAxeThrower">Equip Axe Thrower 
-Cost: 180 gold; Time 3 - 12 seconds      </entry>
+Cost: 180 gold; Time 3 - 12 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train EAnubisWarrior.bmp" link="/contents/units/EAnubisWarrior">Equip Anubis Warrior
-Cost: 260 gold; Time 3 - 16 seconds      </entry>
+Cost: 260 gold; Time 3 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train EHorusWarrior.bmp" link="/contents/units/EHorusWarrior">Equip Horus Warrior
-Cost: 260 gold; Time 3 - 16 seconds      </entry>
+Cost: 260 gold; Time 3 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train EGuardian.bmp" link="/contents/units/EGuardian">Equip Guardian
-Cost: 260 gold; Time 3 - 20 seconds      </entry>
+Cost: 260 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2251,17 +2265,17 @@ Upgrade efficiency I, II, III
 Cost: 500 gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tswordsman.bmp" link="/contents/units/TSwordsman">Equip Swordsman
-Cost: 120 food; Time 3 - 10 seconds      </entry>
+Cost: 120 food; Time 3 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tarcher.bmp" link="/contents/units/TArcher">Equip Archer
-Cost: 200 food; Time 3 - 12 seconds      </entry>
+Cost: 200 food; Time 3 - 12 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train taxeman.bmp" link="/contents/units/TAxeman">Equip Axeman
-Cost: 300 food; Time 3 - 14 seconds      </entry>
+Cost: 300 food; Time 3 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tHuntress.bmp" link="/contents/units/THuntress">Equip Huntress
-Cost: 400 food; Time 3 - 14 seconds      </entry>
+Cost: 400 food; Time 3 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train TTeutonRider.bmp" link="/contents/units/TTeutonRider">Equip Teuton Rider
-Cost: 400 food; Time 3 - 20 seconds      </entry>
+Cost: 400 food; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train TMaceman.bmp" link="/contents/units/TMaceman">Equip Maceman
-Cost: 500 food; Time 3 - 20 seconds      </entry>
+Cost: 500 food; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2303,7 +2317,7 @@ Stop production of a type of weapon and allow production of other weapons
 				</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2337,7 +2351,7 @@ Cost: 2400 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2386,7 +2400,7 @@ Cost: 1400 gold; Time: 30 sec
 				</entry>	
         <entry vcenter="1" image="UI/Help/GCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2405,19 +2419,19 @@ Cost: 400 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/pikes.bmp" link="/contents/units/RPrinciple">Pikes
 Allows Principles to be equipped in the Barracks 
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/horseshoes.bmp" link="/contents/units/RScout">Horseshoes  
 Allows Scouts to be equipped in the Barracks
-Cost: 600 gold; Time 30 seconds      </entry>
+Cost: 600 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/full armor.bmp" link="/contents/units/RTribune">Full Armor
 Allows Tribunes to be equipped in the Barracks  
-Cost: 4000 gold; Time 30 seconds      </entry>
+Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/chariot wheels.bmp" link="/contents/units/RChariot">Chariot Wheels
 Allows Chariots to be equipped in the Barracks
-Cost: 4000 gold; Time 30 seconds      </entry>
+Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2436,19 +2450,19 @@ Cost: 400 gold; Time: 30 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/throwing spears.bmp" link="/contents/units/MVelit">Throwing Spears 
 Allows Velites to be equipped in the Barracks
-Cost: 1600 gold; Time 30 seconds      </entry>
+Cost: 1600 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/pikes.bmp" link="/contents/units/MPrinciple">Pikes
 Allows Principles to be equipped in the Barracks
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/horseshoes.bmp" link="/contents/units/MScout">Horseshoes
 Allows Scouts to be equipped in the Barracks
-Cost: 600 gold; Time 30 seconds      </entry>
+Cost: 600 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/spike armor.bmp" link="/contents/units/MPraetorian">Spike Armor
 Allows Praetorians to be equipped in the Barracks
-Cost: 4000 gold; Time 30 seconds      </entry>
+Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2462,19 +2476,19 @@ It is in the blacksmith that weapons and armor are created. When new types of eq
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/spears iron.bmp" link="/contents/units/BBronzeSpearman">Spears
 Allows Bronze Spearmen to be equipped in the Barracks
-Cost: 1500 gold; Time 30 seconds      </entry>
+Cost: 1500 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/shields.bmp" link="/contents/units/BShieldBearer">Large Shields
 Allows Shield Bearers to be equipped in the Barracks
-Cost: 1200 gold; Time 30 seconds      </entry>
+Cost: 1200 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/CJavelins.bmp" link="/contents/units/BJavelineer">Javelins  
 Allows Javelineers to be equipped in the Barracks
-Cost: 1200 gold; Time 30 seconds      </entry>
+Cost: 1200 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/CSwords.bmp" link="/contents/units/BHighlander">Swords
 Allows Highlanders to be equipped in the Barracks
-Cost: 3000 gold; Time 30 seconds      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2488,19 +2502,19 @@ It is in the blacksmith that weapons and armor are created. When new types of eq
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of seth.bmp">Charm of Seth
 Gives a Damage charm (+4 damage) to up to 50 warriors around the townhall
-Cost: 600 gold; Time 5 second      </entry>
+Cost: 600 gold; Time 5 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of Thoth.bmp">Charm of Thoth
 Gives an Armor charm (+4 armor) to up to 50 warriors around the townhall
-Cost: 600 gold; Time 5 second      </entry>
+Cost: 600 gold; Time 5 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of ra.bmp">Charm of Ra
 Gives a Health charm (+40 health points) to up to 50 warriors around the townhall
-Cost: 600 gold; Time 5 second      </entry>
+Cost: 600 gold; Time 5 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/charm of isis.bmp">Charm of Isis Aumenta 
 Gives a Knowledge charm (+4 levels) to up to 50 warriors around the townhall 
-Cost: 600 gold; Time 5 seconds      </entry>
+Cost: 600 gold; Time 5 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2514,19 +2528,19 @@ It is in the blacksmith that weapons and armor are created. When new types of eq
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/axe iron.bmp" link="/contents/units/TAxeman">Increase Axe production
 Increases the number of Axemen you can have by 10
-Cost: 500 gold; Time 20 seconds      </entry>
+Cost: 500 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/cjavelins.bmp" link="/contents/units/THuntress">Increase Javelin production
 Increases the number of Huntresses you can have by 10 
-Cost: 800 gold; Time 20 seconds      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/horseshoes.bmp" link="/contents/units/TTeutonRider">Increase Horseshoe production
 Increases the number of Teuton Riders you can have by 10
-Cost: 800 gold; Time 20 seconds      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/Incr Mace Production.bmp" link="/contents/units/TMaceman">Increase Mace production
 Increases the number of Macemen you can have by 10
-Cost: 800 gold; Time 20 seconds      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/Stronghold Defense.bmp">Strengthen Stronghold Defenses I and II
 Makes the defenders at the stronghold walls level 12 and level 24
-Cost: 1000 (2000) gold; Time 30 seconds      </entry>
+Cost: 1000 (2000) gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2540,25 +2554,25 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire heroC.bmp" link="/contents/units/CHero">Hire hero
-Cost: 800 gold; Time 20 second      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/peoples assembly.bmp">People's Assembly
 Allows the training of War Elephants  
-Cost: 2000 gold; Time 25 second                                  </entry>
+Cost: 2000 gold; Time 25 sec                                  </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/shared strength.bmp">Shared Strength (requires People's Assembly)
 If you have over 12 warriors of a type the new ones you hire are level 6
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/shared triumph.bmp">Shared Triumph (requires Shared Strength)
 If you have over 24 warriors of a type the new ones you hire are level 12
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Hire CWarElephant.bmp" link="/contents/units/CWarElephant">Train War Elephant (requires People's Assembly)
 Trains a War Elephant
-Cost: 1000 food; Time 20 second      </entry>
+Cost: 1000 food; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/mahout school.bmp">Mahout School (requires People's Assembly)
 Increases the number of elephants you can support by 1
-Cost: 1000 gold; Time 30 second      </entry>
+Cost: 1000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/spoils of war.bmp">Spoils of war (requires People's Assembly)
 Allows warriors to collect spoils of war worth 100 gold from each enemy they've killed
-Cost: 3000 gold; Time 20 seconds      </entry>
+Cost: 3000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2571,16 +2585,16 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/hire heroI.bmp" link="/contents/units/IHero">Hire hero
-Cost: 800 gold; Time 20 second      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/tournaments.bmp">Tournaments
 Allows Mountaineers to be hired
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/heroes wisdom.bmp">Heroes' Wisdom (requires Tournaments) 
 Increases heroes' experience with time
-Cost: 2000 gold; Time 60 second      </entry>
+Cost: 2000 gold; Time 60 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/warriors wisdom.bmp">Warriors' Wisdom (requires Heroes' Wisdom) 
 Increases warriors' experience with time until they reach level 12
-Cost: 2000 gold; Time 20 seconds      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IMountaineer.bmp" link="/contents/units/IMountaineer">
 Hire Mountaineer (requires Tournaments) 
 Hires a mountaineer, there cannot be more than 10 mountaineers per player without further upgrades.
@@ -2593,10 +2607,10 @@ Cost: 2000 gold; Time: 40 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/Mountain Clan Legacy.bmp">Mountain Clan Legacy (requires Mountain Clan)
 New Mountaineers have the experience of the best Mountaineer you've had
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/nobility.bmp">Nobility (requires Tournaments) 
 All warriors who reach level 8 become level 12
-Cost: 3000 gold; Time 20 seconds      </entry>
+Cost: 3000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2609,31 +2623,31 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/hire heroG.bmp" link="/contents/units/GHero">Hire hero
-Cost: 1000 gold; Time 20 second      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Fights.bmp">Fights
 New Swordsmen and Archers are level 4
-Cost: 2000 gold; Time 25 second      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/training.bmp">Training (requires Fights)
 Allows warriors to train to level 4
-Cost: 1000 gold; Time 25 second      </entry>
+Cost: 1000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/advanced training.bmp">Advanced Training (requires Training)
 Allows warriors to train to level 8
-Cost: 1500 gold; Time 25 second      </entry>
+Cost: 1500 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/maser training.bmp">Special Training (requires Advanced Training)
 Allows warriors to train to level 12
-Cost: 2000 gold; Time 25 seconds      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/hire TridentWarrior.bmp" link="/contents/units/GTridentwarrior">Hire Trident Warrior (requires Fights) 
 Hires a Trident Warrior
-Cost: 1000 gold; Time 20 second      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/warriortales.bmp">Warrior Tales
 When a warrior dies he gives 1 experience to a nearby ally (though not to a hero)
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/trident warrior exp 1.bmp">Trident Warrior Experience I, II and III 
 All new Trident Warriors are level 12, level 18, and level 24. 
-Cost: 800 (1000, 2000) gold; Time 20 second      </entry>
+Cost: 800 (1000, 2000) gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/Battle Library.bmp">Battle Tactics
 Doubles the experience your army receives in battle
-Cost: 3000 gold; Time 30 seconds      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2646,25 +2660,25 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/hire heror.bmp" link="/contents/units/RHero">Hire hero
-Cost: 1200 gold; Time 20 second      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/Upgrades/Gladiator Show.bmp">Gladiator Shows
 Allows Gladiators to be hired
-Cost: 2000 gold; Time 25 second      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/training.bmp">Training (Requires Gladiator Shows)
 Allows warriors to train to level 4
-Cost: 1000 gold; Time 25 second      </entry>
+Cost: 1000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/advanced training.bmp">Advanced Training (requires Training)
 Allows warriors to train to level 8
-Cost: 2000 gold; Time 25 second      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/veteran offence.bmp">Veteran Offense (Requires Gladiator Shows)
 Warriors receive a Veteran Offense medal (+20% damage) at their first kill
-Cost: 3000 gold; Time 30 second      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/veteran defence.bmp">Veteran Defense (Requires Gladiator Shows)
 Warriors receive a Veteran Defense medal (+20% armor) at their first kill
-Cost: 3000 gold; Time 30 second      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/veteran health.bmp">Veteran Health (Requires Gladiator Shows)
 Warriors receive a Veteran Health medal (+20% health) at their first kill
-Cost: 3000 gold; Time 25 seconds      </entry>
+Cost: 3000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2677,28 +2691,28 @@ In every stronghold throughout the land there are arenas where fighters show the
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/hire heror.bmp" link="/contents/units/MHero">Hire hero
-Cost: 600 gold; Time 20 second      </entry>
+Cost: 600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/Upgrades/Gladiator Show.bmp">Gladiator Shows
 Allows Liberati to be hired
-Cost: 2000 gold; Time 25 second </entry>
+Cost: 2000 gold; Time 25 sec </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/standartization 1.bmp">Standardization I (requires Gladiator Shows)
 All new warriors are level 4 but cannot gain more experience
-Cost: 1000 gold; Time 30 second      </entry>
+Cost: 1000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/standartization 2.bmp">Standardization II (requires Standardization I)
 All new warriors are level 8 but cannot gain more experience
-Cost: 2000 gold; Time 25 seconds      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/flexibility.bmp">Flexibility (requires Standardization II)
 Allows warriors to gain experience past level 8
-Cost: 4000 gold; Time 30 seconds      </entry>
+Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/hire rliberati.bmp" link="/contents/units/MLiberatus">Hire Liberati (Requires Gladiator Shows)
 Hires a group of 10 Liberati 
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/research/Super champions.bmp">Liberati guild (Requires Gladiator Shows)
 All new Liberati are one level better than the best Liberatus you've had
-Cost: 1600 gold; Time 25 second      </entry>
+Cost: 1600 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/Military academy.bmp">Military academy (Requires Gladiator Shows) 
 All new heroes are level 12
-Cost: 3000 gold; Time 25 seconds      </entry>
+Cost: 3000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2711,25 +2725,25 @@ Briton fighters gather at the Morrigan's monument to show their skill and compet
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/hire heroB.bmp" link="/contents/units/BHero">Hire hero
-Cost: 600 gold; Time 20 second      </entry>
+Cost: 600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/Fights.bmp">Fights
 All new warriors are level 4
-Cost: 3000 gold; Time 30 seconds      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/nobility.bmp">Nobility (requires Fights)
 All warriors who reach level 8 become level 12
-Cost: 3000 gold; Time 20 second      </entry>
+Cost: 3000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/noble offence.bmp">Noble Offense (requires Fights)
 All warriors above level 12 receive a Noble Offense artifact (+4 damage) at their first kill 
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/noble defence.bmp">Noble Defense (requires Fights)
 All warriors above level 12 receive a Noble Defense artifact (+4 armor) at their first kill
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/hire BVikingLord.bmp" link="/contents/units/BVikingLord">Hire Viking Lord (requires Fights)
 Hires a Viking Lord
-Cost: 1000 gold; Time 20 second      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/Shrine of Thor.bmp">Shrine of Thor (requires Fights) 
 Each new Viking Lord is 2 levels more experienced than the last (though not over level 20)
-Cost: 2000 gold; Time 20 seconds      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2742,28 +2756,28 @@ Warriors gather at the Temple of Horus and Anubis to show their skill and compet
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/hire heroE.bmp" link="/contents/units/EHero">Hire hero
-Cost: 800 gold; Time 20 second      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/upgrades/cult of anubis.bmp">Cult of Anubis
 Allows training of Anubis warriors
-Cost: 2000 gold; Time 25 seconds      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/statue of isis.bmp">Statue of Isis, mother of Anubis (requires Cult of Anubis)
 Warriors heal twice as fast
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/path of the dead 1.bmp">Path of the dead  I, II and III (requires Cult of Anubis) 
 Allows a warrior to become at least level 4, level 8 and level 16 upon killing an enemy
-Cost: 500 (1000, 1500) gold; Time 20 second      </entry>
+Cost: 500 (1000, 1500) gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/upgrades/cult of horus.bmp">Cult of Horus
 Allows training of Horus warriors
-Cost: 2000 gold; Time 25 seconds      </entry>
+Cost: 2000 gold; Time 25 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/statue of osiris.bmp">Statue of Osiris, father of Horus (requires Cult of Horus)
 Warriors restore stamina twice as fast
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/Light of Horus 1.bmp">Light of Horus I, II and III (requires Cult of Horus)
 All new warriors are level 2, level 4 and level 6
-Cost: 500 (1000, 1500) gold; Time 20 seconds      </entry>
+Cost: 500 (1000, 1500) gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/statue of amon-ra.bmp">Statue of Amon-Ra (requires Cult of Horus)
 Warriors get 5 additional health points with every level
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2776,25 +2790,25 @@ Warriors gather at the Sanctuary of Votan to show their skill and compete agains
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/hire heroT.bmp" link="/contents/units/THero">Hire hero
-Cost: 1000 gold; Time 20 second      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/Fights.bmp">Fights
 Gathers 2000 food (works only once)
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/hire TValkyrie.bmp" link="/contents/units/TValkyrie">Call Valkyries (requires Fights)
 Calls 5 Valkyries
-Cost: 1000 gold; Time 20 second      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/Legendary Valkyries.bmp">Legendary Valkyries (requires Fights)
 All new Valkyries are one level better than the best Valkyries you've had
-Cost: 1200 gold; Time 20 second      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/learning.bmp">Learning (requires Fights)
 All warriors gain 1 experience for every successful attack against a more experienced enemy
-Cost: 2000 gold; Time 30 the second      </entry>
+Cost: 2000 gold; Time 30 the sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/attack focus.bmp">Attack focus (requires Fights)
 The warriors' damage is not reduced when fighting more experienced enemies
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/teuton master.bmp">Teuton Master (requires Fights)
 Allows Teuton Riders to change to Teuton Archers and vise versa
-Cost: 1000 gold; Time 30 seconds       </entry>
+Cost: 1000 gold; Time 30 sec       </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2809,19 +2823,19 @@ Markets are places where news is exchanged and deals made. People come from all 
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/buy food.bmp">Buy 800 Food
 Buy 800 food for 500 gold
-Cost: 500 gold; Time 10 seconds      </entry>
+Cost: 500 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/free trade.bmp">Free trade
 Increases the population of the stronghold to 100 (works only once)
-Cost: 3000 gold; Time 20 second      </entry>
+Cost: 3000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/tribute.bmp">Tribute (requires Free trade)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 second      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/expedition.bmp">Expedition (requires Free trade)
 Removes the fog of war in a chosen area and reveals any hidden warriors there. There can be only one such area at a given moment
-Cost: 1000 gold; Time 20 second      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/mercenary pact.bmp">Mercenary Pact (requires Free trade)
 Gives 40 gold to a hero each time one of his attached warriors dies
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/slavery.bmp">Slavery (requires Free trade)
 Sell 50 population for 2000 gold</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
@@ -2837,22 +2851,22 @@ Taverns are meeting places where news is exchanged and deals made. People come f
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Add population.bmp">Increase population
 Increases the stronghold population by 10
-Cost: 600 food; Time 10 seconds      </entry>
+Cost: 600 food; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/free beer.bmp">Free Drinks
 Attracts 10 population to the stronghold (works only once)
-Cost: 2000 gold; Time 20 seconds      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/states/sell food.bmp">Sell Food (requires Free Drinks)
 Sells 1000 food at the market for 500 gold
-Cost: 1000 food; Time 30 second      </entry>
+Cost: 1000 food; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/tribute.bmp">Tribute (requires Free Drinks)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 seconds  </entry>
+Cost: 2000 gold; Time 90 sec  </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Housing.bmp">Housing (requires Free Drinks)
 Increases the maximum population of the stronghold by 20
-Cost: 1000 gold; Time 30 second      </entry>
+Cost: 1000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/call to arms.bmp">Call to Arms (requires Free Drinks)
 Drafts 50 peasants, making them Militiamen
-Cost: 800 gold; Time 20 seconds                                  </entry>
+Cost: 800 gold; Time 20 sec                                  </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2866,26 +2880,26 @@ Taverns are meeting places where news is exchanged and deals made. People come f
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Add population.bmp">Increase population
 Increases the stronghold population by 10
-Cost: 400 food; Time 10 seconds      </entry>
+Cost: 400 food; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/free beer.bmp">Free Beer
 Attracts 20 population to the stronghold (works only once)
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Food Tax.bmp">Food Tax (requires Free Beer)
 Collects a food tax from the population of the stronghold
-Cost: 2000 gold; Time 20 seconds      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/get loan.bmp">Get Loan (requires Free Beer)
 Borrows 4000 gold at 10% interest</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/repay loan.bmp">Repay Loan (requires Free Beer)
 Gives all current gold to repay the loan (without interest)</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Routes.bmp">Nordic trade routes (requires Free Beer)
 Equips all new warriors with Bear teeth amulets (+4 attack)
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Belt Of Might.bmp">Belts of Might (requires Nordic trade routes)  
 Equips all new warriors with Belt of might amulets (+4 armor)
-Cost: 800 gold; Time 20 second      </entry>
+Cost: 800 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/tribute.bmp">Tribute (requires Free Beer)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 seconds      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2899,22 +2913,22 @@ Taverns are meeting places where news is exchanged and deals made. People come f
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Add population.bmp">Increase population
 Increases the stronghold population by 10
-Cost: 800 food; Time 10 second      </entry>
+Cost: 800 food; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/free wine.bmp">Free Wine
 Explores a large area around the stronghold
-Cost: 1600 gold; Time 20 seconds      </entry>
+Cost: 1600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/Import horses.bmp" link="/contents/units/RScout">Import Horses (requires Free Wine)
 All new scouts are level 10
-Cost: 1200 gold; Time 20 seconds      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/scouts.bmp">Scout area(requires Free Wine)
 Temporarily removes the fog of war around a chosen point and reveals any hidden warriors there
-Cost: 200 gold; Time 20 seconds      </entry>
+Cost: 200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/invest.bmp">Investments (requires Free Wine)
 Adds 6000 gold to the stronghold
-Cost: 4000 gold; Time 300 second      </entry>
+Cost: 4000 gold; Time 300 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/tribute.bmp">Tribute (requires Free Wine)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 seconds      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2928,22 +2942,22 @@ Taverns are meeting places where news is exchanged and deals made. People come f
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Add population.bmp">Increase population
 Increases the stronghold population by 10
-Cost: 800 food; Time 10 second      </entry>
+Cost: 800 food; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/research/free wine.bmp">Free Wine
 Explores a large area around the stronghold
-Cost: 1600 gold; Time 20 seconds      </entry>
+Cost: 1600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/Import horses.bmp" link="/contents/units/MScout">Import Horses (requires Free Wine)
 All new scouts are level 10
-Cost: 1200 gold; Time 20 seconds     </entry>
+Cost: 1200 gold; Time 20 sec     </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/scouts.bmp">Scout area(requires Free Wine)
 Temporarily removes the fog of war around a chosen point and reveals any hidden warriors there
-Cost: 200 gold; Time 20 seconds   </entry>
+Cost: 200 gold; Time 20 sec   </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/invest.bmp">Investments (requires Free Wine)
 Adds 6000 gold to the stronghold
-Cost: 4000 gold; Time 300 second  </entry>
+Cost: 4000 gold; Time 300 sec  </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/tribute.bmp">Tribute (requires Free Wine)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 seconds      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2957,22 +2971,22 @@ Taverns are meeting places where news is exchanged and deals made. People come f
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Add population.bmp">Increase population
 Increases the stronghold population by 10
-Cost: 600 food; Time 10 seconds      </entry>
+Cost: 600 food; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/gambling.bmp">Gambling
 Allows you to win 5000 or lose your investment (20% chance)
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/tribute.bmp">Tribute (requires Gambling)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 second      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/gamblers day.bmp">Gambler's Day (requires Gambling)
 When a warrior kills a more experienced enemy he has a 35% chance to become the level of that enemy
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/gamblers test.bmp">Gambler's Test (requires Gambling)
 Every warrior has a 4% chance to instantly kill a less experienced enemy
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/gamblers luck.bmp">Gambler's Luck (requires Gambling)
 Every dying warrior has a 20% chance to restore his health to full instead of dying
-Cost: 2000 gold; Time 30 seconds      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2986,22 +3000,22 @@ Markets are places where news is exchanged and deals made. People come from all 
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/buy slaves.bmp">Buy Slaves
 Increases the stronghold population to maximum
-Cost: 1000 gold; Time 30 seconds      </entry>
+Cost: 1000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/grain trade.bmp">Grain Trade
 Slowly exchanges the food in the stronghold for gold
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/tribute.bmp">Tribute (requires Grain Trade)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 second      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/religious feast.bmp">Religous Feast (requires Grain Trade)
 Heals the warriors around the townhall
-Cost: 1000 food; Time 30 second      </entry>
+Cost: 1000 food; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/gossip.bmp">Gossip (requires Grain Trade)
 Temporarily removes the fog of war around a chosen point and reveals any hidden warriors there
-Cost: 1000 food; Time 30 second      </entry>
+Cost: 1000 food; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/hecatomb.bmp">Hecatomb (requires Grain Trade)
 Increases the stronghold population to maximum
-Cost: 1200 food; Time 30 seconds      </entry>
+Cost: 1200 food; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3015,22 +3029,22 @@ Taverns are meeting places where news is exchanged and deals made. People come f
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Add population.bmp">Increase population
 Increases the stronghold population by 10
-Cost: 600 food; Time 10 seconds      </entry>
+Cost: 600 food; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/buy food.bmp">Buy 800 Food 
 Buy 800 food for 500 gold
-Cost: 500 gold; Time 10 seconds      </entry>
+Cost: 500 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/grain trade.bmp">Grain Trade
 Gathers 2000 food
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/tribute.bmp">Tribute (requires Grain Trade)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
-Cost: 2000 gold; Time 90 second      </entry>
+Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/Food Tax.bmp">Food Tax (requires Grain Trade)
 Collects a food tax from population of the stronghold
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/religious feast.bmp">Religious Feast (requires Grain Trade)
 Heals the warriors around the townhall
-Cost: 1600 food; Time 30 seconds      </entry>
+Cost: 1600 food; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3045,19 +3059,19 @@ Initially the Shamans can only learn from other units. All other abilities must 
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire CShaman.bmp" link="/contents/units/CShaman">Call Shaman
-Cost: 200 gold; Time 10 second      </entry>
+Cost: 200 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/dark rituals.bmp">Dark Rituals
 Allows a shaman to feed 2 nearby allies
-Cost: 1000 gold; Time 15 second      </entry>
+Cost: 1000 gold; Time 15 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/zombify.bmp" link="/contents/units/Ghost">Zombify (requires Dark Rituals)
 Allows shamans to transform to ghouls when they die in battle or sacrifice themselves
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/Sacred Legion.bmp" link="/contents/units/CNoble">Sacred Legion (requires Dark Rituals) 
 Allows Nobles to be equipped in the Temple
-Cost: 4000 gold; Time 30 seconds      </entry>
+Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/train CNoble.bmp" link="/contents/units/CNoble">Equip Noble (requires Sacred Legion) 
-Cost: 420 gold; Time 3 - 20 second      </entry>
-        <entry vcenter="1" image="UI/Help/CCmdBar/research/ferocity.bmp">  Ferocity the soldiers recover 3 points of energy whenever they defeat an enemy. Cost: 3000 gold; Time 30 seconds      </entry>
+Cost: 420 gold; Time 3 - 20 sec      </entry>
+        <entry vcenter="1" image="UI/Help/CCmdBar/research/ferocity.bmp">  Ferocity the soldiers recover 3 points of energy whenever they defeat an enemy. Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3071,19 +3085,19 @@ Initially the enchantresses can learn from other units. All other abilities must
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IEnchantress.bmp" link="/contents/units/IEnchantress">Call Enchantress
-Cost: 200 gold; Time 10 second      </entry>
+Cost: 200 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Code of Valor.bmp">Code of Valor
 All existing enchantresses become level 8. Increases the teach speed of enchantresses depending on their level
-Cost: 2000 gold; Time 30 second      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Ancestral Knowledge.bmp">Ancestral Knowledge (requires Code of Valor)
 Increases the level to which enchantresses could teach friendly warriors from 4 to 8
-Cost: 3000 gold; Time 30 second      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Cover of mercy.bmp">Cover of Mercy (requires Code of Valor)
 Allows enchantresses to sacrifice themselves to protect allies from damage 
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Mass Healing.bmp">Mass Healing (requires Code of Valor)
 Allows enchantresses to sacrifice themselves to heal nearby allies
-Cost: 1500 gold; Time 20 seconds      </entry>
+Cost: 1500 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3097,19 +3111,19 @@ Initially the druids can learn from other units and heal. All other abilities mu
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train GDruid.bmp" link="/contents/units/GDruid">Call Druid
-Cost: 200 gold; Time 10 second      </entry>
+Cost: 200 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/ritual chamber.bmp">Ritual Chamber
 Allows druids to gain experience by learning from more experienced warriors
-Cost: 1000 gold; Time 40 seconds      </entry>
+Cost: 1000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/Ghost.bmp" link="/contents/units/Ghost">Ghoul Summoning (requires Ritual Chamber)
-Allows druids to sacrifice themselves and summon a Ghoul, which drains the life from all enemies nearby for about 10 seconds
-Cost: 1600 gold; Time 20 seconds      </entry>
+Allows druids to sacrifice themselves and summon a Ghoul, which drains the life from all enemies nearby for about 10 sec
+Cost: 1600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/summon eagle.bmp">Eagle Summoning (requires Ritual Chamber)
 Allows druids to sacrifice themselves and summon an eagle, which is under your control for about 2 minutes
-Cost: 400 gold; Time 20 second      </entry>
+Cost: 400 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/restoration.bmp">Restoration (requires Ritual Chamber)
 Restores the stamina of up to 5 nearby allies (sacrificing the druid's life) 
-Cost: 1500 gold; Time 20 seconds      </entry>
+Cost: 1500 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3123,19 +3137,19 @@ Initially priests can learn from other units and heal. All other abilities must 
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rpriest.bmp" link="/contents/units/RPriest">Call priest 
-Cost: 200 gold; Time 10 seconds      </entry>
+Cost: 200 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/priest enlightment.bmp">Altar of Jupiter
 All new priests are level 4
-Cost: 1000 gold; Time 15 second      </entry>
+Cost: 1000 gold; Time 15 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/mist.bmp">Cloud of Plague (requires Altar of Jupiter)
 Allows priests to sacrifice themselves to create a cloud of plague which damages all warriors it covers
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/Jupiter.bmp">Wrath of Jupiter (requires Altar of Jupiter)
 Strikes a nearby enemy with lightning every time a priest dies
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/Gift of God.bmp">God's Gift (requires Altar of Jupiter)
 All new warriors are equipped with a God's Gift artifact, which heals a warrior at his first kill and then disappears
-Cost: 1800 gold; Time 20 seconds       </entry>
+Cost: 1800 gold; Time 20 sec       </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3149,19 +3163,19 @@ Initially priests can learn from other units and heal. All other abilities must 
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rpriest.bmp" link="/contents/units/RPriest">Call priest 
-Cost: 200 gold; Time 10 seconds      </entry>
+Cost: 200 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/priest enlightment.bmp">Altar of Jupiter
 All new priests are level 4
-Cost: 1000 gold; Time 15 second      </entry>
+Cost: 1000 gold; Time 15 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/mist.bmp">Cloud of Plague (requires Altar of Jupiter)
 Allows priests to sacrifice themselves to create a cloud of plague which damages all warriors it covers
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/Jupiter.bmp">Wrath of Jupiter (requires Altar of Jupiter)
 Strikes a nearby enemy with lightning every time a priest dies
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/Gift of God.bmp">God's Gift (requires Altar of Jupiter)
 All new warriors are equipped with a God's Gift artifact, which heals a warrior at his first kill and then disappears
-Cost: 1800 gold; Time 20 seconds       </entry>
+Cost: 1800 gold; Time 20 sec       </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3175,19 +3189,19 @@ Initially the druids can learn from other units and heal. All other abilities mu
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bdruid.bmp" link="/contents/units/BDruid">Call Druid
-Cost: 160 gold; Time 10 second      </entry>
+Cost: 160 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/ritual chamber.bmp">Ritual Chamber
 Allows druids to gain experience by learning from warriors
-Cost: 1000 gold; Time 40 seconds      </entry>
+Cost: 1000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/Ghost.bmp" link="/contents/units/Ghost">Ghoul Summoning (requires Ritual Chamber)
-Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 seconds
-Cost: 1600 gold; Time 20 seconds      </entry>
+Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 sec
+Cost: 1600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/summon wolf.bmp">Wolf Summoning (requires Ritual Chamber) 
 Allows druids to sacrifice themselves and summon a wolf, which remains under your control for about 3 minutes
-Cost: 1200 gold; Time 20 second      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/mass healing.bmp">Mass Healing (requires Ritual Chamber)
 Allows druids to sacrifices themselves to heal nearby allies
-Cost: 1500 gold; Time 20 seconds      </entry>
+Cost: 1500 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3201,21 +3215,21 @@ Initially priests can heal units. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train epriest.bmp" link="/contents/units/EPriest">Call Priest
-Cost: 300 gold; Time 10 second      </entry>
+Cost: 300 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/cult of osiris.bmp">Cult of Osiris
 Allows construction of chariots in the Temple of Osiris
-Cost: 3000 gold; Time 40 second      </entry>
+Cost: 3000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/zombify.bmp" link="/contents/units/Ghost">Zombify (requires Cult of Osiris)
 Allows priests to transform into ghouls when they die in battle or sacrifice themselves
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/mist.bmp">Cloud of Plague (requires Cult of Osiris)
 Allows priests to sacrifice themselves to create a cloud of plague which damages all warriors it covers
-Cost: 2000 gold; Time 20 second      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/Mumification.bmp">Mummification (requires Cult of Osiris)
 New heroes are hired with 2/3 the level of the best hero you've had
-Cost: 3000 gold; Time 30 second      </entry>
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/chariot of osiris.bmp" link="/contents/units/EChariot">Equip Chariot of Osiris (requires Cult of Osiris)
-Cost: 400 gold; Time 30 seconds      </entry>
+Cost: 400 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3229,19 +3243,19 @@ Initially enchantresses can heal units. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tenchantress.bmp" link="/contents/units/TEnchantress">Call Enchantress
-Cost: 200 gold; Time 10 second      </entry>
+Cost: 200 gold; Time 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/ritual chamber.bmp">Ritual Chamber
 Allows enchantresses to gain experience by learning from more experienced warriors
-Cost: 1000 gold; Time 40 seconds      </entry>
+Cost: 1000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/summon wolf.bmp">Wolf Summoning (requires Ritual Chamber) 
 Allows druids to sacrifice themselves and summon a wolf, which remains under your control for about 3 minutes
-Cost: 1200 gold; Time 20 seconds      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/summon eagle.bmp">Eagle Summoning (requires Ritual Chamber)
 Allows druids to sacrifice themselves and summon an eagle, which is under your control for about 2 minutes
-Cost: 400 gold; Time 20 second      </entry>
+Cost: 400 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/Mass Healing.bmp">Mass Healing (requires Ritual Chamber)
 Allows druids to sacrifices themselves to heal nearby allies
-Cost: 1500 gold; Time 20 seconds      </entry>
+Cost: 1500 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3308,7 +3322,7 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Garrison</entry>
         <entry image="UI/icons/Coutpost.bmp">Garrisons are outposts with several entrances allowing units to enter quickly from any direction. They store resources, defend and heal all units inside.
 The outpost automatically fires arrows at nearby enemy units. The rate of fire depends on the number of units inside the outpost.
-In addition to its strategic value a garrison changes a peasant to a maceman every 60 seconds. If there are no peasants inside - no warriors are created.
+In addition to its strategic value a garrison changes a peasant to a maceman every 60 sec. If there are no peasants inside - no warriors are created.
 </entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/states/tribute.bmp">Supply
@@ -3324,7 +3338,7 @@ Load a caravan with up to 1000 gold</entry>
         <entry image="UI/icons/Ioutpost.bmp">
 Military posts are outposts with several entrances allowing units to enter quickly from any direction. They store resources, defend and heal all units inside.
 The outpost automatically fires arrows at nearby enemy units. The rate of fire depends on the number of units inside the outpost.
-In addition to its strategic value a training camp increases the experience of units that remain inside every 20 seconds until they reach level 8.
+In addition to its strategic value a training camp increases the experience of units that remain inside every 20 sec until they reach level 8.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/states/tribute.bmp">Supply
@@ -3356,7 +3370,7 @@ Load a caravan with up to 1000 gold</entry>
         <entry hcenter="1" font="large">Fort</entry>
         <entry image="UI/icons/ROutpost.bmp">Forts are small buildings defended with fence that have several entrances allowing units to enter quickly from any direction. They store resources, defend and heal all units inside.
 The outpost automatically fires arrows at nearby enemy units. The rate of fire depends on the number of units inside the outpost.
-When 2000 gold are stored in a stone outpost, it will provide interest of 8 gold every 2 seconds.
+When 2000 gold are stored in a stone outpost, it will provide interest of 8 gold every 2 sec.
 				</entry>
         <entry font="large">Orders</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/states/tribute.bmp">Supply
@@ -3372,7 +3386,7 @@ Load a caravan with up to 1000 gold</entry>
         <entry image="UI/icons/BOutpost.bmp">
 Military posts are outposts with several entrances allowing units to enter quickly from any direction. They store resources, defend and heal all units inside.
 The outpost automatically fires arrows at nearby enemy units. The rate of fire depends on the number of units inside the outpost.
-In addition to its strategic value a training camp increases the experience of units that remain inside every 20 seconds (up to level 8).
+In addition to its strategic value a training camp increases the experience of units that remain inside every 20 sec (up to level 8).
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/states/tribute.bmp">Supply
@@ -3387,7 +3401,7 @@ Load a caravan with up to 1000 gold</entry>
         <entry hcenter="1" font="large">Fort</entry>
         <entry image="UI/icons/EOutpost.bmp">Forts are small buildings defended with fence that have several entrances allowing units to enter quickly from any direction. They store resources, defend and heal all units inside.
 The outpost automatically fires arrows at nearby enemy units. The rate of fire depends on the number of units inside the outpost.
-When 2000 gold are stored in a stone outpost, it will provide interest of 8 gold every 2 seconds.
+When 2000 gold are stored in a stone outpost, it will provide interest of 8 gold every 2 sec.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/states/tribute.bmp">Supply
@@ -3434,11 +3448,11 @@ Creates a boat with up to 1000 food</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Boat Gold.bmp" link="/contents/units/Boat">Create Boat
 Creates a boat with up to 1000 gold</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Ship.bmp" link="/contents/units/Ship">Create Battleship
-Cost: 1000 gold; Time: 20 seconds   </entry>
+Cost: 1000 gold; Time: 20 sec   </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/ship.bmp" link="/contents/units/Ship">Create Egyptian Ship
-Cost: 1000 gold; Time: 20 seconds   </entry>
+Cost: 1000 gold; Time: 20 sec   </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/ship.bmp" link="/contents/units/Ship">Create Roman Ship
-Cost: 1000 gold; Time: 20 seconds   </entry>
+Cost: 1000 gold; Time: 20 sec   </entry>
       </topic>
       <topic id="TTent">
         <entry hcenter="1" font="large">Teuton Tent</entry>
@@ -3462,7 +3476,7 @@ Built by shamans in honour of the great god Moloch, the shrines are places where
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/Actions/Wise Wind.bmp">
 Wind of wisdom
-Increases the level of everyone after 30 seconds (but not over level 20)
+Increases the level of everyone after 30 sec (but not over level 20)
 Requires at least a charge of 10
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/Actions/Hunger.bmp">
@@ -3472,7 +3486,7 @@ Requires at least a charge of 20
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/Actions/Gold Rain.bmp">
 Soothing rain
-Restores the stamina of everyone every 5 seconds. Lasts 30 seconds
+Restores the stamina of everyone every 5 sec. Lasts 30 sec
 Requires at least a charge of 30
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/Actions/Last Sacrifice.bmp">
@@ -3551,7 +3565,7 @@ Adds 60 to damage. When used heals the bearer taking the health of an ally</entr
 Adds 4 to damage
 The charm disappears after the bearer kills an enemy</entry>
       <entry link="Elephant tusk" image="UI/icons/items/item 02.bmp">Elephant tusk
-Regenerates the bearer's health by 20 per second</entry>
+Regenerates the bearer's health by 20 per sec</entry>
       <entry link="Feather amulet" image="UI/icons/items/Feather amulet.bmp">Feather amulet
 Adds 400 max health</entry>
       <entry link="Finger of death" image="UI/icons/items/Finger of death.bmp">
