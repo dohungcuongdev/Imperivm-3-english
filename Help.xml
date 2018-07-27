@@ -1913,7 +1913,7 @@ Once the ghoul's time in this word runs out it returns to the world of the dead.
       <!--common-->
       <entry hcenter="1" font="large">Common</entry>
       <entry vcenter="1" image="UI/icons/RStorage.bmp" link="Village">Village hall</entry>
-      <entry vcenter="1" image="UI/icons/RHouse.bmp" link="House">House</entry>
+      <entry vcenter="1" image="UI/icons/GHouse.bmp" link="House">House</entry>
       <entry vcenter="1" image="UI/icons/RGates.bmp" link="Fortification">Gates, Towers and Walls</entry>
       <entry vcenter="1" image="UI/icons/ROutpost.bmp" link="/contents/buildings/ROutpost">Fort</entry>
       <entry vcenter="1" image="UI/icons/BOutpost.bmp" link="/contents/buildings/IOutpost">Military post</entry>
@@ -2595,10 +2595,10 @@ Allows Mountaineers to be hired
 Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/heroes wisdom.bmp">Heroes' Wisdom (requires Tournaments) 
 Increases heroes' experience with time
-Cost: 2000 gold; Time 60 sec      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/warriors wisdom.bmp">Warriors' Wisdom (requires Heroes' Wisdom) 
 Increases warriors' experience with time until they reach level 12
-Cost: 2000 gold; Time 20 sec      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IMountaineer.bmp" link="/contents/units/IMountaineer">
 Hire Mountaineer (requires Tournaments) 
 Hires a mountaineer, there cannot be more than 10 mountaineers per player without further upgrades.
@@ -2607,14 +2607,14 @@ Cost: 200 gold; Time: 20 sec
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/Mountain Clan.bmp">
 Mountain Clan (requires Tournaments)
 Increases the limit of Mountaineers you can have to 20
-Cost: 2000 gold; Time: 40 sec
+Cost: 1000 gold; Time: 40 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/Mountain Clan Legacy.bmp">Mountain Clan Legacy (requires Mountain Clan)
 New Mountaineers have the experience of the best Mountaineer you've had
-Cost: 2000 gold; Time 30 sec      </entry>
+Cost: 1500 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/nobility.bmp">Nobility (requires Tournaments) 
 All warriors who reach level 8 become level 12
-Cost: 3000 gold; Time 20 sec      </entry>
+Cost: 3000 gold; Time 60 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2630,25 +2630,25 @@ In every stronghold throughout the land there are arenas where fighters show the
 Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Fights.bmp">Fights
 New Swordsmen and Archers are level 4
-Cost: 2000 gold; Time 25 sec      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/training.bmp">Training (requires Fights)
 Allows warriors to train to level 4
-Cost: 1000 gold; Time 25 sec      </entry>
+Cost: 1000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/advanced training.bmp">Advanced Training (requires Training)
 Allows warriors to train to level 8
-Cost: 1500 gold; Time 25 sec      </entry>
+Cost: 1500 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/maser training.bmp">Special Training (requires Advanced Training)
 Allows warriors to train to level 12
-Cost: 2000 gold; Time 25 sec      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/hire TridentWarrior.bmp" link="/contents/units/GTridentwarrior">Hire Trident Warrior (requires Fights) 
 Hires a Trident Warrior
 Cost: 1000 gold; Time 20 sec      </entry>
+        <entry vcenter="1" image="UI/Help/GCmdBar/research/trident warrior exp 1.bmp">Trident Warrior Experience I, II and III 
+All new Trident Warriors are level 12, level 18, and level 24. 
+Cost: 800 (1000, 1200) gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/warriortales.bmp">Warrior Tales
 When a warrior dies he gives 1 experience to a nearby ally (though not to a hero)
 Cost: 2000 gold; Time 30 sec      </entry>
-        <entry vcenter="1" image="UI/Help/GCmdBar/research/trident warrior exp 1.bmp">Trident Warrior Experience I, II and III 
-All new Trident Warriors are level 12, level 18, and level 24. 
-Cost: 800 (1000, 2000) gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/Battle Library.bmp">Battle Tactics
 Doubles the experience your army receives in battle
 Cost: 3000 gold; Time 30 sec      </entry>
@@ -2735,7 +2735,7 @@ All new warriors are level 4
 Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/nobility.bmp">Nobility (requires Fights)
 All warriors who reach level 8 become level 12
-Cost: 3000 gold; Time 20 sec      </entry>
+Cost: 3000 gold; Time 60 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/noble offence.bmp">Noble Offense (requires Fights)
 All warriors above level 12 receive a Noble Offense artifact (+4 damage) at their first kill 
 Cost: 2000 gold; Time 30 sec      </entry>
@@ -2806,7 +2806,7 @@ All new Valkyries are one level better than the best Valkyries you've had
 Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/learning.bmp">Learning (requires Fights)
 All warriors gain 1 experience for every successful attack against a more experienced enemy
-Cost: 2000 gold; Time 30 the sec      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/attack focus.bmp">Attack focus (requires Fights)
 The warriors' damage is not reduced when fighting more experienced enemies
 Cost: 2000 gold; Time 30 sec      </entry>
@@ -2836,12 +2836,12 @@ Gathers 500 gold in each outpost you own. The amount of gold increases by 500 ev
 Cost: 2000 gold; Time 90 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/expedition.bmp">Expedition (requires Free trade)
 Removes the fog of war in a chosen area and reveals any hidden warriors there. There can be only one such area at a given moment
-Cost: 1000 gold; Time 20 sec      </entry>
+Cost: 1000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/mercenary pact.bmp">Mercenary Pact (requires Free trade)
 Gives 40 gold to a hero each time one of his attached warriors dies
 Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/slavery.bmp">Slavery (requires Free trade)
-Sell 50 population for 2000 gold</entry>
+Sell 50 population for 2000 gold; Time 10 sec</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2897,10 +2897,10 @@ Borrows 4000 gold at 10% interest</entry>
 Gives all current gold to repay the loan (without interest)</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Routes.bmp">Nordic trade routes (requires Free Beer)
 Equips all new warriors with Bear teeth amulets (+4 attack)
-Cost: 2000 gold; Time 20 sec      </entry>
+Cost: 2000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/Belt Of Might.bmp">Belts of Might (requires Nordic trade routes)  
 Equips all new warriors with Belt of might amulets (+4 armor)
-Cost: 800 gold; Time 20 sec      </entry>
+Cost: 800 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/tribute.bmp">Tribute (requires Free Beer)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
 Cost: 2000 gold; Time 90 sec      </entry>
@@ -2926,7 +2926,7 @@ All new scouts are level 10
 Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/scouts.bmp">Scout area(requires Free Wine)
 Temporarily removes the fog of war around a chosen point and reveals any hidden warriors there
-Cost: 200 gold; Time 20 sec      </entry>
+Cost: 200 gold; Time 0 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/invest.bmp">Investments (requires Free Wine)
 Adds 6000 gold to the stronghold
 Cost: 4000 gold; Time 300 sec      </entry>
@@ -2940,7 +2940,7 @@ Cost: 500 gold; Time: 60 sec
       </topic>
       <topic id="MTavern">
         <entry hcenter="1" font="large">Imperial Roman Tavern</entry>
-        <entry image="UI/icons/BTavern.bmp">
+        <entry image="UI/icons/RTavern.bmp">
 Taverns are meeting places where news is exchanged and deals made. People come from all over the world and always have something to sell.
 				</entry>
         <entry font="large">Commands</entry>
@@ -2955,7 +2955,7 @@ All new scouts are level 10
 Cost: 1200 gold; Time 20 sec     </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/scouts.bmp">Scout area(requires Free Wine)
 Temporarily removes the fog of war around a chosen point and reveals any hidden warriors there
-Cost: 200 gold; Time 20 sec   </entry>
+Cost: 200 gold; Time 0 sec   </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/invest.bmp">Investments (requires Free Wine)
 Adds 6000 gold to the stronghold
 Cost: 4000 gold; Time 300 sec  </entry>
@@ -3007,7 +3007,7 @@ Increases the stronghold population to maximum
 Cost: 1000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/research/grain trade.bmp">Grain Trade
 Slowly exchanges the food in the stronghold for gold
-Cost: 2000 gold; Time 30 sec      </entry>
+Cost: 2000 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/tribute.bmp">Tribute (requires Grain Trade)
 Gathers 500 gold in each outpost you own. The amount of gold increases by 500 every 10 minutes (though not over 2000)
 Cost: 2000 gold; Time 90 sec      </entry>
@@ -3016,7 +3016,7 @@ Heals the warriors around the townhall
 Cost: 1000 food; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/gossip.bmp">Gossip (requires Grain Trade)
 Temporarily removes the fog of war around a chosen point and reveals any hidden warriors there
-Cost: 1000 food; Time 30 sec      </entry>
+Cost: 1000 food; Time 0 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/hecatomb.bmp">Hecatomb (requires Grain Trade)
 Increases the stronghold population to maximum
 Cost: 1200 food; Time 30 sec      </entry>
@@ -3059,14 +3059,14 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Carthaginian Temple</entry>
         <entry image="UI/icons/CTemple.bmp">
 The temple is where the Carthaginian shamans pray to their gods and perform offerings. At any time the player can ask for a shaman that will follow his commands. The shamans however are not authorized to use all their powers.
-Initially the Shamans can only learn from other units. All other abilities must be paid for.
+Initially the Shamans can learn from ally units and curse enemies. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire CShaman.bmp" link="/contents/units/CShaman">Call Shaman
-Cost: 200 gold; Time 10 sec      </entry>
+Cost: 200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/dark rituals.bmp">Dark Rituals
 Allows a shaman to feed 2 nearby allies
-Cost: 1000 gold; Time 15 sec      </entry>
+Cost: 1000 gold; 30 peasants; Time 15 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/zombify.bmp" link="/contents/units/Ghost">Zombify (requires Dark Rituals)
 Allows shamans to transform to ghouls when they die in battle or sacrifice themselves
 Cost: 2000 gold; Time 20 sec      </entry>
@@ -3074,8 +3074,10 @@ Cost: 2000 gold; Time 20 sec      </entry>
 Allows Nobles to be equipped in the Temple
 Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/train CNoble.bmp" link="/contents/units/CNoble">Equip Noble (requires Sacred Legion) 
-Cost: 420 gold; Time 3 - 20 sec      </entry>
-        <entry vcenter="1" image="UI/Help/CCmdBar/research/ferocity.bmp">  Ferocity the soldiers recover 3 points of energy whenever they defeat an enemy. Cost: 3000 gold; Time 30 sec      </entry>
+Cost: 420 gold; 10 peasant; Base hire time 20 sec      </entry>
+        <entry vcenter="1" image="UI/Help/CCmdBar/research/ferocity.bmp">  Ferocity (requires Dark Rituals) 
+Allows a warrior to restores 3 stamina each time he kills an enemy
+Cost: 3000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3085,17 +3087,17 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Iberian Sanctuary</entry>
         <entry image="UI/icons/ISanctuary.bmp">
 The Sanctuary is the home of the matriarchs that control Iberian Society. At any time the player can ask for an enchantress that will follow his commands. They, however, are not authorized to use all their powers.
-Initially the enchantresses can learn from other units. All other abilities must be paid for.
+Initially the enchantresses can learn from ally units and teach ally units up to level 4. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IEnchantress.bmp" link="/contents/units/IEnchantress">Call Enchantress
-Cost: 200 gold; Time 10 sec      </entry>
+Cost: 200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Code of Valor.bmp">Code of Valor
 All existing enchantresses become level 8. Increases the teach speed of enchantresses depending on their level
 Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Ancestral Knowledge.bmp">Ancestral Knowledge (requires Code of Valor)
 Increases the level to which enchantresses could teach friendly warriors from 4 to 8
-Cost: 3000 gold; Time 30 sec      </entry>
+Cost: 2000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/research/Cover of mercy.bmp">Cover of Mercy (requires Code of Valor)
 Allows enchantresses to sacrifice themselves to protect allies from damage 
 Cost: 2000 gold; Time 20 sec      </entry>
@@ -3111,11 +3113,11 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Gaul Druid House</entry>
         <entry image="UI/icons/GDruidHouse.bmp">
 The druid house officially represents the druid community. At any time the player can ask for a druid that will follow his commands. The druids however are not authorized to use all their powers.
-Initially the druids can learn from other units and heal. All other abilities must be paid for.
+Initially the druids can heal ally units. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train GDruid.bmp" link="/contents/units/GDruid">Call Druid
-Cost: 200 gold; Time 10 sec      </entry>
+Cost: 200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/ritual chamber.bmp">Ritual Chamber
 Allows druids to gain experience by learning from more experienced warriors
 Cost: 1000 gold; Time 40 sec      </entry>
@@ -3124,7 +3126,7 @@ Allows druids to sacrifice themselves and summon a Ghoul, which drains the life 
 Cost: 1600 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/summon eagle.bmp">Eagle Summoning (requires Ritual Chamber)
 Allows druids to sacrifice themselves and summon an eagle, which is under your control for about 2 minutes
-Cost: 400 gold; Time 20 sec      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/research/restoration.bmp">Restoration (requires Ritual Chamber)
 Restores the stamina of up to 5 nearby allies (sacrificing the druid's life) 
 Cost: 1500 gold; Time 20 sec      </entry>
@@ -3137,11 +3139,11 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Republican Roman Temple</entry>
         <entry image="UI/icons/RTemple.bmp">
 Temples are places where devoted servants of the gods gather. A priest's power is great, yet one must acquire the permission of Rome for one to be sent.
-Initially priests can learn from other units and heal. All other abilities must be paid for.
+Initially priests can learn from ally units and heal ally units. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rpriest.bmp" link="/contents/units/RPriest">Call priest 
-Cost: 200 gold; Time 10 sec      </entry>
+Cost: 200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/research/priest enlightment.bmp">Altar of Jupiter
 All new priests are level 4
 Cost: 1000 gold; Time 15 sec      </entry>
@@ -3163,7 +3165,7 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Imperial Roman Temple</entry>
         <entry image="UI/icons/MTemple.bmp">
 Temples are places where devoted servants of the gods gather. A priest's power is great, yet one must acquire the permission of Rome for one to be sent.
-Initially priests can learn from other units and heal. All other abilities must be paid for.
+Initially priests can learn from ally units and heal ally units. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rpriest.bmp" link="/contents/units/RPriest">Call priest 
@@ -3189,23 +3191,23 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Briton Druid House</entry>
         <entry image="UI/icons/BTempleofthor.bmp">
 The druid house officially represents the druid community. At any time the player can ask for a druid that will follow his commands. The druids however are not authorized to use all their powers.
-Initially the druids can learn from other units and heal. All other abilities must be paid for.
+Initially the druids have invisibility. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bdruid.bmp" link="/contents/units/BDruid">Call Druid
-Cost: 160 gold; Time 10 sec      </entry>
+Cost: 160 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/ritual chamber.bmp">Ritual Chamber
 Allows druids to gain experience by learning from warriors
 Cost: 1000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/Ghost.bmp" link="/contents/units/Ghost">Ghoul Summoning (requires Ritual Chamber)
 Allows druids to sacrifice themselves and summon a Ghoul, which drains the life of all enemies nearby for about 10 sec
-Cost: 1600 gold; Time 20 sec      </entry>
+Cost: 1600 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/summon wolf.bmp">Wolf Summoning (requires Ritual Chamber) 
 Allows druids to sacrifice themselves and summon a wolf, which remains under your control for about 3 minutes
-Cost: 1200 gold; Time 20 sec      </entry>
+Cost: 400 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/research/mass healing.bmp">Mass Healing (requires Ritual Chamber)
 Allows druids to sacrifices themselves to heal nearby allies
-Cost: 1500 gold; Time 20 sec      </entry>
+Cost: 1500 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">
 Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -3215,7 +3217,7 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Temple of Osiris</entry>
         <entry image="UI/icons/ETempleOfOsiris.bmp">
 Temples are places where devoted servants of the gods gather. A priest's power is great, yet one must acquire the permission of Egypt for one to be sent.
-Initially priests can heal units. All other abilities must be paid for.
+Initially priests can learn from ally units and have cripple ability. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train epriest.bmp" link="/contents/units/EPriest">Call Priest
@@ -3243,11 +3245,11 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" font="large">Temple of Neptus</entry>
         <entry image="UI/icons/TTempleofneptus.bmp">
 Temples are places where devoted servants of the gods gather. An enchantress' power is great, yet one must acquire the permission of Germania for one to be sent.
-Initially enchantresses can heal units. All other abilities must be paid for.
+Initially enchantresses can curse enemies. All other abilities must be paid for.
 				</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tenchantress.bmp" link="/contents/units/TEnchantress">Call Enchantress
-Cost: 200 gold; Time 10 sec      </entry>
+Cost: 200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/ritual chamber.bmp">Ritual Chamber
 Allows enchantresses to gain experience by learning from more experienced warriors
 Cost: 1000 gold; Time 40 sec      </entry>
@@ -3271,9 +3273,9 @@ Cost: 500 gold; Time: 60 sec
         <entry hcenter="1" vcenter="1" font="large" image="UI/icons/IStorage.bmp">Iberian Village hall</entry>
         <entry hcenter="1" vcenter="1" font="large" image="UI/icons/GWarehouse.bmp">Gaul Village hall</entry>
         <entry hcenter="1" vcenter="1" font="large" image="UI/icons/RStorage.bmp">Roman Village hall</entry>
-        <entry hcenter="1" vcenter="1" font="large" image="UI/icons/BStorage.bmp">Briton Village hall</entry>
-        <entry hcenter="1" vcenter="1" font="large" image="UI/icons/EStorage.bmp">Egypt Village hall</entry>
-        <entry hcenter="1" vcenter="1" font="large" image="UI/icons/TStorage.bmp">German Village hall</entry>
+        <entry hcenter="1" vcenter="1" font="large" image="UI/icons/BVillage.bmp">Briton Village hall</entry>
+        <entry hcenter="1" vcenter="1" font="large" image="UI/icons/EVillage.bmp">Egypt Village hall</entry>
+        <entry hcenter="1" vcenter="1" font="large" image="UI/icons/TVillage.bmp">German Village hall</entry>
         <entry>
 The village hall is the center of a village. It stores the village surplus food and can be ordered to send it elsewhere. Whoever controls the village hall controls the entire village.  </entry>
         <entry font="large">Commands</entry>
