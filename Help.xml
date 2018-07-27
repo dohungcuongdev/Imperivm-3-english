@@ -122,7 +122,7 @@ Front - Increases the level of the units by 4 (while in formation).
       <entry>Unlike units each hero has five skills that are unique to them and their civilization. These improve not only their individual combat abilities but also that of their army.  Some of them are beneficial to the hero and the units attached to the hero.  Other skills are beneficial to the units or help you during your battles.Each time that your hero reaches a  new level, a "+" sign appears on its icon.  This indicates that you can reinforce one of its special characteristics by assigning him additional experience points (to a maximum of 10).  </entry>
       <entry> List of Hero Skills</entry>
       <entry></entry>
-      <entry image="gameres/infobar/skills/Administration.bmp">Administraton - Increases the maximum number of warriors attached to the hero by 2 per skill point</entry>
+      <entry image="gameres/infobar/skills/Administration.bmp">Administartion - Increases the maximum number of warriors attached to the hero by 2 per skill point</entry>
       <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 sec plus 1 additional sec per skill point</entry>
       <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 sec)</entry>
       <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 sec plus 1 additional sec per skill point</entry>
@@ -232,7 +232,7 @@ For example, if a gladiator with 10 Armor is attacked by a Tribune with 40 Damag
       <entry image="gameres/infobar/unit specials/attack skill.bmp">Attack Skill - Increases the warrior's damage by twice his current stamina</entry>
       <entry image="gameres/infobar/unit specials/bleeding attack.bmp">Bleeding attack - The enemy attacked by the warrior loses 10% of his health in addition to the inflicted damage (does not work on heroes)</entry>
       <entry image="gameres/infobar/unit specials/_bless.bmp">Bless - temporary blesses the target so that it deals double damage.</entry>
-      <entry image="gameres/infobar/unit specials/charge.bmp">Charge - The warrior deals 8 times his normal damage (after enemy armor is applied). The time since the warrior's last attack must be at least 10 sec
+      <entry image="gameres/infobar/unit specials/charge.bmp">Charge - The warrior deals 8 times his normal damage (after enemy armor is applied). The time since the warrior's last attack must be at least 10 seconds
 </entry>
       <entry image="gameres/infobar/unit specials/combat skill.bmp">Combat skill - Each time the warrior damages an enemy he receives 1 stamina point</entry>
       <entry image="gameres/infobar/unit specials/cripple.bmp">Cripple - The target loses all of its stamina</entry>
@@ -257,7 +257,7 @@ For example, if a gladiator with 10 Armor is attacked by a Tribune with 40 Damag
       <entry image="gameres/infobar/unit specials/penetration.bmp">Penetration - The warrior ignores the enemy armor and Deflection special</entry>
       <entry image="gameres/infobar/unit specials/power strike.bmp">Power Strike - Kills the target with one strike if the target is damaged and its maximum health is twice less than that of the warrior (does not work on heroes)</entry>
       <entry image="gameres/infobar/unit specials/rage.bmp">Rage - Increases the warrior's damage by the amount of health he has above 50%. That health, however, is lost after the attack (does not work against heroes)</entry>
-      <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - The warrior restores 20 health every 5 sec
+      <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - The warrior restores 20 health every 5 seconds
 </entry>
       <entry image="gameres/infobar/unit specials/revenge.bmp">Revenge - When the warrior is killed by an enemy in melee, that enemy suffers 100 damage</entry>
       <entry image="gameres/infobar/unit specials/sneak.bmp">Sneak - The warrior becomes hidden if he remains idle for 20 sec</entry>
@@ -411,11 +411,11 @@ When a new objective is given a note appears in the notes window. Consequentiall
         <entry image="UI/icons/RHero3.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Republican Rome hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/administration">Administartion</entry>
-        <entry link="/contents/teamattack">Team Attack</entry>
-        <entry link="/contents/teamdefense">Team Defense</entry>
-        <entry link="/contents/march">Quick March</entry>
-        <entry link="/contents/endurance">Epic Endurance</entry>
+        <entry image="gameres/infobar/skills/Administration.bmp" link="/contents/heroskills">Administartion</entry>
+        <entry image="gameres/infobar/skills/TeamAttack.bmp" link="/contents/heroskills">Team Attack</entry>
+        <entry image="gameres/infobar/skills/TeamDefense.bmp" link="/contents/heroskills">Team Defense</entry>
+        <entry image="gameres/infobar/skills/QuickMarch.bmp" link="/contents/heroskills">Quick March</entry>
+        <entry image="gameres/infobar/skills/EpicEndurance.bmp" link="/contents/heroskills">Epic Endurance</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 40</entry>
         <entry image="UI/help/defense ico.bmp">Armor 16</entry>
@@ -430,11 +430,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/MHero2.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Imperial Rome hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/administration">Administration</entry>
-        <entry link="/contents/teamattack">Team Attack</entry>
-        <entry link="/contents/teamdefense">Team Defense</entry>
-        <entry link="/contents/march">Quick march</entry>
-        <entry link="/contents/discipline">Discipline</entry>
+        <entry image="gameres/infobar/skills/Administration.bmp" link="/contents/heroskills">Administartion</entry>
+        <entry image="gameres/infobar/skills/TeamAttack.bmp" link="/contents/heroskills">Team Attack</entry>
+        <entry image="gameres/infobar/skills/TeamDefense.bmp" link="/contents/heroskills">Team Defense</entry>
+        <entry image="gameres/infobar/skills/QuickMarch.bmp" link="/contents/heroskills">Quick March</entry>
+        <entry image="gameres/infobar/skills/Discipline.bmp" link="/contents/heroskills">Discipline</entry>
         <entry image="UI/help/health ico.bmp">Health 1300</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 30</entry>
         <entry image="UI/help/defense ico.bmp">Armor 16</entry>
@@ -449,11 +449,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/GHero3.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Gaul hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/leadership">Leadership</entry>
-        <entry link="/contents/epicattack">Epic Attack</entry>
-        <entry link="/contents/endurance">Epic Endurance</entry>
-        <entry link="/contents/defensive">Defensive Cry</entry>
-        <entry link="/contents/battlecry">Battle Cry</entry>
+        <entry image="gameres/infobar/skills/Leadership.bmp" link="/contents/heroskills">Leadership</entry>
+        <entry image="gameres/infobar/skills/EpicAttack.bmp" link="/contents/heroskills">Epic Attack</entry>
+        <entry image="gameres/infobar/skills/EpicEndurance.bmp" link="/contents/heroskills">Epic Endurance</entry>
+        <entry image="gameres/infobar/skills/DefensiveCry.bmp" link="/contents/heroskills">Defensive Cry</entry>
+        <entry image="gameres/infobar/skills/BattleCry.bmp" link="/contents/heroskills">Battle Cry</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
@@ -468,11 +468,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/IHero4.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Iberian hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/hhealing">Healing</entry>
-        <entry link="/contents/ceasefire">Ceasefire</entry>
-        <entry link="/contents/teamdefense">Team Defense</entry>
-        <entry link="/contents/endurance">Epic Endurance</entry>
-        <entry link="/contents/euphoria">Euphoria</entry>
+        <entry image="gameres/infobar/skills/Healing.bmp" link="/contents/heroskills">Healing</entry>
+        <entry image="gameres/infobar/skills/Ceasefire.bmp" link="/contents/heroskills">Ceasefire</entry>
+        <entry image="gameres/infobar/skills/TeamDefense.bmp" link="/contents/heroskills">Team Defense</entry>
+        <entry image="gameres/infobar/skills/EpicEndurance.bmp" link="/contents/heroskills">Epic Endurance</entry>
+        <entry image="gameres/infobar/skills/Euphoria.bmp" link="/contents/heroskills">Euphoria</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 40</entry>
         <entry image="UI/help/defense ico.bmp">Armor 16 </entry>
@@ -487,11 +487,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/CHero3.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Carthaginian hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/vigor">Vigor</entry>
-        <entry link="/contents/frenzy">Frenzy</entry>
-        <entry link="/contents/rush">Rush</entry>
-        <entry link="/contents/egoism">Egoism</entry>
-        <entry link="/contents/wisdom">Wisdom</entry>
+        <entry image="gameres/infobar/skills/Vigor.bmp" link="/contents/heroskills">Vigor</entry>
+        <entry image="gameres/infobar/skills/Frenzy.bmp" link="/contents/heroskills">Frenzy</entry>
+        <entry image="gameres/infobar/skills/Rush.bmp" link="/contents/heroskills">Rush</entry>
+        <entry image="gameres/infobar/skills/Egoism.bmp" link="/contents/heroskills">Egoism</entry>
+        <entry image="gameres/infobar/skills/Wisdom.bmp" link="/contents/heroskills">Wisdom</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 50</entry>
         <entry image="UI/help/defense ico.bmp">Armor 12</entry>
@@ -506,11 +506,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/EHero1.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Egyptian hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/vigor">Vigor</entry>
-        <entry link="/contents/recovery">Recovery</entry>
-        <entry link="/contents/survival">Survival</entry>
-        <entry link="/contents/march">Quick march</entry>
-        <entry link="/contents/hhealing">Healing</entry>
+        <entry image="gameres/infobar/skills/Vigor.bmp" link="/contents/heroskills">Vigor</entry>
+        <entry image="gameres/infobar/skills/Recovery.bmp" link="/contents/heroskills">Recovery</entry>
+        <entry image="gameres/infobar/skills/Survival.bmp" link="/contents/heroskills">Survival</entry>
+        <entry image="gameres/infobar/skills/QuickMarch.bmp" link="/contents/heroskills">Quick March</entry>
+        <entry image="gameres/infobar/skills/Healing.bmp" link="/contents/heroskills">Healing</entry>
         <entry image="UI/help/health ico.bmp">Health 1200</entry>
         <entry image="UI/help/sattack ico.bmp">Damage 40</entry>
         <entry image="UI/help/defense ico.bmp">Armor 20</entry>
@@ -525,11 +525,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/BHero3.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A Briton hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/hcharge">Charge</entry>
-        <entry link="/contents/hscout">Leadership</entry>
-        <entry link="/contents/assault">Assault (cry)</entry>
-        <entry link="/contents/endurance">Epic Armor</entry>
-        <entry link="/contents/epicattack">Epic Attack</entry>
+        <entry image="gameres/infobar/skills/Charge.bmp" link="/contents/heroskills">Charge</entry>
+        <entry image="gameres/infobar/skills/Leadership.bmp" link="/contents/heroskills">Leadership</entry>
+        <entry image="gameres/infobar/skills/Assault.bmp" link="/contents/heroskills">Assault (cry)</entry>
+        <entry image="gameres/infobar/skills/EpicArmor.bmp" link="/contents/heroskills">Epic Armor</entry>
+        <entry image="gameres/infobar/skills/EpicAttack.bmp" link="/contents/heroskills">Epic Attack</entry>
         <entry image="UI/help/health ico.bmp">Health 1000</entry>
         <entry image="UI/help/sattack ico.bmp">Attack 50 (ranger: high)</entry>
         <entry image="UI/help/defense ico.bmp">Defense 14</entry>
@@ -544,11 +544,11 @@ In addition to being an excellent fighter a hero has the ability to make the oth
         <entry image="UI/icons/THero1.bmp">
 In addition to being an excellent fighter a hero has the ability to make the other units stronger by commanding them. A German hero gives about 63% of his experience to the units he commands.
 				</entry>
-        <entry link="/contents/concealment">Concealment</entry>
-        <entry link="/contents/defensive">Defence Cry</entry>
-        <entry link="/contents/march">Quick march</entry>
-        <entry link="/contents/assault">Assault (cry)</entry>
-        <entry link="/contents/euphoria">Euphoria</entry>
+        <entry image="gameres/infobar/skills/Concealment.bmp" link="/contents/heroskills">Concealment</entry>
+        <entry image="gameres/infobar/skills/DefensiveCry.bmp" link="/contents/heroskills">Defensive Cry</entry>
+        <entry image="gameres/infobar/skills/QuickMarch.bmp" link="/contents/heroskills">Quick March</entry>
+        <entry image="gameres/infobar/skills/Assault.bmp" link="/contents/heroskills">Assault (cry)</entry>
+        <entry image="gameres/infobar/skills/Euphoria.bmp" link="/contents/heroskills">Euphoria</entry>
         <entry image="UI/help/health ico.bmp">Health 1300</entry>
         <entry image="UI/help/sattack ico.bmp">Attack 70</entry>
         <entry image="UI/help/defense ico.bmp">Defense 10</entry>
