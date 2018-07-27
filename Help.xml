@@ -120,33 +120,73 @@ Front - Increases the level of the units by 4 (while in formation).
     <topic id="heroskills">
       <entry hcenter="1" font="large">Hero Skills</entry>
       <entry>Unlike units each hero has five skills that are unique to them and their civilization. These improve not only their individual combat abilities but also that of their army.  Some of them are beneficial to the hero and the units attached to the hero.  Other skills are beneficial to the units or help you during your battles.Each time that your hero reaches a  new level, a "+" sign appears on its icon.  This indicates that you can reinforce one of its special characteristics by assigning him additional experience points (to a maximum of 10).  </entry>
+	  <entry>All heroes initially have "Divine Grace" skill and 5 other skills base on their civilization</entry>
       <entry> List of Hero Skills</entry>
       <entry></entry>
+	  <entry hcenter="1" >Passive Skills: The effect of these skills is always activated </entry>
       <entry image="gameres/infobar/skills/Administration.bmp">Administartion - Increases the maximum number of warriors attached to the hero by 2 per skill point</entry>
-      <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 second plus 1 additional second per skill point</entry>
-      <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 seconds)</entry>
-      <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 second plus 1 additional second per skill point</entry>
-      <entry image="gameres/infobar/skills/Charge.bmp">Charge - When used increases the stamina of all attached warriors by 1 per skill point</entry>
-      <entry image="gameres/infobar/skills/Concealment.bmp">Concealment - Every attached warrior has a 2% chance per skill point to evade an enemy attack</entry>
-      <entry image="gameres/infobar/skills/DefensiveCry.bmp">Defensive Cry - When used increases the armor of all attached warriors by 20 for 1 second plus 2 additional second per skill point</entry>
+	  
+	  <entry image="gameres/infobar/skills/Concealment.bmp">Concealment - Every attached warrior has a 2% chance per skill point to evade an enemy attack</entry>
+	  
       <entry image="gameres/infobar/skills/Discipline.bmp">Discipline - Increases the level of every attached warrior so it is at least 2 plus the number of skill points</entry>
+	  
       <entry image="gameres/infobar/skills/Egoism.bmp">Egoism - Once every 5 seconds the hero steals up to 20 health points per skill point from a random warrior attached to him</entry>
+	  
       <entry image="gameres/infobar/skills/EpicAttack.bmp">Epic Attack - Increases the hero's damage by 5 per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/EpicArmor.bmp">Epic Armor - Increases the hero's armor by 2 per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/EpicEndurance.bmp">Epic Endurance - Increases the hero's maximum health by 100 health points per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/Euphoria.bmp"> Euphoria - Every attached warrior has a 10% chance per skill point to gain 3 stamina upon killing an enemy</entry>
-      <entry image="gameres/infobar/skills/Frenzy.bmp">Frenzy - When used halves the health and doubles the damage of all attached warriors for 1 second plus 1 additional second per skill point</entry>
-      <entry image="gameres/infobar/skills/Healing.bmp">Healing - When used restores 10 health points per skill point to all attached warriors</entry>
-      <entry image="gameres/infobar/skills/Leadership.bmp">Leadership - Increases the experience the hero provides to his attached warriors by 2% per skill point</entry>
+	  
+	  <entry image="gameres/infobar/skills/Leadership.bmp">Leadership - Increases the experience the hero provides to his attached warriors by 2% per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/QuickMarch.bmp">Quick March - Increases the speed of every attached warrior by 5% per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/Recovery.bmp"> Recovery - Every attached warrior has a 10% chance per skill point to restore 5 additional health points while eating</entry>
-      <entry image="gameres/infobar/skills/Rush.bmp">Rush - When used increases the stamina of all attached warriors by 1 per skill point, while decreasing their health by 5 per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/Scout.bmp">Scout - Increases the hero's sight by 50 per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/Survival.bmp"> Survival - Attached warriors have a 10% chance per skill point to eat without spending food</entry>
+	  
       <entry image="gameres/infobar/skills/TeamAttack.bmp">Team Attack - Increases the damage of every attached warrior by 1 per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/TeamDefense.bmp">Team Defense - Increases the armor of every attached warrior by 1 per skill point</entry>
+	  
       <entry image="gameres/infobar/skills/Vigor.bmp"> Vigor - Increases the chance of attached warriors getting 1 additional stamina while eating (by 10% per skill point) </entry>
+	  
       <entry image="gameres/infobar/skills/Wisdom.bmp"> Wisdom - Each time an attached warrior dies the hero has a 5% chance per skill point to gain 1 experience </entry>
+	  
+	  <entry hcenter="1" >Active Skills: Must use stamina to activate the effect of these skills</entry>
+	  
+      <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 second plus 1 additional second per skill point</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 6</entry>
+	  
+      <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 seconds)</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 6</entry>
+	  
+      <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 second plus 1 additional second per skill point</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 6</entry>
+	  
+      <entry image="gameres/infobar/skills/Charge.bmp">Charge - When used increases the stamina of all attached warriors by 1 per skill point</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 6</entry>
+	  
+      <entry image="gameres/infobar/skills/DefensiveCry.bmp">Defensive Cry - When used increases the armor of all attached warriors by 20 for 1 second plus 2 additional second per skill point</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 4</entry>
+	  
+	  <entry image="gameres/infobar/skills/Wisdom.bmp"> Divine Grace - Restores 100 of the hero's health </entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 4</entry>
+	  
+      <entry image="gameres/infobar/skills/Frenzy.bmp">Frenzy - When used halves the health and doubles the damage of all attached warriors for 1 second plus 1 additional second per skill point</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 4</entry>
+	  
+      <entry image="gameres/infobar/skills/Healing.bmp">Healing - When used restores 10 health points per skill point to all attached warriors</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 6</entry>
+	  
+      <entry image="gameres/infobar/skills/Rush.bmp">Rush - When used increases the stamina of all attached warriors by 1 per skill point, while decreasing their health by 5 per skill point</entry>
+	  <entry image="UI/InfoBar/common/stamina ico.bmp" link="stamina">Cost Stamina: 4</entry>
+	  
       <entry hcenter="1" font="large">See Also</entry>
       <entry link="/contents/heroes">Heroes</entry>
       <entry link="/contents/stats/level">Level</entry>
@@ -227,46 +267,54 @@ For example, if a gladiator with 10 Armor is attacked by a Tribune with 40 Damag
     </topic>
     <!--Specials-->
     <topic id="specials">
-      <entry hcenter="1" font="large">Special Unit abilities</entry>
-      <entry image="gameres/infobar/unit specials/active.bmp">Active - The warrior restores stamina twice as fast</entry>
-      <entry image="gameres/infobar/unit specials/attack skill.bmp">Attack Skill - Increases the warrior's damage by twice his current stamina</entry>
-      <entry image="gameres/infobar/unit specials/bleeding attack.bmp">Bleeding attack - The enemy attacked by the warrior loses 10% of his health in addition to the inflicted damage (does not work on heroes)</entry>
-      <entry image="gameres/infobar/unit specials/_bless.bmp">Bless - temporary blesses the target so that it deals double damage.</entry>
-      <entry image="gameres/infobar/unit specials/charge.bmp">Charge - The warrior deals 8 times his normal damage (after enemy armor is applied). The time since the warrior's last attack must be at least 10 seconds
+      <entry hcenter="1" font="large">Special unit abilities</entry>
+	  <entry></entry>
+	  <entry>Almost unit abilities need stamina to automatically activate</entry>
+      <entry image="gameres/infobar/unit specials/active.bmp">Active
+	  Stamina cost: 0
+	  The warrior restores stamina twice as fast</entry>
+      <entry image="gameres/infobar/unit specials/attack skill.bmp">Attack Skill
+	  Stamina cost: 1
+	  Increases the warrior's damage by twice his current stamina</entry>
+      <entry image="gameres/infobar/unit specials/bleeding attack.bmp">Bleeding attack
+	  Stamina cost: 1
+	  The enemy attacked by the warrior loses 10% of his health in addition to the inflicted damage (does not work on heroes)</entry>
+      <entry image="gameres/infobar/unit specials/_bless.bmp">Bless - This ability is not used in the game - temporary blesses the target so that it deals double damage.</entry>
+      <entry image="gameres/infobar/unit specials/charge.bmp">Charge - Stamina cost: 4 - The warrior deals 8 times his normal damage (after enemy armor is applied). The time since the warrior's last attack must be at least 10 seconds
 </entry>
-      <entry image="gameres/infobar/unit specials/combat skill.bmp">Combat skill - Each time the warrior damages an enemy he receives 1 stamina point</entry>
-      <entry image="gameres/infobar/unit specials/cripple.bmp">Cripple - The target loses all of its stamina</entry>
-      <entry image="gameres/infobar/unit specials/curse.bmp">Curse - Curses the warrior to miss his next attack</entry>
-      <entry image="gameres/infobar/unit specials/death blow.bmp">Death blow - Kills the target if it has 50% or less health left after the damage is applied (does not work on heroes)</entry>
-      <entry image="gameres/infobar/unit specials/defense skill.bmp">Defense Skill - Increases the warrior's armor by twice his current stamina</entry>
-      <entry image="gameres/infobar/unit specials/defensive tactics.bmp">Defensive Tactics - Adds the warrior's level to his armor</entry>
-      <entry image="gameres/infobar/unit specials/deflection.bmp">Deflection - Avoids enemy attacks</entry>
-      <entry image="gameres/infobar/unit specials/determination.bmp">Determination - Increases the warrior's stamina by 1 each time an enemy hits him</entry>
-      <entry image="gameres/infobar/unit specials/disease attack.bmp">Disease Attack - The warrior infects his target with a disease upon dealing damage</entry>
-      <entry image="gameres/infobar/unit specials/drain.bmp">Drain - Reduces the enemy's stamina by 2 each time the warriors hits</entry>
-      <entry image="gameres/infobar/unit specials/expertise.bmp">Expertise - Instantly kills an enemy when the warrior damage is increased after adjustments with enemy armor and level modifier (does not work on heroes)</entry>
-      <entry image="gameres/infobar/unit specials/ferocity.bmp">Ferocity - The warrior fully restores his stamina upon killing an enemy</entry>
-      <entry image="gameres/infobar/unit specials/freedom.bmp">Freedom - The warrior cannot be attached to a hero</entry>
-      <entry image="gameres/infobar/unit specials/healing.bmp">Healing - Heals the target with 20 plus the level of the healer</entry>
-      <entry image="gameres/infobar/unit specials/invisibility.bmp">Invisibility - Hides the target from the eyes of all enemies</entry>
-      <entry image="gameres/infobar/unit specials/keen sight.bmp">Keen Sight - Reveals all hidden enemies in sight</entry>
+      <entry image="gameres/infobar/unit specials/combat skill.bmp">Combat skill - Stamina cost: 0 - Each time the warrior damages an enemy he receives 1 stamina point</entry>
+      <entry image="gameres/infobar/unit specials/cripple.bmp">Cripple - Stamina cost: 1 - The target loses all of its stamina</entry>
+      <entry image="gameres/infobar/unit specials/curse.bmp">Curse - Stamina cost: 1 - Curses the warrior to miss his next attack</entry>
+      <entry image="gameres/infobar/unit specials/death blow.bmp">Death blow - Stamina cost: 4 - Kills the target if it has 50% or less health left after the damage is applied (does not work on heroes)</entry>
+      <entry image="gameres/infobar/unit specials/defense skill.bmp">Defense Skill - Stamina cost: 1 - Increases the warrior's armor by twice his current stamina</entry>
+      <entry image="gameres/infobar/unit specials/defensive tactics.bmp">Defensive Tactics - Stamina cost: 1 - Adds the warrior's level to his armor</entry>
+      <entry image="gameres/infobar/unit specials/deflection.bmp">Deflection - Stamina cost: 1 - Avoids enemy attacks</entry>
+      <entry image="gameres/infobar/unit specials/determination.bmp">Determination - This ability is not used in the game - Increases the warrior's stamina by 1 each time an enemy hits him</entry>
+      <entry image="gameres/infobar/unit specials/disease attack.bmp">Disease Attack - Stamina cost: 1 - The warrior infects his target with a disease upon dealing damage</entry>
+      <entry image="gameres/infobar/unit specials/drain.bmp">Drain - Stamina cost: 1 - Reduces the enemy's stamina by 2 each time the warriors hits</entry>
+      <entry image="gameres/infobar/unit specials/expertise.bmp">Expertise - Stamina cost: 4 - Instantly kills an enemy when the warrior damage is increased after adjustments with enemy armor and level modifier (does not work on heroes)</entry>
+      <entry image="gameres/infobar/unit specials/ferocity.bmp">Ferocity - Stamina cost: 0 - The warrior fully restores his stamina upon killing an enemy</entry>
+      <entry image="gameres/infobar/unit specials/freedom.bmp">Freedom - Stamina cost: 0 - The warrior cannot be attached to a hero</entry>
+      <entry image="gameres/infobar/unit specials/healing.bmp">Healing - Stamina cost: 1 - Heals the target with 20 plus the level of the healer</entry>
+      <entry image="gameres/infobar/unit specials/invisibility.bmp">Invisibility - Stamina cost: 2 - Hides the target from the eyes of all enemies</entry>
+      <entry image="gameres/infobar/unit specials/keen sight.bmp">Keen Sight - Stamina cost: 0 - Reveals all hidden enemies in sight</entry>
       <entry image="gameres/infobar/unit specials/learning.bmp">Learning - The warrior receives 1 experience when attacking a more experienced enemy</entry>
-      <entry image="gameres/infobar/unit specials/life steal.bmp">Life Steal - Increases the warrior's health by the amount of damage he inflicts</entry>
-      <entry image="gameres/infobar/unit specials/offensive tactics.bmp">Offensive Tactics - Adds the warrior's level to his damage                             </entry>
-      <entry image="gameres/infobar/unit specials/parry.bmp">Parry - When activated the warrior does not deal damage but gains 1 stamina instead. Enemy attacks are deflected for 1 stamina each</entry>
-      <entry image="gameres/infobar/unit specials/penetration.bmp">Penetration - The warrior ignores the enemy armor and Deflection special</entry>
-      <entry image="gameres/infobar/unit specials/power strike.bmp">Power Strike - Kills the target with one strike if the target is damaged and its maximum health is twice less than that of the warrior (does not work on heroes)</entry>
-      <entry image="gameres/infobar/unit specials/rage.bmp">Rage - Increases the warrior's damage by the amount of health he has above 50%. That health, however, is lost after the attack (does not work against heroes)</entry>
-      <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - The warrior restores 20 health every 5 seconds
+      <entry image="gameres/infobar/unit specials/life steal.bmp">Life Steal - Stamina cost: 1 - Increases the warrior's health by the amount of damage he inflicts</entry>
+      <entry image="gameres/infobar/unit specials/offensive tactics.bmp">Offensive Tactics - Stamina cost: 1 - Adds the warrior's level to his damage                             </entry>
+      <entry image="gameres/infobar/unit specials/parry.bmp">Parry - Stamina cost: 0 (On/Off) - When activated the warrior does not deal damage but gains 1 stamina instead. Enemy attacks are deflected for 1 stamina each</entry>
+      <entry image="gameres/infobar/unit specials/penetration.bmp">Penetration - Stamina cost: 1 - The warrior ignores the enemy armor and Deflection special</entry>
+      <entry image="gameres/infobar/unit specials/power strike.bmp">Power Strike - Stamina cost: 4 - Kills the target with one strike if the target is damaged and its maximum health is twice less than that of the warrior (does not work on heroes)</entry>
+      <entry image="gameres/infobar/unit specials/rage.bmp">Rage - Stamina cost: 4 - Increases the warrior's damage by the amount of health he has above 50%. That health, however, is lost after the attack (does not work against heroes)</entry>
+      <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - Stamina cost: 4 - The warrior restores 20 health every 5 seconds
 </entry>
-      <entry image="gameres/infobar/unit specials/revenge.bmp">Revenge - When the warrior is killed by an enemy in melee, that enemy suffers 100 damage</entry>
-      <entry image="gameres/infobar/unit specials/sneak.bmp">Sneak - The warrior becomes hidden if he remains idle for 20 seconds</entry>
-      <entry image="gameres/infobar/unit specials/spike armor.bmp">Spike damage - Returns the melee damage to the attacker</entry>
-      <entry image="gameres/infobar/unit specials/teaching.bmp">Teaching - Gives 1 experience to an ally</entry>
-      <entry image="gameres/infobar/unit specials/toughness.bmp">Toughness - The warrior's health increases by 5 points per level</entry>
-      <entry image="gameres/infobar/unit specials/trample.bmp">Trample damage - Inflicts damage to all surrounding enemies</entry>
-      <entry image="gameres/infobar/unit specials/triple strike.bmp">Triple Strike - The warrior triples his damage</entry>
-      <entry image="gameres/infobar/unit specials/triumph.bmp">Triumph - The warrior gets healed upon killing an enemy</entry>
+      <entry image="gameres/infobar/unit specials/revenge.bmp">Revenge - Stamina cost: 0 - When the warrior is killed by an enemy in melee, that enemy suffers 100 damage</entry>
+      <entry image="gameres/infobar/unit specials/sneak.bmp">Sneak - Stamina cost: 0 - The warrior becomes hidden if he remains idle for 20 seconds</entry>
+      <entry image="gameres/infobar/unit specials/spike armor.bmp">Spike damage - Stamina cost: 1 - Returns the melee damage to the attacker</entry>
+      <entry image="gameres/infobar/unit specials/teaching.bmp">Teaching - Stamina cost: 1 - Gives 1 experience to an ally (limited level)</entry>
+      <entry image="gameres/infobar/unit specials/toughness.bmp">Toughness - Stamina cost: 0 - The warrior's health increases by 5 points per level</entry>
+      <entry image="gameres/infobar/unit specials/trample.bmp">Trample damage - Stamina cost: 0 - Inflicts damage to all surrounding enemies</entry>
+      <entry image="gameres/infobar/unit specials/triple strike.bmp">Triple Strike - Stamina cost: 1 - The warrior triples his damage</entry>
+      <entry image="gameres/infobar/unit specials/triumph.bmp">Triumph - Stamina cost: 3 - The warrior gets healed upon killing an enemy</entry>
     </topic>
     <!--Notes-->
     <topic id="notes">
