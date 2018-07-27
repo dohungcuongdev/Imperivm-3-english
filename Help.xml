@@ -123,19 +123,19 @@ Front - Increases the level of the units by 4 (while in formation).
       <entry> List of Hero Skills</entry>
       <entry></entry>
       <entry image="gameres/infobar/skills/Administration.bmp">Administartion - Increases the maximum number of warriors attached to the hero by 2 per skill point</entry>
-      <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 sec plus 1 additional sec per skill point</entry>
-      <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 sec)</entry>
-      <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 sec plus 1 additional sec per skill point</entry>
+      <entry image="gameres/infobar/skills/Assault.bmp">Assault (cry) - When used allows all attached warriors to ignore enemy armor for 1 second plus 1 additional second per skill point</entry>
+      <entry image="gameres/infobar/skills/BattleCry.bmp">Battle Cry - When used increases the level of every attached warrior by 1 per skill point (for 5 seconds)</entry>
+      <entry image="gameres/infobar/skills/Ceasefire.bmp"> Ceasefire - When used attached warriors do not inflict or suffer damage for 1 second plus 1 additional second per skill point</entry>
       <entry image="gameres/infobar/skills/Charge.bmp">Charge - When used increases the stamina of all attached warriors by 1 per skill point</entry>
       <entry image="gameres/infobar/skills/Concealment.bmp">Concealment - Every attached warrior has a 2% chance per skill point to evade an enemy attack</entry>
-      <entry image="gameres/infobar/skills/DefensiveCry.bmp">Defensive Cry - When used increases the armor of all attached warriors by 20 for 1 sec plus 2 additional sec per skill point</entry>
+      <entry image="gameres/infobar/skills/DefensiveCry.bmp">Defensive Cry - When used increases the armor of all attached warriors by 20 for 1 second plus 2 additional second per skill point</entry>
       <entry image="gameres/infobar/skills/Discipline.bmp">Discipline - Increases the level of every attached warrior so it is at least 2 plus the number of skill points</entry>
-      <entry image="gameres/infobar/skills/Egoism.bmp">Egoism - Once every 5 sec the hero steals up to 20 health points per skill point from a random warrior attached to him</entry>
+      <entry image="gameres/infobar/skills/Egoism.bmp">Egoism - Once every 5 seconds the hero steals up to 20 health points per skill point from a random warrior attached to him</entry>
       <entry image="gameres/infobar/skills/EpicAttack.bmp">Epic Attack - Increases the hero's damage by 5 per skill point</entry>
       <entry image="gameres/infobar/skills/EpicArmor.bmp">Epic Armor - Increases the hero's armor by 2 per skill point</entry>
       <entry image="gameres/infobar/skills/EpicEndurance.bmp">Epic Endurance - Increases the hero's maximum health by 100 health points per skill point</entry>
       <entry image="gameres/infobar/skills/Euphoria.bmp"> Euphoria - Every attached warrior has a 10% chance per skill point to gain 3 stamina upon killing an enemy</entry>
-      <entry image="gameres/infobar/skills/Frenzy.bmp">Frenzy - When used halves the health and doubles the damage of all attached warriors for 1 sec plus 1 additional sec per skill point</entry>
+      <entry image="gameres/infobar/skills/Frenzy.bmp">Frenzy - When used halves the health and doubles the damage of all attached warriors for 1 second plus 1 additional second per skill point</entry>
       <entry image="gameres/infobar/skills/Healing.bmp">Healing - When used restores 10 health points per skill point to all attached warriors</entry>
       <entry image="gameres/infobar/skills/Leadership.bmp">Leadership - Increases the experience the hero provides to his attached warriors by 2% per skill point</entry>
       <entry image="gameres/infobar/skills/QuickMarch.bmp">Quick March - Increases the speed of every attached warrior by 5% per skill point</entry>
@@ -260,7 +260,7 @@ For example, if a gladiator with 10 Armor is attacked by a Tribune with 40 Damag
       <entry image="gameres/infobar/unit specials/regeneration.bmp">Regeneration - The warrior restores 20 health every 5 seconds
 </entry>
       <entry image="gameres/infobar/unit specials/revenge.bmp">Revenge - When the warrior is killed by an enemy in melee, that enemy suffers 100 damage</entry>
-      <entry image="gameres/infobar/unit specials/sneak.bmp">Sneak - The warrior becomes hidden if he remains idle for 20 sec</entry>
+      <entry image="gameres/infobar/unit specials/sneak.bmp">Sneak - The warrior becomes hidden if he remains idle for 20 seconds</entry>
       <entry image="gameres/infobar/unit specials/spike armor.bmp">Spike damage - Returns the melee damage to the attacker</entry>
       <entry image="gameres/infobar/unit specials/teaching.bmp">Teaching - Gives 1 experience to an ally</entry>
       <entry image="gameres/infobar/unit specials/toughness.bmp">Toughness - The warrior's health increases by 5 points per level</entry>
