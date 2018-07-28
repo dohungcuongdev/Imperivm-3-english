@@ -3400,10 +3400,10 @@ Allows enchantresses to gain experience by learning from more experienced warrio
 Cost: 1000 gold; Time 40 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/summon wolf.bmp">Wolf Summoning (requires Ritual Chamber) 
 Allows druids to sacrifice themselves and summon a wolf, which remains under your control for about 3 minutes
-Cost: 1200 gold; Time 20 sec      </entry>
+Cost: 400 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/summon eagle.bmp">Eagle Summoning (requires Ritual Chamber)
 Allows druids to sacrifice themselves and summon an eagle, which is under your control for about 2 minutes
-Cost: 400 gold; Time 20 sec      </entry>
+Cost: 1200 gold; Time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/research/Mass Healing.bmp">Mass Healing (requires Ritual Chamber)
 Allows druids to sacrifices themselves to heal nearby allies
 Cost: 1500 gold; Time 20 sec      </entry>
