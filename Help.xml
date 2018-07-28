@@ -2060,11 +2060,14 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts/Stops automatic training of units in the stronghold.
+Start automatic training of units in the stronghold.
 				</entry>
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Military Training.bmp">Military Training 
-Increase the level (with 1) of all friendly units in and around the Townhall.
-Cost: 1200 gold; Time: instantly
+Adds 1 level to all allies around the townhall (up to level 10).
+Cost: 800 gold; Time: instantly
 				</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2077,12 +2080,15 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/ICmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+        <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Healing.bmp">Healing
 Restores 2000 health between the friendly warriors around the townhall
-Cost: 500 gold; Time: instantly
+Cost: 1000 gold; Time: instantly
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2095,9 +2101,12 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/GCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+        <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Refreshment.bmp">Refreshment
 Restores the stamina of all friendly warriors around the townhall
 Cost: 600 gold; Time: instantly
@@ -2113,12 +2122,15 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/RCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+                <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
-        <entry vcenter="1" image="UI/Help/RCmdBar/actions/Military Training.bmp">Military Training 
-Increase the level (with 1) of all friendly units in and around the Townhall.
-Cost: 1200 gold; Time: instantly
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
+        <entry vcenter="1" image="UI/Help/CCmdBar/actions/Military Training.bmp">Military Training 
+Adds 1 level to all allies around the townhall (up to level 10).
+Cost: 800 gold; Time: instantly
 				</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2131,12 +2143,15 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+                <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
-        <entry vcenter="1" image="UI/Help/MCmdBar/actions/Military Training.bmp">Military Training 
-Increase the level (with 1) of all friendly units in and around the Townhall.
-Cost: 1200 gold; Time: instantly
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
+        <entry vcenter="1" image="UI/Help/CCmdBar/actions/Military Training.bmp">Military Training 
+Adds 1 level to all allies around the townhall (up to level 10).
+Cost: 800 gold; Time: instantly
 				</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
@@ -2149,9 +2164,12 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/ECmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+        <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2163,9 +2181,12 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/BCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+                <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Refreshment.bmp">Refreshment
 Restores the stamina of all friendly warriors around the townhall
 Cost: 600 gold; Time: instantly
@@ -2181,12 +2202,15 @@ The townhall is the most important structure of a stronghold. It is there that u
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Create Mule Food.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 food</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Create Mule Gold.bmp" link="/contents/units/mule">Loads a caravan with up to 1,000 gold</entry>
-        <entry vcenter="1" image="UI/Help/TCmdBar/actions/autotrainingStart.bmp">Automatic Training 
-Starts automatic training of units in the stronghold.
+                <entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStart.bmp">Automatic Training 
+Start automatic training of units in the stronghold.
 				</entry>
-        <entry vcenter="1" image="UI/Help/TCmdBar/actions/Military Training.bmp">Military Training 
-Increase the level (with 1) of all friendly units in and around the Townhall.
-Cost: 1200 gold; Time: instantly
+		<entry vcenter="1" image="UI/Help/CCmdBar/actions/autotrainingStop.bmp">Stop Automatic Training 
+Stop automatic training of units in the stronghold.
+		</entry>
+        <entry vcenter="1" image="UI/Help/CCmdBar/actions/Military Training.bmp">Military Training 
+Adds 1 level to all allies around the townhall (up to level 10).
+Cost: 800 gold; Time: instantly
 				</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
