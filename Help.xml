@@ -2261,18 +2261,18 @@ Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IMilitiaman.bmp" link="/contents/units/IMilitiaman">
 Equip Militiaman
-Cost: 50 gold; Time: 1 - 6 sec
+Cost: 50 gold; 1 peasant; Time: 1 - 6 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IArcher.bmp" link="/contents/units/IArcher">Equip Archer
-Cost: 60 gold; Time 2 - 10 sec      </entry>
+Cost: 60 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train ISlinger.bmp" link="/contents/units/ISlinger">Equip Slinger 
-Cost: 200 gold; Time 3 - 16 sec      </entry>
+Cost: 200 gold; 1 peasant; Time 3 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IDefender.bmp" link="/contents/units/IDefender">Equip Defender 
-Cost: 140 gold; Time 2 - 16 sec                                  </entry>
+Cost: 140 gold; 1 peasant; Time 2 - 16 sec                                  </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train ICavalry.bmp" link="/contents/units/ICavalry">Equip Cavalry 
-Cost: 140 gold; Time 2 - 20 sec                                  </entry>
+Cost: 140 gold; 1 peasant; Time 2 - 20 sec                                  </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IEliteGuard.bmp" link="/contents/units/IEliteGuard">Equip Elite Guard 
-Cost: 300 gold; Time 3 - 20 sec      </entry>
+Cost: 300 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2287,17 +2287,17 @@ Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gswordsman.bmp" link="/contents/units/GSwordsman">Equip Swordsman
-Cost: 60 gold; Time 1 - 6 sec      </entry>
+Cost: 60 gold; 1 peasant; Time 1 - 6 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train garcher.bmp" link="/contents/units/GArcher">Equip Archer
-Cost: 50 gold; Time 2 - 10 sec      </entry>
+Cost: 50 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gaxeman.bmp" link="/contents/units/GAxeman">Equip Axeman
-Cost: 150 gold; Time 2 - 16 sec  </entry>
+Cost: 150 gold; 1 peasant; Time 2 - 16 sec  </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gspearman.bmp" link="/contents/units/GSpearman">Equip Spearman
-Cost: 120 gold; Time 2 - 16 sec  </entry>
+Cost: 120 gold; 1 peasant; Time 2 - 16 sec  </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train ghorseman.bmp" link="/contents/units/GHorseman">Equip Horseman
-Cost: 160 gold; Time 3 - 20 sec      </entry>
+Cost: 160 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train GWomanWarrior.bmp" link="/contents/units/GWWarrior">Equip Woman Warrior
-Cost: 220 gold; Time 3 - 20 sec      </entry>
+Cost: 220 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2312,17 +2312,17 @@ Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rhastatus.bmp" link="/contents/units/RHastatus">Equip Hastatus
-Cost: 100 gold; Time 1 - 6 sec      </entry>
+Cost: 100 gold; 1 peasant; Time 1 - 6 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rarcher.bmp" link="/contents/units/RArcher">Equip Archer
-Cost: 80 gold; Time 2 - 10 sec      </entry>
+Cost: 80 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rgladiator.bmp" link="/contents/units/RGladiator">Equip Gladiator
-Cost: 200 gold; Time 2 - 10 sec      </entry>
+Cost: 200 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rprinciple.bmp" link="/contents/units/RPrinciple">Equip Principle
-Cost: 200 gold; Time 3 - 20 sec      </entry>
+Cost: 200 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rscout.bmp" link="/contents/units/RScout">Equip Scout
-Cost: 120 gold; Time 2 - 10 sec      </entry>
+Cost: 120 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rtribune.bmp" link="/contents/units/RTribune">Equip Tribune
-Cost: 300 gold; Time 3 - 20 sec      </entry>
+Cost: 300 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/hire rchariot.bmp" link="/contents/units/RChariot">Equip Chariot
 Cost: 400 gold; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">Repair (visible when damaged)
@@ -2339,17 +2339,17 @@ Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rhastatus.bmp" link="/contents/units/MHastatus">Equip Hastatus
-Cost: 100 gold; Time 1 - 6 sec      </entry>
+Cost: 100 gold; 1 peasant; Time 1 - 6 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rarcher.bmp" link="/contents/units/MArcher">Equip Archer
-Cost: 80 gold; Time 2 - 10 sec      </entry>
+Cost: 80 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rvelit.bmp" link="/contents/units/MVelit">Equip Velit
-Cost: 120 gold; Time 2 - 14 sec      </entry>
+Cost: 120 gold; 1 peasant; Time 2 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rprinciple.bmp" link="/contents/units/MPrinciple">Equip Principle
-Cost: 200 gold; Time 2 - 16 sec      </entry>
+Cost: 200 gold; 1 peasant; Time 2 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rscout.bmp" link="/contents/units/MScout">Equip Scout
-Cost: 120 gold; Time 3 - 20 sec      </entry>
+Cost: 120 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rpraetorian.bmp" link="/contents/units/MPraetorian">Equip Praetorian
-Cost: 400 gold; Time 3 - 20 sec      </entry>
+Cost: 400 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2364,17 +2364,17 @@ Upgrade efficiency I, II: reduce hire time by 50%, 75%
 Cost: 500 (500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bswordsman.bmp" link="/contents/units/BSwordsman">Equip Swordsman
-Cost: 50 gold; Time 2 - 8 sec      </entry>
+Cost: 50 gold; 1 peasant; Time 2 - 8 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bbowman.bmp" link="/contents/units/BBowman">Equip Bowman
-Cost: 60 gold; Time 1 - 4 sec      </entry>
+Cost: 60 gold; 1 peasant; Time 1 - 4 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BBronzeSpearman.bmp" link="/contents/units/BBronzeSpearman">Equip Bronze Spearman
-Cost: 160 gold; Time 2 - 10 sec      </entry>
+Cost: 160 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BShieldBearer.bmp" link="/contents/units/BShieldBearer">Equip Shield Bearer
-Cost: 140 gold; Time 2 - 10 sec      </entry>
+Cost: 140 gold; 1 peasant; Time 2 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BJavelineer.bmp" link="/contents/units/BJavelineer">Equip Javelineer
-Cost: 140 gold; Time 3 - 12 sec      </entry>
+Cost: 140 gold; 1 peasant; Time 3 - 12 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train BHighlander.bmp" link="/contents/units/BHighlander">Equip Highlander
-Cost: 400 gold; Time 3 - 20 sec      </entry>
+Cost: 400 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/Repair.bmp">Repair (visible when damaged)
 Cost: 500 gold; Time: 60 sec
 				</entry>
@@ -2389,19 +2389,19 @@ Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train eswordsman.bmp" link="/contents/units/ESwordsman">Equip Swordsman 
-Cost: 80 gold; Time 2 - 8 sec      </entry>
+Cost: 80 gold; 1 peasant; Time 2 - 8 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train earcher.bmp" link="/contents/units/EArcher">Equip Archer 
-Cost: 60 gold; Time 2 - 8 sec      </entry>
+Cost: 60 gold; 1 peasant; Time 2 - 8 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train Eaxetrower.bmp" link="/contents/units/EAxeThrower">Equip Axe Thrower 
-Cost: 180 gold; Time 3 - 12 sec      </entry>
+Cost: 180 gold; 1 peasant; Time 3 - 12 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train EAnubisWarrior.bmp" link="/contents/units/EAnubisWarrior">Equip Anubis Warrior
-Cost: 260 gold; Time 3 - 16 sec      </entry>
+Cost: 260 gold; 1 peasant; Time 3 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train EHorusWarrior.bmp" link="/contents/units/EHorusWarrior">Equip Horus Warrior
-Cost: 260 gold; Time 3 - 16 sec      </entry>
+Cost: 260 gold; 1 peasant; Time 3 - 16 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train EGuardian.bmp" link="/contents/units/EGuardian">Equip Guardian
-Cost: 260 gold; Time 3 - 20 sec      </entry>
+Cost: 260 gold; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/Repair.bmp">Repair (visible when damaged)
-Cost: 500 gold; Time: 60 sec
+Cost: 500 gold; 1 peasant; Time: 60 sec
 				</entry>
       </topic>
       <topic id="TBarracks">
@@ -2414,19 +2414,19 @@ Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tswordsman.bmp" link="/contents/units/TSwordsman">Equip Swordsman
-Cost: 120 food; Time 3 - 10 sec      </entry>
+Cost: 120 food; 1 peasant; Time 3 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tarcher.bmp" link="/contents/units/TArcher">Equip Archer
-Cost: 200 food; Time 3 - 10 sec      </entry>
+Cost: 200 food; 1 peasant; Time 3 - 10 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train taxeman.bmp" link="/contents/units/TAxeman">Equip Axeman
-Cost: 300 food; Time 3 - 14 sec      </entry>
+Cost: 300 food; 1 peasant; Time 3 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tHuntress.bmp" link="/contents/units/THuntress">Equip Huntress
-Cost: 400 food; Time 3 - 14 sec      </entry>
+Cost: 400 food; 1 peasant; Time 3 - 14 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train TTeutonRider.bmp" link="/contents/units/TTeutonRider">Equip Teuton Rider
-Cost: 400 food; Time 3 - 20 sec      </entry>
+Cost: 400 food; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train TMaceman.bmp" link="/contents/units/TMaceman">Equip Maceman
-Cost: 500 food; Time 3 - 20 sec      </entry>
+Cost: 500 food; 1 peasant; Time 3 - 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/Repair.bmp">Repair (visible when damaged)
-Cost: 500 gold; Time: 60 sec
+Cost: 500 gold; 1 peasant; Time: 60 sec
 				</entry>
       </topic>
       <!--Blacksmiths-->
@@ -3219,7 +3219,7 @@ Cost: 2000 gold; Time 20 sec      </entry>
 Allows Nobles to be equipped in the Temple
 Cost: 4000 gold; Time 30 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/train CNoble.bmp" link="/contents/units/CNoble">Equip Noble (requires Sacred Legion) 
-Cost: 420 gold; 10 peasant; Base hire time 20 sec      </entry>
+Cost: 420 gold; 1 peasant; Base hire time 20 sec      </entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/research/ferocity.bmp">  Ferocity (requires Dark Rituals) 
 Allows a warrior to restores 3 stamina each time he kills an enemy
 Cost: 3000 gold; Time 30 sec      </entry>
