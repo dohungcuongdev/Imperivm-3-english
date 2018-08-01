@@ -2223,7 +2223,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/CCmdBar/actions/hire CLibyanFootman.bmp" link="/contents/units/CLibyanFootman">
@@ -2256,7 +2256,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ICmdBar/actions/train IMilitiaman.bmp" link="/contents/units/IMilitiaman">
@@ -2283,7 +2283,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/GCmdBar/actions/train gswordsman.bmp" link="/contents/units/GSwordsman">Equip Swordsman
@@ -2308,7 +2308,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/RCmdBar/actions/train rhastatus.bmp" link="/contents/units/RHastatus">Equip Hastatus
@@ -2335,7 +2335,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/MCmdBar/actions/train rhastatus.bmp" link="/contents/units/MHastatus">Equip Hastatus
@@ -2360,8 +2360,8 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
-Cost: 500 (500, 500) gold; Time: 60 sec
+Upgrade efficiency I, II: reduce hire time by 50%, 75%
+Cost: 500 (500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/BCmdBar/actions/train bswordsman.bmp" link="/contents/units/BSwordsman">Equip Swordsman
 Cost: 50 gold; Time 2 - 8 sec      </entry>
@@ -2385,7 +2385,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/ECmdBar/actions/train eswordsman.bmp" link="/contents/units/ESwordsman">Equip Swordsman 
@@ -2410,7 +2410,7 @@ Cost: 500 gold; Time: 60 sec
 The barracks are a training ground where a villager is made into a warrior. The building can exist only within the stronghold. In order for barracks to produce the specified type of warrior his equipment must already be created in the town blacksmith.</entry>
         <entry font="large">Commands</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/upgrades/barrack1.bmp">
-Upgrade efficiency I, II, III: reduce hire time
+Upgrade efficiency I, II, III: reduce hire time by 50%, 75%, 87%
 Cost: 500 (500, 500) gold; Time: 60 sec
 				</entry>
         <entry vcenter="1" image="UI/Help/TCmdBar/actions/train tswordsman.bmp" link="/contents/units/TSwordsman">Equip Swordsman
